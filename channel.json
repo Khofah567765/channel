@@ -1,14 +1,18 @@
 {
   "channels": [
     {
-      "name": "Big Buck Bunny (Test Video)",
-      "logo": "https://i.imgur.com/8m515Oq.png",
-      "url": "https://storage.googleapis.com/wvmedia/clear/h264/tears/tears.mpd"
+      "name": "Channel 1",
+      "hlsUrl": "https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8",
+      "mpdUrl": "YOUR_MPD_LINK_1",
+      "keyId": "YOUR_KEY_ID_1",
+      "keyValue": "YOUR_KEY_VALUE_1"
     },
     {
-      "name": "Sintel (Blender Foundation)",
-      "logo": "https://i.imgur.com/8m515Oq.png",
-      "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+      "name": "Channel 2",
+      "hlsUrl": "YOUR_HLS_LINK_2",
+      "mpdUrl": "https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/6fbnr3ei4b/out/v1/57d2ae96a4cc4230881cd801b389edf6/cenc.mpd",
+      "keyId": "9afd72f20573001c23672d2158892a5f",
+      "keyValue": "9bc32df48a2efac30072b7e5c683bcd1"
     }
   ]
 }
