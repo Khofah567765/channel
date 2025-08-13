@@ -1,0 +1,14 @@
+{
+  "channels": [
+    {
+      "name": "Big Buck Bunny (Test Video)",
+      "logo": "https://i.imgur.com/8m515Oq.png",
+      "url": "https://storage.googleapis.com/wvmedia/clear/h264/tears/tears.mpd"
+    },
+    {
+      "name": "Sintel (Blender Foundation)",
+      "logo": "https://i.imgur.com/8m515Oq.png",
+      "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+    }
+  ]
+}
