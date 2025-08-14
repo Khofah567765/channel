@@ -78,19 +78,43 @@
     ]
   },
   {
-    "categoryTitle": "Liga Futebol",
+    "categoryTitle": "SPORTS",
     "channels": [
       {
-        "title": "AFF ASEAN U23 (Ingles)",
+        "title": "AFF ASEAN U23",
         "description": "15 Jullu - 29 Jullu 2025",
         "imageUrl": "https://i.ytimg.com/vi/6BguoM3Q_YQ/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGBMgMyh_MA8=&rs=AOn4CLDhimAdRzTjo2_7VeL0y5x4n8LGKw",
         "intentUrl": "intent://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd|drmScheme=clearkey&drmLicense=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
       },
       {
-        "title": "Live Liga Inglesa",
-        "description": "Kanal Foka ba Jogu sira seluk",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",
-        "intentUrl": "intent://a151aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd|User-Agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chromecast/107.0.5304.91 Mobile Safari/537.36&drmScheme=clearkey&drmLicense=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
+        "title": "BEIN SPORTS 1",
+        "description": "NONE",
+        "imageUrl": "https://www.visionplus.id/images/repository/567/200567-SNAPSHOT-m.png",
+        "intentUrl": "intent://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd|drmScheme=clearkey&drmLicense=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
+      },
+          {
+        "title": "BEIN SPORTS 2",
+        "description": "NONE",
+        "imageUrl": "https://www.visionplus.id/images/repository/568/200568-SNAPSHOT-m.png",
+        "intentUrl": "intent://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd|drmScheme=clearkey&drmLicense=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
+      },
+          {
+        "title": "BEIN SPORTS 3",
+        "description": "NONE",
+        "imageUrl": "https://www.visionplus.id/images/repository/569/200569-SNAPSHOT-m.png",
+        "intentUrl": "intent://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd|drmScheme=clearkey&drmLicense=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
+      },
+          {
+        "title": "BEIN SPORTS 4",
+        "description": "NONE",
+        "imageUrl": "https://www.visionplus.id/images/repository/789/204789-SNAPSHOT-m.png",
+        "intentUrl": "intent://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd|drmScheme=clearkey&drmLicense=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
+      },
+         {
+        "title": "BEIN SPORTS 5",
+        "description": "NONE",
+        "imageUrl": "https://www.visionplus.id/images/repository/790/204790-SNAPSHOT-m.png",
+        "intentUrl": "intent://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd|drmScheme=clearkey&drmLicense=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
       },
       {
         "title": "Live Liga Espanha",
