@@ -44,12 +44,7 @@
         "imageUrl": "https://thumbor.prod.vidiocdn.com/48F9olniTUdrKcUoUrq-4U45A00=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg",
         "intentUrl": "intent://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8|&User-Agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36 Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
       },
-      {
-        "title": "RCTI",
-        "description": "NONE",
-        "imageUrl": "https://www.visionplus.id/images/repository/515/59515-SNAPSHOT-m.png",
-        "intentUrl": "intent://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd|drmScheme=clearkey&drmLicense=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
-      },
+      
       {
         "title": "Quarter Finals",
         "description": "Komesa Semana Oin",
