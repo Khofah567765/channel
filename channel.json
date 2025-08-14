@@ -7,7 +7,7 @@
         "description": "19 Jullu 2025\nHaree orariu kompleta iha Google",
         "imageUrl": "https://ringmagazine.com/_next/image?url=https%3A%2F%2Fthankful-crystal-c5f59294d4.media.strapiapp.com%2F07_19_PPV_1920x1080_web_e59418f263.jpg&w=1920&q=75",
         "intentUrl": ""
-      },
+      }
       {
         "title": "Quarter Finals",
         "description": "Komesa Semana Oin",
@@ -15,7 +15,7 @@
         "intentUrl": ""
       }
     ]
-  },
+  }
   {
     "categoryTitle": "Liga Futebol",
     "channels": [
@@ -24,25 +24,25 @@
         "description": "15 Jullu - 29 Jullu 2025",
         "imageUrl": "https://i.ytimg.com/vi/6BguoM3Q_YQ/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGBMgMyh_MA8=&rs=AOn4CLDhimAdRzTjo2_7VeL0y5x4n8LGKw",
         "intentUrl": "intent://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd|drmScheme=clearkey&drmLicense=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
-      },
+      }
       {
         "title": "Live Liga Inglesa",
         "description": "Kanal Foka ba Jogu sira seluk",
         "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",
         "intentUrl": "intent://a151aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd|User-Agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chromecast/107.0.5304.91 Mobile Safari/537.36&drmScheme=clearkey&drmLicense=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
-      },
+      }
       {
         "title": "Live Liga Espanha",
         "description": "Kanal Foka ba Jogu sira seluk",
         "imageUrl": "https://logowik.com/content/uploads/images/laliga-2023-2024-new3252.logowik.com.webp",
         "intentUrl": "intent://a166aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd|User-Agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleCoreMedia/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chromecast/107.0.5304.91 Mobile Safari/537.36&drmScheme=clearkey&drmLicense=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
-      },
+      }
       {
         "title": "Live Liga Alemanha",
         "description": "Kanal Foka ba Jogu sira seluk",
         "imageUrl": "https://www.idman.biz/media/2024/07/16/1920x1280/bundesliga.webp?v=1721130454",
         "intentUrl": "intent://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8|User-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8& Vinebre#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
-      },
+      }
       {
         "title": "Live Liga Italia",
         "description": "Kanal Foka ba Jogu sira seluk",
@@ -50,7 +50,7 @@
         "intentUrl": "intent://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd|User-Agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36&drmScheme=clearkey&drmLicense=eb5a3a48f3e191a00e3ac1e2d470c491:2c8b7198563527e524d66628c092ef1f#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
       }
     ]
-  },
+  }
   {
     "categoryTitle": "Kanal TV",
     "channels": [
