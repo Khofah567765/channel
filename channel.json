@@ -120,7 +120,7 @@
         "title": "SPORTSTARS",
         "description": "NONE",
         "imageUrl": "https://www.visionplus.id/images/repository/309/437309-SNAPSHOT-m.png",
-        "intentUrl": "intent:d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd|drmScheme=clearkey&drmLicense=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
+        "intentUrl": "intent://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd|drmScheme=clearkey&drmLicense=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
       },
           {
         "title": "SPORTSTARS 2",
