@@ -30,7 +30,7 @@
         "title": "ANTV",
         "description": "NONE",
         "imageUrl": "https://www.visionplus.id/images/repository/517/59517-SNAPSHOT-m.png",
-        "intentUrl": "intent://fta1-cdn-flr.visionplus.id/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd|drmScheme=clearkey&drmLicense=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
+        "intentUrl": "intent://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd|drmScheme=clearkey&drmLicense=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
       },
       {
         "title": "SCTV",
