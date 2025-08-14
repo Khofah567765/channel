@@ -38,6 +38,18 @@
         "description": "NONE",
         "imageUrl": "https://www.visionplus.id/images/repository/523/59523-SNAPSHOT-m.png",
         "intentUrl": "intent://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd|drmScheme=clearkey&drmLicense=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
+      },
+          {
+        "title": "TRANS7",
+        "description": "NONE",
+        "imageUrl": "https://www.visionplus.id/images/repository/522/59522-SNAPSHOT-m.png",
+        "intentUrl": "intent://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd|drmScheme=clearkey&drmLicense=78477d2156944b7cb35762a47973aa9c:31805b3c0d03080f9ed33411258e5baf#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
+      },
+           {
+        "title": "TRANSTV",
+        "description": "NONE",
+        "imageUrl": "https://www.visionplus.id/images/repository/521/59521-SNAPSHOT-m.png",
+        "intentUrl": "intent://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd|drmScheme=clearkey&drmLicense=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
       }
     ]
   },
