@@ -134,7 +134,7 @@
         "imageUrl": "https://i.ibb.co.com/5jZV4sq/20240822-195224.jpg",
         "intentUrl": "intent://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd|drmScheme=widevine&drmLicense=https://bintangstreaming.my.id/rcti_plus/index.drm?id=114#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
       },
-          {
+        {
         "title": "SPORTSTARS 4",
         "description": "NONE",
         "imageUrl": "https://i.ibb.co.com/YywxRRJ/20240822-195246.jpg",
@@ -145,6 +145,48 @@
         "description": "NONE",
         "imageUrl": "https://www.visionplus.id/images/repository/306/437306-SNAPSHOT-m.png",
         "intentUrl": "intent://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|drmScheme=clearkey&drmLicense=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
+      },
+          {
+        "title": "SPOTV",
+        "description": "NONE",
+        "imageUrl": "https://www.visionplus.id/images/repository/307/437307-SNAPSHOT-m.png",
+        "intentUrl": "intent://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd|drmScheme=clearkey&drmLicense=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
+      },
+          {
+        "title": "SPOTV 2",
+        "description": "NONE",
+        "imageUrl": "https://www.visionplus.id/images/repository/308/437308-SNAPSHOT-m.png",
+        "intentUrl": "intent://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd|drmScheme=clearkey&drmLicense=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
+      },
+         {
+        "title": "Champions TV 1",
+        "description": "NONE",
+        "imageUrl": "https://thumbor.prod.vidiocdn.com/1PckWcoQXl-g_FBjYQhnCdPN0-Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg",
+        "intentUrl": "intent://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17938&type=dash|drmScheme=clearkey&drmLicense=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
+      },
+          {
+        "title": "Champions TV 2",
+        "description": "NONE",
+        "imageUrl": "https://thumbor.prod.vidiocdn.com/ppVgoSYgif_dG_03jAtlQdaRvnQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-58cc4d.jpg",
+        "intentUrl": "intent://sweet-night-1d1d.worst.workers.dev/?id=17939&type=dash|drmScheme=clearkey&drmLicense=2187f9c470c459fdaf2970758c078589:6cde66e87bb899781fc1d9675a7ce9f0#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
+      },
+          {
+        "title": "Champions TV 3",
+        "description": "NONE",
+        "imageUrl": "https://thumbor.prod.vidiocdn.com/YgfXn6LPm60xbOwnKYX37R56PpQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-7898f2.jpg",
+        "intentUrl": "intent://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd|drmScheme=clearkey&drmLicense=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
+      },
+          {
+        "title": "BEIN SPORTS 4",
+        "description": "NONE",
+        "imageUrl": "https://www.visionplus.id/images/repository/789/204789-SNAPSHOT-m.png",
+        "intentUrl": "intent://d6m3sfa7e58z5.cloudfront.net/out/v1/2e55bc8199044c27b1dbb827af65a04f/index.mpd|drmScheme=clearkey&drmLicense=aef1823177ad40199de440504d992ad5:b95c919408eec7663214a9a67af831ba#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
+      },
+         {
+        "title": "BEIN SPORTS 5",
+        "description": "NONE",
+        "imageUrl": "https://www.visionplus.id/images/repository/790/204790-SNAPSHOT-m.png",
+        "intentUrl": "intent://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd|drmScheme=clearkey&drmLicense=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
       },
       {
         "title": "Live Liga Espanha",
