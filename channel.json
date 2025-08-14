@@ -16,6 +16,23 @@
       }
     ]
   },
+{
+    "categoryTitle": "Eventu Espesial",
+    "channels": [
+      {
+        "title": "Boxing: Pacquiao vs Barrios",
+        "description": "19 Jullu 2025\nHaree orariu kompleta iha Google",
+        "imageUrl": "https://ringmagazine.com/_next/image?url=https%3A%2F%2Fthankful-crystal-c5f59294d4.media.strapiapp.com%2F07_19_PPV_1920x1080_web_e59418f263.jpg&w=1920&q=75",
+        "intentUrl": ""
+      },
+      {
+        "title": "Quarter Finals",
+        "description": "Komesa Semana Oin",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT17waUfO3dHURK40tmMJsQGRE6SXdCEZ-B3Q&s",
+        "intentUrl": ""
+      }
+    ]
+  },
   {
     "categoryTitle": "Liga Futebol",
     "channels": [
