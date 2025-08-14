@@ -27,12 +27,6 @@
         "intentUrl": "intent://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd|drmScheme=clearkey&drmLicense=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
       },
       {
-        "title": "ANTV",
-        "description": "NONE",
-        "imageUrl": "https://www.visionplus.id/images/repository/517/59517-SNAPSHOT-m.png",
-        "intentUrl": "intent://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd|drmScheme=clearkey&drmLicense=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
-      },
-      {
         "title": "SCTV",
         "description": "NONE",
         "imageUrl": "https://thumbor.prod.vidiocdn.com/PUohBJxY8EMdzVWBNXsMhMe3QOE=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-f23abc.jpg",
