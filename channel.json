@@ -116,6 +116,36 @@
         "imageUrl": "https://www.visionplus.id/images/repository/790/204790-SNAPSHOT-m.png",
         "intentUrl": "intent://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd|drmScheme=clearkey&drmLicense=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
       },
+         {
+        "title": "SPORTSTARS",
+        "description": "NONE",
+        "imageUrl": "https://www.visionplus.id/images/repository/309/437309-SNAPSHOT-m.png",
+        "intentUrl": "intent:d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd|drmScheme=clearkey&drmLicense=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
+      },
+          {
+        "title": "SPORTSTARS 2",
+        "description": "NONE",
+        "imageUrl": "https://www.visionplus.id/images/repository/310/437310-SNAPSHOT-m.png",
+        "intentUrl": "intent://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd|drmScheme=clearkey&drmLicense=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
+      },
+          {
+        "title": "SPORTSTARS 3",
+        "description": "NONE",
+        "imageUrl": "https://i.ibb.co.com/5jZV4sq/20240822-195224.jpg",
+        "intentUrl": "intent://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd|drmScheme=com.widevine.alpha&drmLicense=https://bintangstreaming.my.id/rcti_plus/index.drm?id=114#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
+      },
+          {
+        "title": "SPORTSTARS 4",
+        "description": "NONE",
+        "imageUrl": "https://i.ibb.co.com/YywxRRJ/20240822-195246.jpg",
+        "intentUrl": "intent://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd|drmScheme=clearkey&drmLicense=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
+      },
+         {
+        "title": "BEIN SPORTS 5",
+        "description": "NONE",
+        "imageUrl": "https://www.visionplus.id/images/repository/790/204790-SNAPSHOT-m.png",
+        "intentUrl": "intent://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd|drmScheme=clearkey&drmLicense=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
+      },
       {
         "title": "Live Liga Espanha",
         "description": "Kanal Foka ba Jogu sira seluk",
