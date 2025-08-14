@@ -32,6 +32,12 @@
         "description": "NONE",
         "imageUrl": "https://www.visionplus.id/images/repository/514/59514-SNAPSHOT-m.png",
         "intentUrl": "intent://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd|drmScheme=clearkey&drmLicense=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
+      },
+         {
+        "title": "TVONE",
+        "description": "NONE",
+        "imageUrl": "https://contentcdn.visionplus.id/crop/600/plain/https://www.visionplus.id/images/repository/966/49966-SNAPSHOT-l.png",
+        "intentUrl": "intent://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd|drmScheme=clearkey&drmLicense=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
       }
     ]
   },
