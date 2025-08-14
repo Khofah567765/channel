@@ -132,7 +132,7 @@
         "title": "SPORTSTARS 3",
         "description": "NONE",
         "imageUrl": "https://i.ibb.co.com/5jZV4sq/20240822-195224.jpg",
-        "intentUrl": "intent://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd|drmScheme=com.widevine.alpha&drmLicense=https://bintangstreaming.my.id/rcti_plus/index.drm?id=114#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
+        "intentUrl": "intent://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd|drmScheme=widevine&drmLicense=https://bintangstreaming.my.id/rcti_plus/index.drm?id=114#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
       },
           {
         "title": "SPORTSTARS 4",
@@ -141,10 +141,10 @@
         "intentUrl": "intent://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd|drmScheme=clearkey&drmLicense=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
       },
          {
-        "title": "BEIN SPORTS 5",
+        "title": "SOCCER CHANNEL",
         "description": "NONE",
-        "imageUrl": "https://www.visionplus.id/images/repository/790/204790-SNAPSHOT-m.png",
-        "intentUrl": "intent://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/index.mpd|drmScheme=clearkey&drmLicense=c48c8e48dba24420b5dcef9f5b847b12:daad0aeb165b9a26b706f2a261b8fafe#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
+        "imageUrl": "https://www.visionplus.id/images/repository/306/437306-SNAPSHOT-m.png",
+        "intentUrl": "intent://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|drmScheme=clearkey&drmLicense=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5#Intent;scheme=https;type=video/*;package=com.genuine.leone;S.browser_fallback_url=market://details?id=com.genuine.leone.ad;S.title=LIVETV;end"
       },
       {
         "title": "Live Liga Espanha",
