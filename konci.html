@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>DASH DRM Fix Player</title>
+    <script src="https://cdn.jsdelivr.net/npm/shaka-player@4.3.5/dist/shaka-player.compiled.js"></script>
+    <style>
+        /* Gaya dasar agar video terlihat di layar */
+        #videoElement {
+            width: 80%; 
+            max-width: 800px;
+            height: auto;
+            display: block;
+            margin: 20px auto;
+            border: 1px solid #ccc;
+        }
+    </style>
+</head>
+<body>
+
+    <h2 style="text-align: center;">Video DASH Terenkripsi via Cloudflare Worker</h2>
+    <video id="videoElement" controls autoplay muted></video>
+
+    <script>
+        // --- 1. Konfigurasi Endpoint Worker Anda ---
+        const WORKER_URL_BASE = 'https://anonim.asique121212.workers.dev';
+        const MPD_URL = WORKER_URL_BASE + '/manifest.mpd';
+        const LICENSE_URL = WORKER_URL_BASE + '/license';
+
+        function initApp() {
+            // 2. Inisialisasi Player
+            const video = document.getElementById('videoElement');
+            const player = new shaka.Player(video);
+            
+            player.addEventListener('error', onError);
+
+            // 3. Konfigurasi DRM yang Diperbaiki
+            player.configure({
+                drm: {
+                    servers: {
+                        // Wajib ada: Arahkan Widevine ke endpoint kunci Worker Anda
+                        'com.widevine.alpha': LICENSE_URL, 
+                        // Wajib ada: Arahkan PlayReady ke endpoint kunci Worker Anda
+                        'com.microsoft.playready': LICENSE_URL 
+                    },
+                    // Opsi Tambahan: Definisikan server ClearKey secara eksplisit.
+                    // Ini membantu browser memahami Worker Anda sebagai penyedia ClearKey.
+                    'clearkey': {
+                        serverURL: LICENSE_URL
+                    }
+                    // Catatan: Jika Player memblokir karena CORS, 
+                    // pastikan Worker Anda memiliki header 'Access-Control-Allow-Origin: *'
+                }
+            });
+
+            // 4. Muat Manifes MPD dari Worker
+            player.load(MPD_URL)
+                .then(() => {
+                    console.log('Streaming terenkripsi berhasil dimuat dan diputar!');
+                    // Video seharusnya mulai otomatis karena 'autoplay'
+                })
+                .catch(onError);
+        }
+
+        function onError(error) {
+            // Tampilkan error yang terjadi
+            const errorCode = error.detail ? error.detail.code : error.code;
+            const errorText = error.detail ? error.detail.message : error.message;
+
+            console.error('Shaka Error Code:', errorCode);
+            console.error('Detail Error:', errorText);
+            
+            // Tampilkan pesan yang ramah pengguna
+            document.getElementById('videoElement').poster = 'https://via.placeholder.com/800x450?text=STREAMING+GAGAL';
+            alert(`Gagal Memutar Video. Cek konsol browser (F12) untuk kode error:\nCode: ${errorCode}\nDetail: ${errorText}`);
+        }
+
+        // Jalankan inisialisasi ketika DOM sudah dimuat
+        document.addEventListener('DOMContentLoaded', initApp);
+    </script>
+</body>
+</html>
