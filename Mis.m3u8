@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Indonesia",DEFAULT=YES,URI="https://vdrk.b-cdn.net/cache/movie/575265/Indonesian.vtt",LANGUAGE="id"
+
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,SUBTITLES="subs"
+https://queenselti.me/bf2590bc-37ff-467c-9eda-6ee324823f79/f_0/uwu.m3u8
