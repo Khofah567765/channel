@@ -1,0 +1,34 @@
+name: Kora Repo Sync
+
+on:
+  schedule:
+    - cron: '*/10 * * * *' # Jalan setiap 10 menit
+  workflow_dispatch: # Bisa dijalankan manual
+
+jobs:
+  scrape_and_commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Penting agar bot bisa nge-push hasil
+    steps:
+      - name: 📂 Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: 📦 Install Dependencies
+        run: pip install requests
+
+      - name: 🚀 Run Scraper
+        run: python kora_scraper.py
+
+      - name: 💾 Commit and Push Results
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add kora_results.json
+          git commit -m "Update Kora Stream Links: $(date)" || echo "No changes to commit"
+          git push
