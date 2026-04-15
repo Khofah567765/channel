@@ -23,7 +23,7 @@ jobs:
         run: pip install requests
 
       - name: 🚀 Run Scraper
-        run: python kora_scraper.py
+        run: python kora.py
 
       - name: 💾 Commit and Push Results
         run: |
