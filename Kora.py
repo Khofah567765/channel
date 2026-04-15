@@ -2,22 +2,24 @@ import json
 import time
 import requests
 import hashlib
+import re
 
 def hash_id(string):
     return hashlib.sha256(string.encode()).hexdigest()[:16]
 
 def run_scraper():
-    print("🛰️ Memulai Scraper Kora (Output: Local File)...")
+    print("🛰️ Memulai Scraper Kora Agresif...")
     
     today_str = time.strftime("%Y-%m-%d")
+    # Gunakan endpoint web untuk memancing data lebih segar jika ada
     KORA_URL = f"https://ws.kora-api.space/api/matches/{today_str}/1"
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
-        'Referer': 'https://vsys.kora-top.zip/'
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+        'Referer': 'https://vsys.kora-top.zip/',
+        'Origin': 'https://vsys.kora-top.zip/'
     }
 
     try:
-        # 1. Ambil daftar match
         res_main = requests.get(KORA_URL, headers=headers, timeout=15).json()
         matches = res_main.get('matches', [])
     except Exception as e:
@@ -28,51 +30,67 @@ def run_scraper():
 
     for m in matches:
         match_id = m.get('id')
-        print(f"🔍 Fetching ID: {match_id}")
+        print(f"🔍 Mencari link untuk: {m.get('home_en')} vs {m.get('away_en')} (ID: {match_id})")
         
         link_stream = ""
         try:
-            # 2. Ambil detail link
-            res_detail = requests.get(f"https://ws.kora-api.space/api/match/{match_id}", headers=headers, timeout=15).json()
+            # Fetch detail dengan timeout lebih santai
+            detail_url = f"https://ws.kora-api.space/api/match/{match_id}"
+            res_detail = requests.get(detail_url, headers=headers, timeout=15).json()
             
-            if res_detail.get('match', {}).get('stream_url'):
-                link_stream = res_detail['match']['stream_url']
-            elif res_detail.get('streams'):
-                streams = res_detail['streams']
-                m3u8 = next((s['url'] for s in streams if 'm3u8' in s.get('url', '')), None)
-                link_stream = m3u8 if m3u8 else (streams[0].get('url') if streams else "")
-            elif res_detail.get('match', {}).get('player_code'):
-                import re
-                found = re.search(r'http[^"\']+\.m3u8', res_detail['match']['player_code'])
-                if found: link_stream = found.group(0)
-        except:
-            pass
+            # --- STRATEGI 1: Cek field stream_url langsung ---
+            match_obj = res_detail.get('match', {})
+            if match_obj.get('stream_url'):
+                link_stream = match_obj['stream_url']
+            
+            # --- STRATEGI 2: Cek di dalam array streams ---
+            if not link_stream and res_detail.get('streams'):
+                for s in res_detail['streams']:
+                    url = s.get('url', '')
+                    if url and ('m3u8' in url or 'http' in url):
+                        link_stream = url
+                        break
+            
+            # --- STRATEGI 3: Ekstrak dari player_code (Iframe) ---
+            if not link_stream and match_obj.get('player_code'):
+                p_code = match_obj['player_code']
+                # Cari pola URL m3u8 atau link source di dalam string HTML
+                found = re.search(r'(https?://[^\s\'"]+\.m3u8[^\s\'"]*)', p_code)
+                if not found:
+                    found = re.search(r'src=["\'](https?://[^\s\'"]+)["\']', p_code)
+                
+                if found:
+                    link_stream = found.group(1)
+
+        except Exception as e:
+            print(f"⚠️ Detail error untuk ID {match_id}: {e}")
 
         clean_id = hash_id(f"{match_id}{today_str}kora")
         
-        # Susun data sesuai struktur yang kamu inginkan
+        # Tentukan status berdasarkan apakah link ditemukan
+        status_text = "live" if link_stream else "scheduled"
+
         channels_data[clean_id] = {
             "channelName": f"{m.get('home_en')} vs {m.get('away_en')}",
             "contentType": "event_pertandingan",
-            "status": "live" if link_stream else "scheduled",
+            "status": status_text,
             "streamUrl": link_stream,
             "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
         }
-        time.sleep(1) # Jeda sopan
+        # Jeda 1.5 detik agar tidak dianggap spamming
+        time.sleep(1.5)
 
-    # Gabungkan ke struktur final
     final_output = {
         "category_name": "EVENT BEIN ARAB",
         "order": 2,
         "channels": channels_data
     }
 
-    # 3. Simpan ke file JSON
     with open('kora_results.json', 'w', encoding='utf-8') as f:
         json.dump(final_output, f, indent=4)
     
-    print(f"✅ Selesai! {len(channels_data)} match disimpan ke kora_results.json")
+    print(f"✅ Selesai! {len(channels_data)} pertandingan diproses.")
 
 if __name__ == "__main__":
     run_scraper()
