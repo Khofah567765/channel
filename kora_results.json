@@ -22,16 +22,6 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "22f54fc46403991090bf2a5964b95a06": {
-            "channelName": "Al-Nassr vs Al-Ettifaq",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/alwan3.m3u8?token=GrtlSfuOuITMdRmbKCxPpw&expires=1776295589",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1565008227.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1582237044.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "166f1e6f1763ff0176c09f9459d1d864": {
             "channelName": "Racing Club vs Botafogo",
             "contentType": "event_pertandingan",
@@ -45,7 +35,7 @@
         "a71991631970b9215aa1c6f48eb7e2a7": {
             "channelName": "Cruzeiro vs U. Catolica",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/tv1.m3u8?token=QilMfNXcYhBpkZ5NYeUH2g&expires=1776295592",
+            "streamUrl": "https://a5.kora-plus.dad/watch/tv1.m3u8?token=I1picdH-PFzNkwSoT173Og&expires=1776298219",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1688249348.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/2994.png",
@@ -65,7 +55,7 @@
         "e2ea209dfaa0913842b84eda67440e0b": {
             "channelName": "Olimpia vs Barracas Central",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a5.kora-plus.dad/watch/br6.m3u8?token=btKxBIPQUlU-RTdLY1XyUw&expires=1776295595",
+            "streamUrl": "https://a1.kora-plus.dad/watch/br6.m3u8?token=2I9PHv3TGnQADdIOqqxsbw&expires=1776298222",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1182.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/2432.png",
@@ -95,7 +85,7 @@
         "6e0db0c0d2e7d59e93c70c0bba956672": {
             "channelName": "Fluminense vs Independ. Rivadavia",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a5.kora-plus.dad/watch/br2.m3u8?token=Dnfe3HV8C8R7l1HNvQspCA&expires=1776295599",
+            "streamUrl": "https://a3.kora-plus.dad/watch/br2.m3u8?token=VHi5O2zFVkhwWUbXIsEIRw&expires=1776298226",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1688200083.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/473.png",
@@ -105,7 +95,7 @@
         "1867f07ae90657251f887423ad2eedab": {
             "channelName": "Los Angeles Galaxy vs Toluca",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/hd5.m3u8?token=E5sE6r-ZJgjR-m3Xkzx1fw&expires=1776295601",
+            "streamUrl": "https://a3.kora-plus.dad/watch/hd5.m3u8?token=xn-YUHY0f6NN-cxd6ICbbg&expires=1776298228",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1690321380.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/2281.png",
@@ -125,7 +115,7 @@
         "fc43521147877a558b3bccfb0778d7a5": {
             "channelName": "Seattle Sounders FC vs Tigres UANL",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/hd5.m3u8?token=-tmjaj_8Skd7riyQK3iaAw&expires=1776295604",
+            "streamUrl": "https://a3.kora-plus.dad/watch/hd5.m3u8?token=WsMSS9YqVdlhvW5MBUcQkg&expires=1776298231",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1675502613.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1612443557.jpg",
@@ -155,7 +145,7 @@
         "26d5ff389839b0123fa26284cfac8e26": {
             "channelName": "Club Bolivar vs Deportivo La Guaira",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/br6.m3u8?token=RCnMXEL-rdN6Dd7PAV08MA&expires=1776295608",
+            "streamUrl": "https://a5.kora-plus.dad/watch/br6.m3u8?token=FMpzbXoMHr57KkgsPBqOLQ&expires=1776298235",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1583845442.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/2813.png",
@@ -185,7 +175,7 @@
         "925412b621c1d60b3fb5fd0cc2cc30a1": {
             "channelName": "Cruz Azul vs Los Angeles FC",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/hd5.m3u8?token=wm0B5r7IVZJJ4hm2Dvt1Ww&expires=1776295612",
+            "streamUrl": "https://a5.kora-plus.dad/watch/hd5.m3u8?token=h864C7yrjGHb1MwI4lyu1Q&expires=1776298238",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/2295.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1616.png",
@@ -195,7 +185,7 @@
         "7915edde808b8340228a6c0ea44a18b5": {
             "channelName": "LDU Quito vs Mirassol",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/br3.m3u8?token=q0lb8rStysF62ie4uIodEg&expires=1776295614",
+            "streamUrl": "https://a5.kora-plus.dad/watch/br3.m3u8?token=si_imIo2gCLQC8dgD-3HgA&expires=1776298240",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1566244552.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/7848.png",
@@ -215,10 +205,20 @@
         "31b1726555b735a700ea130427193806": {
             "channelName": "Club America vs Nashville SC",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/hd5.m3u8?token=vDM0J1WNku36PZpqshM35A&expires=1776295617",
+            "streamUrl": "https://a4.kora-plus.dad/watch/hd5.m3u8?token=YTqdf3OJH6eApk9TITwyFA&expires=1776298242",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1658315402.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/9569.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "22f54fc46403991090bf2a5964b95a06": {
+            "channelName": "Al-Nassr vs Al-Ettifaq",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a2.kora-plus.dad/watch/alwan3.m3u8?token=B1p-VnfiLAKtpOnEmC0cHw&expires=1776298244",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1565008227.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1582237044.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
