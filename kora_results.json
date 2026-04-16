@@ -2,40 +2,10 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "50065d1c94188b4e76e3f459bdca5e04": {
-            "channelName": "Racing Club vs Botafogo",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1571257110.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/120.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "88eda3ac1b1f527349713920f57bc043": {
-            "channelName": "Cruzeiro vs U. Catolica",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/tv1.m3u8?token=gXyRPHyxn9sx24-lFZ7ZNQ&expires=1776301275",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1688249348.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/2994.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "28c7ea4b9eb6f164798a17ae2bb07050": {
-            "channelName": "Libertad Asuncion vs Rosario Central",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1179.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/437.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "6b0da75d4c02299325ec5b4ebe500cba": {
             "channelName": "Olimpia vs Barracas Central",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/br6.m3u8?token=7tlqWnZ-gfelviqVHTMbZA&expires=1776301278",
+            "streamUrl": "https://a1.kora-plus.dad/watch/br6.m3u8?token=99iPWNYaAaSvW5J7qhfYKg&expires=1776314630",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1182.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/2432.png",
@@ -65,7 +35,7 @@
         "83d31f804f9d5857a6f6b243ff5245dd": {
             "channelName": "Fluminense vs Independ. Rivadavia",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a5.kora-plus.dad/watch/br2.m3u8?token=jaLTi7vt8e2nu6ze4yzZJg&expires=1776301282",
+            "streamUrl": "https://a5.kora-plus.dad/watch/br2.m3u8?token=Xt-y2Q3vTayDvTXGLi8rJw&expires=1776314634",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1688200083.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/473.png",
@@ -75,7 +45,7 @@
         "e5f5c2e768ed0334b43e22638665cc24": {
             "channelName": "Los Angeles Galaxy vs Toluca",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/hd5.m3u8?token=MQ1yPvVTNluNDaRpGE18EA&expires=1776301284",
+            "streamUrl": "https://a2.kora-plus.dad/watch/hd5.m3u8?token=IKASC57svp6HRGy06C7Hlg&expires=1776314636",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1690321380.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/2281.png",
@@ -95,7 +65,7 @@
         "661bc0ce5f4c7eb7b07b30c09d803f26": {
             "channelName": "Seattle Sounders FC vs Tigres UANL",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/hd5.m3u8?token=yO_3P1AY9TbiBeuy-Hk_oQ&expires=1776301287",
+            "streamUrl": "https://a1.kora-plus.dad/watch/hd5.m3u8?token=J9-fOIz5-SPX-YST8DfwcQ&expires=1776314640",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1675502613.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1612443557.jpg",
