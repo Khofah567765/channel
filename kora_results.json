@@ -2,10 +2,60 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
+        "2e4ed5021ff6492816aae2b411ef99e1": {
+            "channelName": "River Plate vs Carabobo FC",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1566245104.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/2810.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "a4982a6ec33c139ad5d9c90a6f3909c4": {
+            "channelName": "Corinthians vs Santa Fe",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1570934037.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1139.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "83d31f804f9d5857a6f6b243ff5245dd": {
+            "channelName": "Fluminense vs Independ. Rivadavia",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a3.kora-plus.dad/watch/br2.m3u8?token=jeCMeST_dabS_jZvvYG3vA&expires=1776328086",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1688200083.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/473.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "e5f5c2e768ed0334b43e22638665cc24": {
+            "channelName": "Los Angeles Galaxy vs Toluca",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a5.kora-plus.dad/watch/hd5.m3u8?token=GjckvmTg9JpyrYs6dMUubA&expires=1776328087",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1690321380.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/2281.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "425cb05fea42bbf30819611f219befec": {
+            "channelName": "Independiente del Valle vs UCV",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1153.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/2840.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "661bc0ce5f4c7eb7b07b30c09d803f26": {
             "channelName": "Seattle Sounders FC vs Tigres UANL",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/hd5.m3u8?token=SRf0txu6Dg6fYEjUykqyAA&expires=1776322332",
+            "streamUrl": "https://a3.kora-plus.dad/watch/hd5.m3u8?token=JvReIh87Nj52gqcI50lBOA&expires=1776328090",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1675502613.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1612443557.jpg",
@@ -125,60 +175,10 @@
         "6b0da75d4c02299325ec5b4ebe500cba": {
             "channelName": "Olimpia vs Barracas Central",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/br6.m3u8?token=5NM07gefPHUdk0MBuiOqnQ&expires=1776322346",
+            "streamUrl": "https://a3.kora-plus.dad/watch/br6.m3u8?token=7jyPfFCXxj1GW9Jz_zjaZw&expires=1776328105",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1182.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/2432.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "2e4ed5021ff6492816aae2b411ef99e1": {
-            "channelName": "River Plate vs Carabobo FC",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1566245104.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/2810.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "a4982a6ec33c139ad5d9c90a6f3909c4": {
-            "channelName": "Corinthians vs Santa Fe",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1570934037.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1139.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "83d31f804f9d5857a6f6b243ff5245dd": {
-            "channelName": "Fluminense vs Independ. Rivadavia",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/br2.m3u8?token=FQdDV9PThstx1T78fT7_Ig&expires=1776322350",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1688200083.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/473.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "e5f5c2e768ed0334b43e22638665cc24": {
-            "channelName": "Los Angeles Galaxy vs Toluca",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/hd5.m3u8?token=UJIDboWmD99P9c5guXNhMw&expires=1776322351",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1690321380.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/2281.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "425cb05fea42bbf30819611f219befec": {
-            "channelName": "Independiente del Valle vs UCV",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1153.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/2840.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
