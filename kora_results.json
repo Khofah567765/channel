@@ -2,46 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "d34f57598196e37f23f571a431c0b289": {
-            "channelName": "Palmeiras vs Sporting Cristal",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1566243942.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/2546.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "0dc4bb27588dd7fed8d94151189ebb1a": {
-            "channelName": "Lanus vs Always Ready",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/br6.m3u8?token=HsuGSpy2BlMZ6yf-lwKFQQ&expires=1776420219",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/446.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/3700.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "9314c7057df79899b4fc27ff93487cde": {
-            "channelName": "Flamengo vs Independiente Medellin",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1566244935.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1128.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "16b3a9b46a81603afaa9501f67df3603": {
-            "channelName": "RB Bragantino vs Blooming",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/br6.m3u8?token=A8xxsnrHON8BbqPLll8W_Q&expires=1776420222",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1688323660.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/3701.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "91bf73608edd125ebea706b7ae3879f7": {
             "channelName": "Formula 1 vs Formula 1",
             "contentType": "event_pertandingan",
@@ -95,8 +55,8 @@
         "f005396a126e3010d6481a9104952b95": {
             "channelName": "Sassuolo vs Como",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a2.kora-plus.dad/watch/ad1.m3u8?token=nj7VGyeLoFFTtidyTQP6OQ&expires=1776424921",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1558139207.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/895.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -155,8 +115,8 @@
         "26668e0adae2ea9bc646b4b37f7d9cc5": {
             "channelName": "Inter vs Cagliari",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a1.kora-plus.dad/watch/ad1.m3u8?token=-rRrdh5CbZRVNxNdFIz_BA&expires=1776424929",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557751896.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1557535481.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -175,10 +135,30 @@
         "1e11e9c82c8eea37b26c337f73ce42a2": {
             "channelName": "Rio Ave vs AVS",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a2.kora-plus.dad/watch/tv1.m3u8?token=lkL-VD_4oAAPaRitHIXvdw&expires=1776424932",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1612135094.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/21595.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "9314c7057df79899b4fc27ff93487cde": {
+            "channelName": "Flamengo vs Independiente Medellin",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1566244935.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1128.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "16b3a9b46a81603afaa9501f67df3603": {
+            "channelName": "RB Bragantino vs Blooming",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a4.kora-plus.dad/watch/br6.m3u8?token=AA40YA4VRVkHmCN_Gce28A&expires=1776424935",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1688323660.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/3701.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
