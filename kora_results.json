@@ -45,7 +45,7 @@
         "f005396a126e3010d6481a9104952b95": {
             "channelName": "Sassuolo vs Como",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/ad1.m3u8?token=EzkYFL8_fobzPFL5XSfieA&expires=1776445875",
+            "streamUrl": "https://a4.kora-plus.dad/watch/ad1.m3u8?token=YnbYAztgMWr-B7VOpKc4sg&expires=1776449399",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1558139207.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/895.png",
@@ -95,7 +95,7 @@
         "26668e0adae2ea9bc646b4b37f7d9cc5": {
             "channelName": "Inter vs Cagliari",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/ad1.m3u8?token=IfrWCL5KV1b5-XHq1d26uw&expires=1776445882",
+            "streamUrl": "https://a1.kora-plus.dad/watch/ad1.m3u8?token=sQBgpGxYzuOqegYl2s41pA&expires=1776449406",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557751896.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1557535481.png",
@@ -115,7 +115,7 @@
         "1e11e9c82c8eea37b26c337f73ce42a2": {
             "channelName": "Rio Ave vs AVS",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a5.kora-plus.dad/watch/tv1.m3u8?token=lZAfZPiNQFjx2brTg0CrlQ&expires=1776445885",
+            "streamUrl": "https://a2.kora-plus.dad/watch/tv1.m3u8?token=dgMrn4txAo3uE4crBLw2Aw&expires=1776449409",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1612135094.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/21595.png",
@@ -135,7 +135,7 @@
         "16b3a9b46a81603afaa9501f67df3603": {
             "channelName": "RB Bragantino vs Blooming",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/br6.m3u8?token=JQzyXCjXv3Nj94TIuTBsRw&expires=1776445888",
+            "streamUrl": "https://a4.kora-plus.dad/watch/br6.m3u8?token=lBWH8HMcHvxbDPp3egi8pQ&expires=1776449412",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1688323660.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/3701.png",
