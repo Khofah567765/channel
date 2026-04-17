@@ -2,6 +2,16 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
+        "1e11e9c82c8eea37b26c337f73ce42a2": {
+            "channelName": "Rio Ave vs AVS",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a5.kora-plus.dad/watch/tv1.m3u8?token=IHpKAZGPst-tQy6oW_ye4w&expires=1776466635",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1612135094.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/21595.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "e0049eee46d5881b8bdd200277e6ee5c": {
             "channelName": "Machida Zelvia vs Al-Ittihad",
             "contentType": "event_pertandingan",
@@ -12,53 +22,13 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "aaa6ebb225fbd94b422e8d6141014fff": {
-            "channelName": "St. Pauli vs FC Koln",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1589714564.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1566427611.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "83a82adad83d4e1f48f068a6f94c723e": {
-            "channelName": "Lens vs Toulouse",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1599743063.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1566429232.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "26668e0adae2ea9bc646b4b37f7d9cc5": {
             "channelName": "Inter vs Cagliari",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/ad1.m3u8?token=hZUXbVuoDRDs6MwNUAi93A&expires=1776463235",
+            "streamUrl": "https://a1.kora-plus.dad/watch/ad1.m3u8?token=1LJJIcC3wHCOPw_5PgP7kw&expires=1776466638",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557751896.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1557535481.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "6933e9bb4e1d46f9c537216e312c1226": {
-            "channelName": "Blackburn Rovers vs Coventry City",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1566243481.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1605892640.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "1e11e9c82c8eea37b26c337f73ce42a2": {
-            "channelName": "Rio Ave vs AVS",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/tv1.m3u8?token=qrtBHP636nt_xl0pQoj7pA&expires=1776463237",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1612135094.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/21595.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -75,7 +45,7 @@
         "16b3a9b46a81603afaa9501f67df3603": {
             "channelName": "RB Bragantino vs Blooming",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/br6.m3u8?token=OrLqRIRIJYRYJbJAFa4tOw&expires=1776463241",
+            "streamUrl": "https://a3.kora-plus.dad/watch/br6.m3u8?token=jRHMkVCbM344rmWhdN-scg&expires=1776466641",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1688323660.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/3701.png",
@@ -135,7 +105,7 @@
         "f005396a126e3010d6481a9104952b95": {
             "channelName": "Sassuolo vs Como",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/ad1.m3u8?token=6JLH0pKlodgYf35B-13QCA&expires=1776463248",
+            "streamUrl": "https://a3.kora-plus.dad/watch/ad1.m3u8?token=uN0Nal2JdrhrJBPwsQ3RVQ&expires=1776466650",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1558139207.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/895.png",
@@ -159,6 +129,36 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1564441995.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1572482198.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "aaa6ebb225fbd94b422e8d6141014fff": {
+            "channelName": "St. Pauli vs FC Koln",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1589714564.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1566427611.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "83a82adad83d4e1f48f068a6f94c723e": {
+            "channelName": "Lens vs Toulouse",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1599743063.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1566429232.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "6933e9bb4e1d46f9c537216e312c1226": {
+            "channelName": "Blackburn Rovers vs Coventry City",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1566243481.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1605892640.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
