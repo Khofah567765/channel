@@ -2,16 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "91bf73608edd125ebea706b7ae3879f7": {
-            "channelName": "Formula 1 vs Formula 1",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "53df6934033f437b11d89a0cfd6ef2dc": {
             "channelName": "Al-Ahli Saudi vs Johor Darul Takzim FC",
             "contentType": "event_pertandingan",
@@ -55,20 +45,10 @@
         "f005396a126e3010d6481a9104952b95": {
             "channelName": "Sassuolo vs Como",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/ad1.m3u8?token=BX5Y_DU48roljMf-tvUZJg&expires=1776428972",
+            "streamUrl": "https://a1.kora-plus.dad/watch/ad1.m3u8?token=-UPJfY3JA3qtj8Wt-PyXIQ&expires=1776431496",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1558139207.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/895.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "1700f1b18296c97b36229b66cf6341b4": {
-            "channelName": "Formula 1 vs Formula 1",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -115,7 +95,7 @@
         "26668e0adae2ea9bc646b4b37f7d9cc5": {
             "channelName": "Inter vs Cagliari",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a5.kora-plus.dad/watch/ad1.m3u8?token=X9zBczy5Ihrfr6T-GZiPDg&expires=1776428981",
+            "streamUrl": "https://a4.kora-plus.dad/watch/ad1.m3u8?token=2JYH2SbAA9pAidVU7yBtqA&expires=1776431503",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557751896.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1557535481.png",
@@ -135,7 +115,7 @@
         "1e11e9c82c8eea37b26c337f73ce42a2": {
             "channelName": "Rio Ave vs AVS",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/tv1.m3u8?token=d3VgUXzqNeKQTffC40N0vA&expires=1776428984",
+            "streamUrl": "https://a3.kora-plus.dad/watch/tv1.m3u8?token=KjGFM_HyrFSKGXRVg-0p5w&expires=1776431506",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1612135094.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/21595.png",
@@ -155,10 +135,30 @@
         "16b3a9b46a81603afaa9501f67df3603": {
             "channelName": "RB Bragantino vs Blooming",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/br6.m3u8?token=8s-U4NXupUdgwgE1S8jI8w&expires=1776428987",
+            "streamUrl": "https://a5.kora-plus.dad/watch/br6.m3u8?token=GVbQuRosHZ6X2YKXU2I83Q&expires=1776431509",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1688323660.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/3701.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "91bf73608edd125ebea706b7ae3879f7": {
+            "channelName": "Formula 1 vs Formula 1",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "1700f1b18296c97b36229b66cf6341b4": {
+            "channelName": "Formula 1 vs Formula 1",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
