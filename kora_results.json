@@ -2,6 +2,16 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
+        "53df6934033f437b11d89a0cfd6ef2dc": {
+            "channelName": "Al-Ahli Saudi vs Johor Darul Takzim FC",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1565008831.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/2523.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "5ca09e456d8233401acdfda92802bb8b": {
             "channelName": "Zamalek vs CR Belouizdad",
             "contentType": "event_pertandingan",
@@ -35,7 +45,7 @@
         "f005396a126e3010d6481a9104952b95": {
             "channelName": "Sassuolo vs Como",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a5.kora-plus.dad/watch/ad1.m3u8?token=eaKaYNZpqUuVYJ6fOAvDtw&expires=1776452678",
+            "streamUrl": "https://a5.kora-plus.dad/watch/ad1.m3u8?token=Zu4EJfTNYiUN-_zTMeAQ4g&expires=1776457081",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1558139207.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/895.png",
@@ -85,7 +95,7 @@
         "26668e0adae2ea9bc646b4b37f7d9cc5": {
             "channelName": "Inter vs Cagliari",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a5.kora-plus.dad/watch/ad1.m3u8?token=Wu-FJ7rzhL74DLZticHvXg&expires=1776452686",
+            "streamUrl": "https://a5.kora-plus.dad/watch/ad1.m3u8?token=ntqqey_f7__iqZcPFn4Dig&expires=1776457088",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557751896.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1557535481.png",
@@ -105,7 +115,7 @@
         "1e11e9c82c8eea37b26c337f73ce42a2": {
             "channelName": "Rio Ave vs AVS",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/tv1.m3u8?token=v4kg23hGYCtKj1ekEBg96w&expires=1776452689",
+            "streamUrl": "https://a5.kora-plus.dad/watch/tv1.m3u8?token=_bYcpivV3PRI10i6MMdF9Q&expires=1776457090",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1612135094.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/21595.png",
@@ -125,7 +135,7 @@
         "16b3a9b46a81603afaa9501f67df3603": {
             "channelName": "RB Bragantino vs Blooming",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/br6.m3u8?token=218DZZ8Lt3mrF6dthll4AQ&expires=1776452692",
+            "streamUrl": "https://a3.kora-plus.dad/watch/br6.m3u8?token=02h_uXAN1Xu0sxFmIxI2vg&expires=1776457093",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1688323660.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/3701.png",
@@ -139,16 +149,6 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "53df6934033f437b11d89a0cfd6ef2dc": {
-            "channelName": "Al-Ahli Saudi vs Johor Darul Takzim FC",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1565008831.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/2523.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
