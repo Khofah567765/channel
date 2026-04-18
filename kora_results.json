@@ -2,6 +2,26 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
+        "1563bca14d980ed379a857da6bfe3eb1": {
+            "channelName": "Brentford vs Fulham",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1595719971.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1595803736.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "4968080e5253a767e185707ce6ac8c86": {
+            "channelName": "Mamelodi Sundowns vs Esperance Tunis",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1556302828.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1556349905.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "4abda8a3bbb6e3fb2ade0587e66285da": {
             "channelName": "Arminia Bielefeld vs Nurnberg",
             "contentType": "event_pertandingan",
@@ -32,16 +52,6 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "1563bca14d980ed379a857da6bfe3eb1": {
-            "channelName": "Brentford vs Fulham",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1595719971.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1595803736.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "abe20b77d03167a6331fe5e2caafb9d8": {
             "channelName": "Portsmouth vs Leicester City",
             "contentType": "event_pertandingan",
@@ -52,20 +62,10 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "4968080e5253a767e185707ce6ac8c86": {
-            "channelName": "Mamelodi Sundowns vs Esperance Tunis",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1556302828.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1556349905.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "1c4869a91107a3060ce6f74b87f8691a": {
             "channelName": "Udinese vs Parma",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/ad1.m3u8?token=nsmBJwF3Dl6KTRWMHXvGpA&expires=1776518901",
+            "streamUrl": "https://a3.kora-plus.dad/watch/ad1.m3u8?token=6XuFcJt3LtPQKsGvPKResQ&expires=1776523330",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1564236433.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1557762849.png",
@@ -75,7 +75,7 @@
         "b44f2fcdefe8f94fe8a91d8ef73cfcca": {
             "channelName": "1899 Hoffenheim vs Borussia Dortmund",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/action.m3u8?token=nta2-7JRWAslxy0ApvGOOg&expires=1776518903",
+            "streamUrl": "https://a1.kora-plus.dad/watch/action.m3u8?token=FBqabFymgEwJYZCklqOthw&expires=1776523332",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1566134670.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1556983444.png",
