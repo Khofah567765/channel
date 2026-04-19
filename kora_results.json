@@ -5,7 +5,7 @@
         "53ed7395c8abc02d0643756973a2bffa": {
             "channelName": "Cremonese vs Torino",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/ad1.m3u8?token=Qt-jp_2BWYENDw77Ra5FDw&expires=1776602008",
+            "streamUrl": "https://a3.kora-plus.dad/watch/ad1.m3u8?token=WTxBTp9iPBmEU2qkWwMi6Q&expires=1776603706",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1661139489.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1556907778.png",
@@ -89,6 +89,26 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1567290671.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1677977219.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "4a5bdea485082dd3c948f57a713f0147": {
+            "channelName": "Stade Gabesien vs ES Sahel",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1557535902.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1557008660.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "d837978422e1f269b2a2c60e29c48909": {
+            "channelName": "US Monastir vs ES Zarzis",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1557536048.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/989.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
