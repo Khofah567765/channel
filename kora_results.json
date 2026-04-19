@@ -2,20 +2,10 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "e9155ef164dff647177fdd64d4c79781": {
-            "channelName": "Gilbert Burns vs Mike Malott",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1776530345.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "53ed7395c8abc02d0643756973a2bffa": {
             "channelName": "Cremonese vs Torino",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/ad1.m3u8?token=i-LYBee9dDLplw2FyZOx4Q&expires=1776593325",
+            "streamUrl": "https://a3.kora-plus.dad/watch/ad1.m3u8?token=5Rn7L758vBsdj78ecfqeNw&expires=1776596404",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1661139489.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1556907778.png",
