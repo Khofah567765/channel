@@ -2,26 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "743e3fea7195cd8c09a24a4f28415ee8": {
-            "channelName": "Chapecoense-sc vs Botafogo",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/br5.m3u8?token=47vhatTVUOhku5zKeLPhOw&expires=1776560648",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/132.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/120.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "a0d052ae821465b87bb9d9a5c9f23978": {
-            "channelName": "Vasco DA Gama vs Sao Paulo",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/br4.m3u8?token=quQBLI2bNpMBmqdxgeTl-Q&expires=1776560650",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1688323838.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1570933882.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "e9155ef164dff647177fdd64d4c79781": {
             "channelName": "Gilbert Burns vs Mike Malott",
             "contentType": "event_pertandingan",
@@ -29,26 +9,6 @@
             "status": "scheduled",
             "team1Logo": "",
             "team2Logo": "https://img.kora-api.space/uploads/team/1776530345.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "a3e558e1a079834889d784eb38d1a06e": {
-            "channelName": "Vitoria vs Corinthians",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/br1.m3u8?token=w86tMvMCpurwJK4EjRWnaQ&expires=1776560654",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/136.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1570934037.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "3f0ac6be27da891bcb5ab406ea67585f": {
-            "channelName": "Cruzeiro vs Gremio",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/br3.m3u8?token=NUOLbgQLl5l8-kXWWjQyqQ&expires=1776560655",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1688249348.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1566243892.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
