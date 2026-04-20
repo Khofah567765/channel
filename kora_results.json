@@ -25,8 +25,8 @@
         "e3613509065cdd5991a0fc951eac26c6": {
             "channelName": "Lecce vs Fiorentina",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a5.kora-plus.dad/watch/ad1.m3u8?token=M4uCeyAR3EBUOlv9D2JZNg&expires=1776708896",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1566725911.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1557535616.png",
             "referer": "https://vsys.kora-top.zip/",
