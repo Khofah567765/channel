@@ -2,6 +2,16 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
+        "752fb1234a5be400993c1451a756feef": {
+            "channelName": "River Plate vs Boca Juniors",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a1.kora-plus.dad/watch/alwan6.m3u8?token=XER4VxA3nVK29p3uABeECg&expires=1776683697",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1566245104.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1566244593.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "a0f9d95c2a60153fdea037df815c645e": {
             "channelName": "Vissel Kobe vs Al-Ahli Saudi",
             "contentType": "event_pertandingan",
