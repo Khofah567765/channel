@@ -35,10 +35,20 @@
         "c5cfaded077ebb3f707eb87043fd8abd": {
             "channelName": "Konyaspor vs Fenerbahce",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/atv.m3u8?token=USmulB6-LybaH9zUHYlryA&expires=1776790275",
+            "streamUrl": "https://a4.kora-plus.dad/watch/atv.m3u8?token=jn493jcvg0hn1UDW0pu66w&expires=1776794272",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1663346905.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1564441995.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "fe4d5c41d6183d1d4394b969a3ae2767": {
+            "channelName": "Leicester City vs Hull City",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1557093197.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1566243393.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -55,7 +65,7 @@
         "b5350bfb89e57d8622d32ca8d276ffda": {
             "channelName": "Inter vs Como",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a5.kora-plus.dad/watch/action.m3u8?token=zCKe2xnn-mrLa7PI3drSbw&expires=1776790278",
+            "streamUrl": "https://a4.kora-plus.dad/watch/action.m3u8?token=qahwUKajKPFTddyXSBk9yA&expires=1776794276",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557751896.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/895.png",
@@ -95,7 +105,7 @@
         "f23c110a49c48f617a9e500d44270caf": {
             "channelName": "Botafogo vs Chapecoense-sc",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a5.kora-plus.dad/watch/br1.m3u8?token=XVyt_4wZ5hKK4ZC2QFcW3Q&expires=1776790284",
+            "streamUrl": "https://a2.kora-plus.dad/watch/br1.m3u8?token=24u-Hp9CPDY4zNKL7bEQ8Q&expires=1776794282",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/120.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/132.png",
@@ -105,7 +115,7 @@
         "dc03df508fca7e48e415ad759fda8494": {
             "channelName": "Sao Paulo vs Juventude",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/br1.m3u8?token=zOAa61Vn_tEZ0NBhVtv5KA&expires=1776790286",
+            "streamUrl": "https://a1.kora-plus.dad/watch/br1.m3u8?token=wbUJa2_fCNwlq0J1aGTkoQ&expires=1776794284",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1570933882.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/152.png",
@@ -115,7 +125,7 @@
         "c45b958d41588046c6217b007e492575": {
             "channelName": "Gremio vs Confian\u00e7a",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/br4.m3u8?token=aoKwXBF70W3MyEnNVm49qg&expires=1776790287",
+            "streamUrl": "https://a4.kora-plus.dad/watch/br4.m3u8?token=wMTDijWGNpx81Tme70KB3g&expires=1776794286",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1566243892.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/7772.png",
