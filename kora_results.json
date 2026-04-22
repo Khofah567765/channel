@@ -2,60 +2,10 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "f33c59f64f5f0a1f1645f5ea2941f63e": {
-            "channelName": "Atalanta vs Lazio",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/alwan3.m3u8?token=j-SKSJ5TIwF-l5N9PTZBhQ&expires=1776900903",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1557009898.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1557009867.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "4269095fd0998cd54fa0cc45c1a084fb": {
-            "channelName": "Barcelona vs Celta Vigo",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1557221057.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1556956205.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "bd49fc2009682973e456533bc11d0985": {
-            "channelName": "Porto vs Sporting CP",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/tv1.m3u8?token=9qo0TeqPuvu0Cbs_U736HQ&expires=1776900906",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1558220341.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1558220377.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "e6ef9db94ae2956bacb3cda2f5970ef8": {
-            "channelName": "Bayer 04 Leverkusen vs Bayern Munich",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/alwan5.m3u8?token=SiqT2TJT28lYiJGN434ZUA&expires=1776900908",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1566682146.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1557535267.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "fc9a2b2ad5de128d68343ba2923913f2": {
-            "channelName": "Charlton Athletic vs Ipswich",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1673346937.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/57.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "19858756a816a73de94647114376fa6a": {
             "channelName": "Al-Masry vs ENPPI",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/on1.m3u8?token=fDHCdjBdy2NV0i95dmo7ug&expires=1776900910",
+            "streamUrl": "https://a3.kora-plus.dad/watch/on1.m3u8?token=46541R7F042ayBiLDOU6qg&expires=1776904214",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1583054227.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1609583202.jpg",
@@ -95,7 +45,7 @@
         "b0af50621bc43271b89f5cdd615b6080": {
             "channelName": "Galatasaray vs Genclerbirligi",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/tv6.m3u8?token=IGPLlvqU-pP-Cxq0lgiOEQ&expires=1776900916",
+            "streamUrl": "https://a4.kora-plus.dad/watch/tv6.m3u8?token=kOewSnk-fno-UWF-m7eBMQ&expires=1776904220",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557010589.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/997.png",
@@ -119,6 +69,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1569252347.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1610099110.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "e6ef9db94ae2956bacb3cda2f5970ef8": {
+            "channelName": "Bayer 04 Leverkusen vs Bayern Munich",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a2.kora-plus.dad/watch/alwan5.m3u8?token=kgF3R-8NsU5j3KJsYgx-Hw&expires=1776904225",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1566682146.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1557535267.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -152,13 +112,43 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
+        "f33c59f64f5f0a1f1645f5ea2941f63e": {
+            "channelName": "Atalanta vs Lazio",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a2.kora-plus.dad/watch/alwan3.m3u8?token=MpK2SHrmB_d99kCQQGMnjw&expires=1776904231",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1557009898.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1557009867.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "438c743d53df8e5793906137435fcdb5": {
             "channelName": "AS FAR Rabat vs RSB Berkane",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/riadia.m3u8?token=Wi0fpovNH8fUYytGp10kvw&expires=1776900924",
+            "streamUrl": "https://a4.kora-plus.dad/watch/riadia.m3u8?token=3Ns_vIn2nJs-729ywOPX2A&expires=1776904232",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1583244525.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/berkane.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "4269095fd0998cd54fa0cc45c1a084fb": {
+            "channelName": "Barcelona vs Celta Vigo",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1557221057.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1556956205.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "bd49fc2009682973e456533bc11d0985": {
+            "channelName": "Porto vs Sporting CP",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a3.kora-plus.dad/watch/tv1.m3u8?token=wwU8wKlti2Unef4cmChERg&expires=1776904235",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1558220341.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1558220377.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
