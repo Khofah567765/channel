@@ -5,7 +5,7 @@
         "e6ef9db94ae2956bacb3cda2f5970ef8": {
             "channelName": "Bayer 04 Leverkusen vs Bayern Munich",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/alwan5.m3u8?token=WEHkB2ScevM3m1hV0_eQcA&expires=1776887330",
+            "streamUrl": "https://a2.kora-plus.dad/watch/alwan5.m3u8?token=WzMKpf-MAqviY0RCJEMCfA&expires=1776891371",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1566682146.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1557535267.png",
@@ -65,7 +65,7 @@
         "b0af50621bc43271b89f5cdd615b6080": {
             "channelName": "Galatasaray vs Genclerbirligi",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/tv6.m3u8?token=QDfzf57V2D84mTsml_nKcQ&expires=1776887338",
+            "streamUrl": "https://a1.kora-plus.dad/watch/tv6.m3u8?token=LuvsKwzFlX0YMgJCjdVuDw&expires=1776891379",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557010589.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/997.png",
@@ -105,7 +105,7 @@
         "f33c59f64f5f0a1f1645f5ea2941f63e": {
             "channelName": "Atalanta vs Lazio",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/ad1.m3u8?token=pZ58QM6YT97ppgSD-rRtoQ&expires=1776887343",
+            "streamUrl": "https://a5.kora-plus.dad/watch/alwan3.m3u8?token=-I5F-vNNKOiQktxF0ciYvg&expires=1776891385",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557009898.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1557009867.png",
@@ -115,7 +115,7 @@
         "438c743d53df8e5793906137435fcdb5": {
             "channelName": "AS FAR Rabat vs RSB Berkane",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a5.kora-plus.dad/watch/riadia.m3u8?token=OWrIu6N3yvtbKsLHnclfAA&expires=1776887345",
+            "streamUrl": "https://a3.kora-plus.dad/watch/riadia.m3u8?token=5-Xvtif5fQT9aZ7jhP5b0A&expires=1776891391",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1583244525.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/berkane.png",
@@ -135,8 +135,8 @@
         "bd49fc2009682973e456533bc11d0985": {
             "channelName": "Porto vs Sporting CP",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a2.kora-plus.dad/watch/tv1.m3u8?token=rdIUwmgdQWJv3df2B5knjA&expires=1776891394",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1558220341.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1558220377.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -145,7 +145,7 @@
         "19858756a816a73de94647114376fa6a": {
             "channelName": "Al-Masry vs ENPPI",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/on1.m3u8?token=GcdUOppCjLeqxsChamTPcQ&expires=1776887349",
+            "streamUrl": "https://a3.kora-plus.dad/watch/on1.m3u8?token=Umi9XPQbkTq3AzbNWLf_nw&expires=1776891396",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1583054227.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1609583202.jpg",
