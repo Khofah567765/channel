@@ -2,30 +2,30 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "fac8c024b6355df34b3dd882837edf1d": {
-            "channelName": "Esperance Tunis vs ES Zarzis",
+        "89dea389d665ff5ff62ee8258d36a27a": {
+            "channelName": "Samsunspor vs Trabzonspor",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1556349905.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/989.png",
+            "streamUrl": "https://a3.kora-plus.dad/watch/hd8.m3u8?token=-sLW1uQPJSbHA34saOA1PQ&expires=1776970131",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/3603.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1568920933.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "55fc1d7653aa78f675e25f1124c5c8eb": {
-            "channelName": "El Mokawloon vs Al-Ittihad Alexandria",
+        "fa8c0f0796755f9dd329cfbca648642c": {
+            "channelName": "Al-Shabab vs Al-Rayyan",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1575.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1569253085.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1569537759.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1596240157.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         "ff4eaca411ba2d1be694cb76ef4df932": {
             "channelName": "Al Najma vs Al-Taawoun",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/thman2.m3u8?token=iZDnHRmMj3PDvRdQKoPvRg&expires=1776964280",
+            "streamUrl": "https://a2.kora-plus.dad/watch/thman2.m3u8?token=968gOzpaBQDUNuWMQ19gsA&expires=1776970134",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/2992.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1569516699.png",
@@ -55,7 +55,7 @@
         "375eeb703285d2be6100bd98354e2ea0": {
             "channelName": "Besiktas vs Alanyaspor",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/atv.m3u8?token=GTvd1K61PUwb1vFqC7LQUQ&expires=1776964284",
+            "streamUrl": "https://a4.kora-plus.dad/watch/atv.m3u8?token=8j9ensIT-jLeqrv3HFGciA&expires=1776970138",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557010753.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1612953938.png",
@@ -65,7 +65,7 @@
         "a60d3877a1028453d9949669e70fa0b2": {
             "channelName": "Casa Pia vs Sporting Braga",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/tv1.m3u8?token=6Jxyl_nh4NwhRspl9FVBnw&expires=1776964286",
+            "streamUrl": "https://a1.kora-plus.dad/watch/tv1.m3u8?token=sBu0tyezNxHAo9ZzAKgNEA&expires=1776970140",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1684046700.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1582206314.png",
@@ -95,7 +95,7 @@
         "f65b566f8aa759536b1ca552d62cbbd4": {
             "channelName": "Zamalek vs Pyramids FC",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/on1.m3u8?token=fpXohogT-jtx5-KQ2UZn9Q&expires=1776964290",
+            "streamUrl": "https://a1.kora-plus.dad/watch/on1.m3u8?token=lgBbtMVGFwpdABYAkX1UHw&expires=1776970144",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557008685.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1571255818.png",
@@ -105,27 +105,17 @@
         "179b44ae21e8769fdd0139f7c60a542f": {
             "channelName": "Damac FC vs Al Akhdoud",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/thman1.m3u8?token=RsBtuyJxkmXHUOYpNiBpBA&expires=1776964291",
+            "streamUrl": "https://a1.kora-plus.dad/watch/thman1.m3u8?token=6_Q4GKHZFbVPWCKfZX5JUQ&expires=1776970146",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1571410568.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/2977.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "dc802e213f24ddfb42558e5655fce772": {
-            "channelName": "Al-Hilal Saudi vs Al Kholood",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1565008904.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1739539923.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "456221cf8457206164c03801197fc71e": {
             "channelName": "VfB Stuttgart vs Freiburg",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/das.m3u8?token=cO8eoxaDxniN6Ua73-d6qw&expires=1776964294",
+            "streamUrl": "https://a5.kora-plus.dad/watch/das.m3u8?token=y3lrQXQsQciNQIND1qKxRg&expires=1776970147",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1589715912.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1570290754.png",
@@ -165,7 +155,7 @@
         "f8b1af874dda80681cfbf88d45261d96": {
             "channelName": "Atletico-MG vs Ceara",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a5.kora-plus.dad/watch/br1.m3u8?token=aLN8e9vZIftUVV84UkhtoQ&expires=1776964299",
+            "streamUrl": "https://a5.kora-plus.dad/watch/br1.m3u8?token=xH5AmAIFZdoWQBtgzo1fbA&expires=1776970158",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1062.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/129.png",
@@ -175,7 +165,7 @@
         "40003e2e443cfda0783944da73f9a9cd": {
             "channelName": "Palmeiras vs Jacuipense",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a5.kora-plus.dad/watch/br4.m3u8?token=D8b_zeXPpSQZwlVkDbEzAQ&expires=1776964305",
+            "streamUrl": "https://a3.kora-plus.dad/watch/br4.m3u8?token=KgFvTfu1KRV6PhwXfgog8Q&expires=1776970164",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1566243942.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/7831.png",
@@ -185,7 +175,7 @@
         "566e9c861f4cf519a8393ad7e8114d42": {
             "channelName": "Defensa Y Justicia vs Boca Juniors",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/hd9.m3u8?token=NXqnMe6CVKkqjqGl1ZvTXQ&expires=1776964311",
+            "streamUrl": "https://a1.kora-plus.dad/watch/hd9.m3u8?token=wnJ77le3ZWCYKPCnoEIaJg&expires=1776970165",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/442.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1566244593.png",
@@ -199,6 +189,36 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1606.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1658211721.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "fac8c024b6355df34b3dd882837edf1d": {
+            "channelName": "Esperance Tunis vs ES Zarzis",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1556349905.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/989.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "55fc1d7653aa78f675e25f1124c5c8eb": {
+            "channelName": "El Mokawloon vs Al-Ittihad Alexandria",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1575.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1569253085.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "dc802e213f24ddfb42558e5655fce772": {
+            "channelName": "Al-Hilal Saudi vs Al Kholood",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1565008904.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1739539923.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
