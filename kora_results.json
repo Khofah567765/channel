@@ -5,7 +5,7 @@
         "c51fcddd4365785e5fd240082880e272": {
             "channelName": "Al-Fateh vs Al Khaleej Saihat",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/thman1.m3u8?token=0cAK19ityEWbtIJRspPuDg&expires=1777048793",
+            "streamUrl": "https://a3.kora-plus.dad/watch/thman1.m3u8?token=bfoZqipMWi_B8vnRTX6tXg&expires=1777052323",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1572531350.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1741967325.png",
@@ -15,7 +15,7 @@
         "8556d8ba43760c1142199fb2959fb3ff": {
             "channelName": "Al Hazem vs Al Riyadh",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/thman2.m3u8?token=Fhl_kHEmpyTNKcTFXBEy-A&expires=1777048794",
+            "streamUrl": "https://a2.kora-plus.dad/watch/thman2.m3u8?token=Lxcn9iE8wzf-UpAc_PafRA&expires=1777052325",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1570135076.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1739540056.png",
@@ -125,7 +125,7 @@
         "3e368a2b520cf7683e37cde9d5ad2c69": {
             "channelName": "Operario-PR vs Fluminense",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/br3.m3u8?token=M5fDTBCBGTPIiBw-CqeIQA&expires=1777048808",
+            "streamUrl": "https://a2.kora-plus.dad/watch/br3.m3u8?token=VBsmEwQ_0TFYCv45e0FlCw&expires=1777052339",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1223.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1688200083.png",
@@ -135,7 +135,7 @@
         "7929a6b270c4273fadc6468788a8545a": {
             "channelName": "Athletico Paranaense vs Atletico Goianiense",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/br1.m3u8?token=CbLuf7j9CL-gLTGNrp_WfA&expires=1777048810",
+            "streamUrl": "https://a1.kora-plus.dad/watch/br1.m3u8?token=w41FduGL0IXEs4FWi5gy6g&expires=1777052340",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1571572624.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/144.png",
