@@ -2,26 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "3e368a2b520cf7683e37cde9d5ad2c69": {
-            "channelName": "Operario-PR vs Fluminense",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/br3.m3u8?token=JGEXSRWaEfCVBJ1YFLO3bA&expires=1777014032",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1223.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1688200083.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "7929a6b270c4273fadc6468788a8545a": {
-            "channelName": "Athletico Paranaense vs Atletico Goianiense",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/br1.m3u8?token=0rhyqvWJVo0-Eyo_IP0hrg&expires=1777014034",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1571572624.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/144.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "c51fcddd4365785e5fd240082880e272": {
             "channelName": "Al-Fateh vs Al Khaleej Saihat",
             "contentType": "event_pertandingan",
@@ -139,6 +119,26 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/2424.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/437.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "3e368a2b520cf7683e37cde9d5ad2c69": {
+            "channelName": "Operario-PR vs Fluminense",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a3.kora-plus.dad/watch/br3.m3u8?token=xdYpPx53xVXwFhy1W3YyVQ&expires=1777022429",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1223.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1688200083.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "7929a6b270c4273fadc6468788a8545a": {
+            "channelName": "Athletico Paranaense vs Atletico Goianiense",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a3.kora-plus.dad/watch/br1.m3u8?token=TvcfxU_MHejKSfOFRz9eWg&expires=1777022431",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1571572624.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/144.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
