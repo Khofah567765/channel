@@ -45,7 +45,7 @@
         "42a6865f1219ba769cbb65678520c6e5": {
             "channelName": "Napoli vs Cremonese",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/ad1.m3u8?token=O-mw08Ukgk-Zkc6HEqbEcA&expires=1777062575",
+            "streamUrl": "https://a1.kora-plus.dad/watch/ad1.m3u8?token=t7swEzduyw3JoO_q2MqYQA&expires=1777065012",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1558306657.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1661139489.png",
@@ -65,7 +65,7 @@
         "f2d317efb2aa9e830113a5727c8e28b4": {
             "channelName": "Alverca vs Arouca",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/tv1.m3u8?token=bHah9lEmk1J-9xXU-T7sTw&expires=1777062578",
+            "streamUrl": "https://a3.kora-plus.dad/watch/tv1.m3u8?token=VYysr2tXLEHD0rmn2fsXYA&expires=1777065015",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/4724.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1681621734.png",
@@ -85,7 +85,7 @@
         "3e368a2b520cf7683e37cde9d5ad2c69": {
             "channelName": "Operario-PR vs Fluminense",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/br3.m3u8?token=eE9L6hync-aDbSFRxAqgAA&expires=1777062581",
+            "streamUrl": "https://a3.kora-plus.dad/watch/br3.m3u8?token=4HgrM5IPW3ACKp5KKRAkEw&expires=1777065018",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1223.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1688200083.png",
@@ -95,7 +95,7 @@
         "7929a6b270c4273fadc6468788a8545a": {
             "channelName": "Athletico Paranaense vs Atletico Goianiense",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/br1.m3u8?token=jyn1oZPluARV4_x0_85-ew&expires=1777062583",
+            "streamUrl": "https://a2.kora-plus.dad/watch/br1.m3u8?token=PAd6B7LDlkXIEkLGR9WhNQ&expires=1777065019",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1571572624.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/144.png",
@@ -105,7 +105,7 @@
         "c51fcddd4365785e5fd240082880e272": {
             "channelName": "Al-Fateh vs Al Khaleej Saihat",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/thman1.m3u8?token=rFUa4hEPcbhQeC_aiboG9A&expires=1777062585",
+            "streamUrl": "https://a1.kora-plus.dad/watch/thman1.m3u8?token=0pKPAieaySV0vCDAIyMzLg&expires=1777065021",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1572531350.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1741967325.png",
@@ -115,7 +115,7 @@
         "8556d8ba43760c1142199fb2959fb3ff": {
             "channelName": "Al Hazem vs Al Riyadh",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/thman2.m3u8?token=Y4o1FdWZpZsolod03O5u8g&expires=1777062586",
+            "streamUrl": "https://a1.kora-plus.dad/watch/thman2.m3u8?token=4JSv-utIzonxZTIRmI12Iw&expires=1777065023",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1570135076.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1739540056.png",
