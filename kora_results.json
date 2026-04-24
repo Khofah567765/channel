@@ -2,6 +2,16 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
+        "da0e89849a860e6f1160d0e60883f27b": {
+            "channelName": "Estudiantes de Rio Cuarto vs Rosario Central",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/2424.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/437.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "a20a6921981eba1fbe0078499ed5cc4e": {
             "channelName": "Sunderland vs Nottingham Forest",
             "contentType": "event_pertandingan",
@@ -19,6 +29,66 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1558221913.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1556300822.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "3e368a2b520cf7683e37cde9d5ad2c69": {
+            "channelName": "Operario-PR vs Fluminense",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a1.kora-plus.dad/watch/br3.m3u8?token=r1c2WrYLvS4NV1w9n1KmVQ&expires=1777074636",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1223.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1688200083.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "7929a6b270c4273fadc6468788a8545a": {
+            "channelName": "Athletico Paranaense vs Atletico Goianiense",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a1.kora-plus.dad/watch/br1.m3u8?token=qsYk5YaLsJb4ildYM47wGg&expires=1777074638",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1571572624.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/144.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "c51fcddd4365785e5fd240082880e272": {
+            "channelName": "Al-Fateh vs Al Khaleej Saihat",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a3.kora-plus.dad/watch/thman1.m3u8?token=A5h2-nhNiILxOb5lNhgFzQ&expires=1777074639",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1572531350.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1741967325.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "8556d8ba43760c1142199fb2959fb3ff": {
+            "channelName": "Al Hazem vs Al Riyadh",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a4.kora-plus.dad/watch/thman2.m3u8?token=jic-VcR3IPVDWyvLhCYdZA&expires=1777074641",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1570135076.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1739540056.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "19c7d5094be4f7bd982d143745eacb95": {
+            "channelName": "Fortuna Dusseldorf vs Dynamo Dresden",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1557535094.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1590877512.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "a35331dda67c1c38f55fa803f8b008f0": {
+            "channelName": "FC Kaiserslautern vs Eintracht Braunschweig",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/745.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/744.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -45,7 +115,7 @@
         "42a6865f1219ba769cbb65678520c6e5": {
             "channelName": "Napoli vs Cremonese",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/ad1.m3u8?token=IOhMsC5D6KQ2GlSU1a02MQ&expires=1777071561",
+            "streamUrl": "https://a2.kora-plus.dad/watch/ad1.m3u8?token=5Dolm5TgFnucZxLlLVu5lw&expires=1777074647",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1558306657.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1661139489.png",
@@ -65,80 +135,10 @@
         "f2d317efb2aa9e830113a5727c8e28b4": {
             "channelName": "Alverca vs Arouca",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/tv1.m3u8?token=4bNFSSAt3wkG4kWHsR0ELQ&expires=1777071565",
+            "streamUrl": "https://a4.kora-plus.dad/watch/tv1.m3u8?token=GjlCQhZw8k6n3lmkoArIXg&expires=1777074650",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/4724.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1681621734.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "da0e89849a860e6f1160d0e60883f27b": {
-            "channelName": "Estudiantes de Rio Cuarto vs Rosario Central",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/2424.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/437.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "3e368a2b520cf7683e37cde9d5ad2c69": {
-            "channelName": "Operario-PR vs Fluminense",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/br3.m3u8?token=fl-1GsQ4diMGjsOI0qhkSQ&expires=1777071568",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1223.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1688200083.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "7929a6b270c4273fadc6468788a8545a": {
-            "channelName": "Athletico Paranaense vs Atletico Goianiense",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/br1.m3u8?token=mDNSMA6angebqceRXOMY6A&expires=1777071570",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1571572624.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/144.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "c51fcddd4365785e5fd240082880e272": {
-            "channelName": "Al-Fateh vs Al Khaleej Saihat",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/thman1.m3u8?token=GuGAyZGpYDUt6zUcbtl0kw&expires=1777071572",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1572531350.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1741967325.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "8556d8ba43760c1142199fb2959fb3ff": {
-            "channelName": "Al Hazem vs Al Riyadh",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/thman2.m3u8?token=bYcXuITo-YabnqZpYPR64A&expires=1777071573",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1570135076.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1739540056.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "19c7d5094be4f7bd982d143745eacb95": {
-            "channelName": "Fortuna Dusseldorf vs Dynamo Dresden",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1557535094.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1590877512.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "a35331dda67c1c38f55fa803f8b008f0": {
-            "channelName": "FC Kaiserslautern vs Eintracht Braunschweig",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/745.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/744.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
