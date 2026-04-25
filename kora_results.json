@@ -95,7 +95,7 @@
         "de1d1e12c91efff9c19c7a1cea605f7a": {
             "channelName": "Parma vs Pisa",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/ad1.m3u8?token=kMeWyM5UIwPa1oxuLCYy8g&expires=1777121463",
+            "streamUrl": "https://a2.kora-plus.dad/watch/ad1.m3u8?token=vHLm3tx0OIfYezKNMTuHHw&expires=1777125552",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557762849.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/801.png",
@@ -215,7 +215,7 @@
         "255ff31268a7124982666a7e00225753": {
             "channelName": "Bologna vs Roma",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/ad1.m3u8?token=22RCmTKZ1hrSOhI5GvPsEA&expires=1777121478",
+            "streamUrl": "https://a3.kora-plus.dad/watch/ad1.m3u8?token=G8QCVBTJijY59MOgx8C_Mw&expires=1777125567",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557092995.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1557010107.png",
@@ -245,7 +245,7 @@
         "d2d3c171e4cae1bbce19fdc5e4f37a84": {
             "channelName": "Bayern Munich W vs Barcelona W",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/cbs.m3u8?token=E8vIuN9iDrAFjpOOW9hsEw&expires=1777121483",
+            "streamUrl": "https://a1.kora-plus.dad/watch/cbs.m3u8?token=FTnGgSRhnZmI9pngecm-lA&expires=1777125571",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1860.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1918.png",
