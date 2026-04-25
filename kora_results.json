@@ -12,16 +12,6 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "3a3f3c74d14960127bd408531ac81665": {
-            "channelName": "FSV Mainz 05 vs Bayern Munich",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/alwan3.m3u8?token=MNYL0XMPO4d0PZNVrJwRJw&expires=1777135333",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1566681881.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1557535267.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "f30d1b3c0523b66b5436034b0a485ddf": {
             "channelName": "Liverpool vs Crystal Palace",
             "contentType": "event_pertandingan",
@@ -52,76 +42,6 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "5b020bd1d43cc0cbba65a4eb92546398": {
-            "channelName": "MotoGP vs MotoGP",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1691310531.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1691310531.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "76cb5e21f914a97e1f9c215313c9db5a": {
-            "channelName": "Lyon vs AJ Auxerre",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1670707378.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1653547226.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "de1d1e12c91efff9c19c7a1cea605f7a": {
-            "channelName": "Parma vs Pisa",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/ad1.m3u8?token=1_dU46yb4ws8JREqxnEZyA&expires=1777135341",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1557762849.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/801.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "6f2713eef5f1ca9662ea4195f7ad2863": {
-            "channelName": "Augsburg vs Eintracht Frankfurt",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/hd9.m3u8?token=-s8VUDrTDPi2mex8tgBG_Q&expires=1777135343",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1565678002.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1557391571.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "95d826645f81ea208dc0a804c80aa3d8": {
-            "channelName": "FC Koln vs Bayer 04 Leverkusen",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1566427611.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1566682146.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "a90cd8a9577996e751013e351ed2af64": {
-            "channelName": "FC Heidenheim vs St. Pauli",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1589539886.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1589714564.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "91a81c09f4c2b834af86b0d5b777a3bc": {
-            "channelName": "Wolfsburg vs Borussia Monchengladbach",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1566818005.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1558219789.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "9babd2eac1353fcf59ad2dd0d21131cd": {
             "channelName": "Feyenoord vs Groningen",
             "contentType": "event_pertandingan",
@@ -145,7 +65,7 @@
         "255ff31268a7124982666a7e00225753": {
             "channelName": "Bologna vs Roma",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/ad1.m3u8?token=iLiS_-CRjgkoxrblaN4I8w&expires=1777135351",
+            "streamUrl": "https://a1.kora-plus.dad/watch/ad1.m3u8?token=bKQEMJdW8IOTNNvOE-82YQ&expires=1777137860",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557092995.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1557010107.png",
@@ -175,7 +95,7 @@
         "d2d3c171e4cae1bbce19fdc5e4f37a84": {
             "channelName": "Bayern Munich W vs Barcelona W",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/cbs.m3u8?token=QSqOnoWjan9VhWwYur7Phg&expires=1777135355",
+            "streamUrl": "https://a1.kora-plus.dad/watch/cbs.m3u8?token=yk6viUppYiaw8JUUXpWYQg&expires=1777137865",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1860.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1918.png",
@@ -255,8 +175,8 @@
         "4f980d57bf94df5c06c2c04048c21f8a": {
             "channelName": "Club Africain vs Al Ahly",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a2.kora-plus.dad/watch/riadia.m3u8?token=n12jov4cfEqZfnHUAwOJpQ&expires=1777137875",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1559557337.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1563975183.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -412,6 +332,16 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
+        "3a3f3c74d14960127bd408531ac81665": {
+            "channelName": "FSV Mainz 05 vs Bayern Munich",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a3.kora-plus.dad/watch/alwan3.m3u8?token=mErDofc91pOHcFEmKEet6Q&expires=1777137894",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1566681881.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1557535267.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "1fba944a4ef8157d0dfe8f6ebbc4abf0": {
             "channelName": "Hertha Berlin vs Holstein Kiel",
             "contentType": "event_pertandingan",
@@ -469,6 +399,76 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1566134341.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1568372488.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "5b020bd1d43cc0cbba65a4eb92546398": {
+            "channelName": "MotoGP vs MotoGP",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1691310531.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1691310531.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "76cb5e21f914a97e1f9c215313c9db5a": {
+            "channelName": "Lyon vs AJ Auxerre",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1670707378.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1653547226.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "de1d1e12c91efff9c19c7a1cea605f7a": {
+            "channelName": "Parma vs Pisa",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a4.kora-plus.dad/watch/ad1.m3u8?token=HZ90L3ytrtiViqrp2Wpv1A&expires=1777137906",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1557762849.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/801.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "6f2713eef5f1ca9662ea4195f7ad2863": {
+            "channelName": "Augsburg vs Eintracht Frankfurt",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a4.kora-plus.dad/watch/hd9.m3u8?token=caZoKkycIB6tgUMqFlkygg&expires=1777137908",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1565678002.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1557391571.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "95d826645f81ea208dc0a804c80aa3d8": {
+            "channelName": "FC Koln vs Bayer 04 Leverkusen",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1566427611.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1566682146.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "a90cd8a9577996e751013e351ed2af64": {
+            "channelName": "FC Heidenheim vs St. Pauli",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1589539886.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1589714564.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "91a81c09f4c2b834af86b0d5b777a3bc": {
+            "channelName": "Wolfsburg vs Borussia Monchengladbach",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1566818005.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1558219789.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
