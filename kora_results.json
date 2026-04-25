@@ -32,16 +32,6 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "d284f795d47f374917060f59e12b9e7b": {
-            "channelName": "Brighton W vs Manchester City W",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1857.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1854.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "c7fa5c342421ea6c74141932ef188e4c": {
             "channelName": "Fulham vs Aston Villa",
             "contentType": "event_pertandingan",
@@ -52,16 +42,6 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "1412f63b7a35b41bbd97c24280a4e40b": {
-            "channelName": "West Bromwich Albion vs Ipswich",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1583233658.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/57.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "d4beafd83a2c12e1499fcfe475ccacb0": {
             "channelName": "Deportivo Alaves vs Real Mallorca",
             "contentType": "event_pertandingan",
@@ -69,16 +49,6 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1566134341.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1568372488.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "5b020bd1d43cc0cbba65a4eb92546398": {
-            "channelName": "MotoGP vs MotoGP",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1691310531.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1691310531.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -95,8 +65,8 @@
         "de1d1e12c91efff9c19c7a1cea605f7a": {
             "channelName": "Parma vs Pisa",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a3.kora-plus.dad/watch/ad1.m3u8?token=fnR2wH8YxQASz0N7mWNCtA&expires=1777118547",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557762849.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/801.png",
             "referer": "https://vsys.kora-top.zip/",
