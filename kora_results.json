@@ -2,6 +2,16 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
+        "78a95e5b072dfaa2a2e983f55f199454": {
+            "channelName": "Estudiantes de Rio Cuarto vs Rosario Central",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/2424.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/437.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "1fba944a4ef8157d0dfe8f6ebbc4abf0": {
             "channelName": "Hertha Berlin vs Holstein Kiel",
             "contentType": "event_pertandingan",
