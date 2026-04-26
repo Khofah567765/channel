@@ -5,7 +5,7 @@
         "b262fda2149456c5a1254e4849fe1d9b": {
             "channelName": "Fiorentina vs Sassuolo",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/ad1.m3u8?token=prh2lDYzsJzWK3TmYAQGfA&expires=1777193564",
+            "streamUrl": "https://a4.kora-plus.dad/watch/ad1.m3u8?token=tLK2IddSCRTn6jGvBjSGrw&expires=1777197447",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557535616.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1558139207.png",
@@ -25,8 +25,8 @@
         "694d4342793899965f6cf3ada66cc3e9": {
             "channelName": "Tottenham Hotspur W vs Manchester United W",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/nz3.m3u8?token=QucI8V1A5cd5v_dV9BubUg&expires=1777193567",
-            "status": "live",
+            "streamUrl": "",
+            "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1742723718.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/4898.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -355,7 +355,7 @@
         "ba76a3a52608c71de3929d7bd13957c1": {
             "channelName": "Sao Paulo vs Mirassol",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/br4.m3u8?token=7JVqsCSKME9kHOaHVFQQBw&expires=1777193605",
+            "streamUrl": "https://a1.kora-plus.dad/watch/br4.m3u8?token=Az_ANw_w_j4pPNd5b-M-4g&expires=1777197489",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1570933882.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/7848.png",
@@ -365,7 +365,7 @@
         "95f5aa2b96dc3ef4b9a9e8e57892e35f": {
             "channelName": "River Plate vs Aldosivi",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/hd9.m3u8?token=ytZXTq-IAU6V4X8h_9Bisw&expires=1777193606",
+            "streamUrl": "https://a1.kora-plus.dad/watch/hd9.m3u8?token=zoWmbnwtXfbs3cpnZye-oQ&expires=1777197490",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1566245104.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/463.png",
