@@ -5,7 +5,7 @@
         "b262fda2149456c5a1254e4849fe1d9b": {
             "channelName": "Fiorentina vs Sassuolo",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/ad1.m3u8?token=tLK2IddSCRTn6jGvBjSGrw&expires=1777197447",
+            "streamUrl": "https://a3.kora-plus.dad/watch/ad1.m3u8?token=ZkvKMGpvoGDCvB5AXXEwqA&expires=1777200948",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557535616.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1558139207.png",
@@ -85,8 +85,8 @@
         "e533c3f19638dcc61e1bdf81eff6efd2": {
             "channelName": "Genoa vs Como",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a4.kora-plus.dad/watch/ad1.m3u8?token=R53akIyZ3Se_ml9AXatbSA&expires=1777200959",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557010059.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/895.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -209,6 +209,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1556983444.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1570290754.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "02a08fda7b9d80df5130aaf8b3a5218b": {
+            "channelName": "Hibernian vs Hearts",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1678238414.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1678238483.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -355,7 +365,7 @@
         "ba76a3a52608c71de3929d7bd13957c1": {
             "channelName": "Sao Paulo vs Mirassol",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/br4.m3u8?token=Az_ANw_w_j4pPNd5b-M-4g&expires=1777197489",
+            "streamUrl": "https://a1.kora-plus.dad/watch/br4.m3u8?token=E_u-2zrPKDrwu-pvK58AVw&expires=1777200994",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1570933882.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/7848.png",
@@ -365,10 +375,20 @@
         "95f5aa2b96dc3ef4b9a9e8e57892e35f": {
             "channelName": "River Plate vs Aldosivi",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/hd9.m3u8?token=zoWmbnwtXfbs3cpnZye-oQ&expires=1777197490",
+            "streamUrl": "https://a2.kora-plus.dad/watch/hd9.m3u8?token=e1QNDjRh1xPcoNEwWdxnfA&expires=1777200996",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1566245104.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/463.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "aba239b9c77dd017e222d68627400fe7": {
+            "channelName": "MotoGP vs MotoGP",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1691310531.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1691310531.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
