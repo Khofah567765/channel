@@ -2,21 +2,11 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "89b024fdf1dc945acc02546de72c440a": {
-            "channelName": "Aljamain Sterling vs Youssef Zalal",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1683352846.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1777117580.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "b262fda2149456c5a1254e4849fe1d9b": {
             "channelName": "Fiorentina vs Sassuolo",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a4.kora-plus.dad/watch/ad1.m3u8?token=prh2lDYzsJzWK3TmYAQGfA&expires=1777193564",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557535616.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1558139207.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -35,8 +25,8 @@
         "694d4342793899965f6cf3ada66cc3e9": {
             "channelName": "Tottenham Hotspur W vs Manchester United W",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a3.kora-plus.dad/watch/nz3.m3u8?token=QucI8V1A5cd5v_dV9BubUg&expires=1777193567",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1742723718.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/4898.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -365,7 +355,7 @@
         "ba76a3a52608c71de3929d7bd13957c1": {
             "channelName": "Sao Paulo vs Mirassol",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/br4.m3u8?token=-1iopBXvcCzLNC9nSe0mpw&expires=1777187147",
+            "streamUrl": "https://a4.kora-plus.dad/watch/br4.m3u8?token=7JVqsCSKME9kHOaHVFQQBw&expires=1777193605",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1570933882.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/7848.png",
@@ -375,7 +365,7 @@
         "95f5aa2b96dc3ef4b9a9e8e57892e35f": {
             "channelName": "River Plate vs Aldosivi",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/hd9.m3u8?token=w_Z6mdSH0hbGx34M4ddcOg&expires=1777187149",
+            "streamUrl": "https://a2.kora-plus.dad/watch/hd9.m3u8?token=ytZXTq-IAU6V4X8h_9Bisw&expires=1777193606",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1566245104.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/463.png",
