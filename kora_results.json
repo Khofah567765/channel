@@ -2,23 +2,23 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "9250b2ee4eec8fbba2a3fe4fed793540": {
-            "channelName": "Pyramids FC vs Al Ahly",
+        "f58900b6309962f3b6efcc274a131a00": {
+            "channelName": "Manchester Utd vs Brentford",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/on1.m3u8?token=fgslwglF1PysMEbuNIEjHA&expires=1777316816",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1571255818.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1563975183.png",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1556300891.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1595719971.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "17c56088df4f4b4d25e9c2ae5e923bef": {
-            "channelName": "Cagliari vs Atalanta",
+        "9250b2ee4eec8fbba2a3fe4fed793540": {
+            "channelName": "Pyramids FC vs Al Ahly",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/ad1.m3u8?token=Pal_RoBmYNeHSRCXBv3hxw&expires=1777316818",
+            "streamUrl": "https://a3.kora-plus.dad/watch/on1.m3u8?token=czcfd5NkCVIPDOsJ8nUOHQ&expires=1777322821",
             "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1557535481.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1557009898.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1571255818.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1563975183.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -35,20 +35,10 @@
         "df12f08e192665a6ac7c0bfe0aa18fe1": {
             "channelName": "Lazio vs Udinese",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/ad1.m3u8?token=Cs0hkNpg9SSGD2UgcT964Q&expires=1777316821",
+            "streamUrl": "https://a4.kora-plus.dad/watch/ad1.m3u8?token=dkGV1e1wU5oKWyKQEXN2sw&expires=1777322824",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557009867.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1564236433.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "f58900b6309962f3b6efcc274a131a00": {
-            "channelName": "Manchester Utd vs Brentford",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1556300891.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1595719971.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -65,7 +55,7 @@
         "1ee54abb8bae09bc3c3749ed80d3478d": {
             "channelName": "Gil Vicente vs Casa Pia",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/tv1.m3u8?token=VvgtIWJXUuW5S_lR1PJt0A&expires=1777316825",
+            "streamUrl": "https://a2.kora-plus.dad/watch/tv1.m3u8?token=Gt7lPKLpqHh-U3DAZiw0_Q&expires=1777322827",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1681621630.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1684046700.png",
@@ -75,7 +65,7 @@
         "d1fd98c6a5182bed825afc2def72c4ac": {
             "channelName": "Velez Sarsfield vs Union Santa Fe",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/hd9.m3u8?token=_IzxrPc_wUq7vqFETq1bSg&expires=1777316827",
+            "streamUrl": "https://a1.kora-plus.dad/watch/hd9.m3u8?token=5di49TLET2NNjOtPyc58Hw&expires=1777322828",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/438.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/441.png",
@@ -99,6 +89,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1569252347.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1583054227.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "17c56088df4f4b4d25e9c2ae5e923bef": {
+            "channelName": "Cagliari vs Atalanta",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a4.kora-plus.dad/watch/ad1.m3u8?token=5RfQXeIgzHL37l7dK4gB8w&expires=1777322833",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1557535481.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1557009898.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
