@@ -25,8 +25,8 @@
         "17c56088df4f4b4d25e9c2ae5e923bef": {
             "channelName": "Cagliari vs Atalanta",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a4.kora-plus.dad/watch/ad1.m3u8?token=2Uq8Rai2dWX46hMV0jui4A&expires=1777298689",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557535481.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1557009898.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -45,8 +45,8 @@
         "9250b2ee4eec8fbba2a3fe4fed793540": {
             "channelName": "Pyramids FC vs Al Ahly",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a4.kora-plus.dad/watch/on1.m3u8?token=uwA58wQtXJPoCFIA34vk5g&expires=1777298692",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1571255818.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1563975183.png",
             "referer": "https://vsys.kora-top.zip/",
