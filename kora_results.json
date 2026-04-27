@@ -2,20 +2,20 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "03503da3b46b2843adf8d3b00b0471a4": {
-            "channelName": "Zamalek vs ENPPI",
+        "9250b2ee4eec8fbba2a3fe4fed793540": {
+            "channelName": "Pyramids FC vs Al Ahly",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1557008685.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1609583202.jpg",
+            "streamUrl": "https://a3.kora-plus.dad/watch/on1.m3u8?token=fgslwglF1PysMEbuNIEjHA&expires=1777316816",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1571255818.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1563975183.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         "17c56088df4f4b4d25e9c2ae5e923bef": {
             "channelName": "Cagliari vs Atalanta",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/ad1.m3u8?token=sDoYpNmZgKfoyBHY8eHxew&expires=1777312698",
+            "streamUrl": "https://a2.kora-plus.dad/watch/ad1.m3u8?token=Pal_RoBmYNeHSRCXBv3hxw&expires=1777316818",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557535481.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1557009898.png",
@@ -32,20 +32,10 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "9250b2ee4eec8fbba2a3fe4fed793540": {
-            "channelName": "Pyramids FC vs Al Ahly",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/on1.m3u8?token=jmDT3bMT_CYuao-kiGYJyw&expires=1777312702",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1571255818.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1563975183.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "df12f08e192665a6ac7c0bfe0aa18fe1": {
             "channelName": "Lazio vs Udinese",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/ad1.m3u8?token=poUoB5Oo0TaCHnXlnysZNw&expires=1777312704",
+            "streamUrl": "https://a1.kora-plus.dad/watch/ad1.m3u8?token=Cs0hkNpg9SSGD2UgcT964Q&expires=1777316821",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557009867.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1564236433.png",
@@ -75,7 +65,7 @@
         "1ee54abb8bae09bc3c3749ed80d3478d": {
             "channelName": "Gil Vicente vs Casa Pia",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/tv1.m3u8?token=rFYOcS3zBBuZ1JG-CDCEaA&expires=1777312711",
+            "streamUrl": "https://a4.kora-plus.dad/watch/tv1.m3u8?token=VvgtIWJXUuW5S_lR1PJt0A&expires=1777316825",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1681621630.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1684046700.png",
@@ -85,10 +75,20 @@
         "d1fd98c6a5182bed825afc2def72c4ac": {
             "channelName": "Velez Sarsfield vs Union Santa Fe",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/hd9.m3u8?token=UAwV7D6x6AsnEBBlkJWd4g&expires=1777312712",
+            "streamUrl": "https://a2.kora-plus.dad/watch/hd9.m3u8?token=_IzxrPc_wUq7vqFETq1bSg&expires=1777316827",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/438.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/441.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "03503da3b46b2843adf8d3b00b0471a4": {
+            "channelName": "Zamalek vs ENPPI",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1557008685.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1609583202.jpg",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
