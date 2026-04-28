@@ -12,16 +12,6 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "a5557566e2b01fca9ba7ad55c281c037": {
-            "channelName": "Al-Hilal Saudi vs Damac FC",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a5.kora-plus.dad/watch/alwan3.m3u8?token=ClHydy3KoLTn4L3imUghmQ&expires=1777416046",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1565008904.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1571410568.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "a47f38a5e89102a9feba0b8f25ef41be": {
             "channelName": "Southampton vs Ipswich",
             "contentType": "event_pertandingan",
@@ -29,16 +19,6 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1565677491.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/57.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "7bea29548e1e9139abce22facec539cd": {
-            "channelName": "Al Khaleej Saihat vs Al Najma",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a5.kora-plus.dad/watch/thman1.m3u8?token=4r2YsSBrhO0819oEsihWkA&expires=1777416049",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1741967325.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/2992.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -55,7 +35,7 @@
         "7cf61d530545601cf95c5ec3f476af8a": {
             "channelName": "Botafogo vs Independiente Petrolero",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/br6.m3u8?token=gziCBCthJtKKTkxH9C8Fig&expires=1777416052",
+            "streamUrl": "https://a2.kora-plus.dad/watch/br6.m3u8?token=0upUBYjq6WJWgBf4nOGN6w&expires=1777419656",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/120.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/15702.png",
@@ -65,7 +45,7 @@
         "943dfb22049e69c2f2eaffec152390ea": {
             "channelName": "Lanus vs LDU Quito",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/hd9.m3u8?token=jou3JvzkvlAZh_1InLWsPw&expires=1777416053",
+            "streamUrl": "https://a1.kora-plus.dad/watch/hd9.m3u8?token=cizpC5EavIZ2RXgQzIrNAA&expires=1777419657",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/446.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1566244552.png",
@@ -85,7 +65,7 @@
         "d6ad20430202ea708e6d3313adaeecb3": {
             "channelName": "Millonarios vs Sao Paulo",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/br2.m3u8?token=Hbsk0ztpTzj5mZG4A9EtzA&expires=1777416056",
+            "streamUrl": "https://a4.kora-plus.dad/watch/br2.m3u8?token=ZQs0e-_4DHhFVGSpw3s1Ng&expires=1777419661",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1125.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1570933882.png",
@@ -95,7 +75,7 @@
         "66e62cf62fd5f961c3bc313c4f49c472": {
             "channelName": "Cruzeiro vs Boca Juniors",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a5.kora-plus.dad/watch/hd9.m3u8?token=24v1ae_movCWaXFU34gytQ&expires=1777416058",
+            "streamUrl": "https://a3.kora-plus.dad/watch/hd9.m3u8?token=hm7vOHRVN_o-nfauP-5JAg&expires=1777419662",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1688249348.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1566244593.png",
@@ -105,7 +85,7 @@
         "64ea4250e2147b0863032740962c992b": {
             "channelName": "Nashville SC vs Tigres UANL",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/hd5.m3u8?token=7vWJOxQzVibNkzpS0O5_gg&expires=1777416059",
+            "streamUrl": "https://a6.kora-plus.dad/watch/hd5.m3u8?token=1Q0muRQInO2dRBlXlZY9Ew&expires=1777419664",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/9569.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1612443557.jpg",
@@ -115,7 +95,7 @@
         "b5b956eb2c3644c507263d6b5c3cfed2": {
             "channelName": "Sporting Cristal vs Junior",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a5.kora-plus.dad/watch/hd9.m3u8?token=KwcT3O9nWyB6-s1eraGBoQ&expires=1777416061",
+            "streamUrl": "https://a4.kora-plus.dad/watch/hd9.m3u8?token=iqU_gfo1r3jWSfOqlPQFqQ&expires=1777419666",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/2546.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1135.png",
@@ -125,7 +105,7 @@
         "50c7003323120e7fae55fe1ece03145e": {
             "channelName": "Petrojet vs Ismaily",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/on1.m3u8?token=g11pdsZDFOn8Cfxq5jygWA&expires=1777416062",
+            "streamUrl": "https://a5.kora-plus.dad/watch/on1.m3u8?token=58Nw5ZJuODdI-kJfRDchCA&expires=1777419667",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1656752193.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1563975286.png",
@@ -145,7 +125,7 @@
         "2c3e4f2b6f509048d2cb9b96ee604ec8": {
             "channelName": "Al-Shabab vs Al-Fateh",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/thman2.m3u8?token=kVS7tCDkDbnu8GJl8Hre6Q&expires=1777416065",
+            "streamUrl": "https://a1.kora-plus.dad/watch/thman2.m3u8?token=WvxJBFWoPF45VRhbMU4Kpg&expires=1777419670",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1569537759.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1572531350.png",
@@ -155,17 +135,37 @@
         "fdc78b7bf2a7f9d40bb7a2f09027d19b": {
             "channelName": "NEOM vs Al Hazem",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/thman3.m3u8?token=RCxSBrSBz1-T243Gb05isg&expires=1777416067",
+            "streamUrl": "https://a4.kora-plus.dad/watch/thman3.m3u8?token=NDMXWMbVvS9dHBd6dOVhbw&expires=1777419672",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/10513.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1570135076.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
+        "a5557566e2b01fca9ba7ad55c281c037": {
+            "channelName": "Al-Hilal Saudi vs Damac FC",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a5.kora-plus.dad/watch/alwan3.m3u8?token=Y3KWU6iZ2p06s5TqI7_4VA&expires=1777419673",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1565008904.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1571410568.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "7bea29548e1e9139abce22facec539cd": {
+            "channelName": "Al Khaleej Saihat vs Al Najma",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a6.kora-plus.dad/watch/thman1.m3u8?token=o2YS_JQXgCeCj_9L679aWA&expires=1777419675",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1741967325.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/2992.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "d8162c6faad97bc18cf8076d5d3c8168": {
             "channelName": "El Mokawloon vs Ghazl El Mahalla",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/on1.m3u8?token=8fYnkcRgIxW1YCb07b0u8w&expires=1777416068",
+            "streamUrl": "https://a5.kora-plus.dad/watch/on1.m3u8?token=tba0UQ7CuTLnOXNSwfb1wQ&expires=1777419676",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1575.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1608259706.png",
