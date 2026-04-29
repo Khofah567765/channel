@@ -15,8 +15,8 @@
         "908ea29522fa36a19abfdf0634bffa59": {
             "channelName": "Al Riyadh vs Al-Qadisiyah",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a3.kora-plus.dad/watch/thman3.m3u8?token=VOYmO_QJEPFAs7ul87whkg&expires=1777479535",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1739540056.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1608541677.jpg",
             "referer": "https://vsys.kora-top.zip/",
@@ -25,8 +25,8 @@
         "e3792b9ec1ea8c67d016664d0b5fa42a": {
             "channelName": "Al-Taawoun vs Al-Ittihad",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a3.kora-plus.dad/watch/alwan3.m3u8?token=dnDejRlLw54YdeX_FTTQkA&expires=1777479537",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1569516699.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1565007758.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -185,7 +185,7 @@
         "f2bf85674f3e43d169ae562535edf4e4": {
             "channelName": "Millonarios vs Sao Paulo",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/br2.m3u8?token=P9P5DozvM7lqZbUc-qo5tQ&expires=1777471087",
+            "streamUrl": "https://a2.kora-plus.dad/watch/br2.m3u8?token=R9siJfarJyqL6g49cO9rnQ&expires=1777479556",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1125.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1570933882.png",
@@ -195,7 +195,7 @@
         "5d71f175e479511e484e73ab2c55e687": {
             "channelName": "Cruzeiro vs Boca Juniors",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/hd9.m3u8?token=k20-kiTs0Doje7ZTggcW0A&expires=1777471089",
+            "streamUrl": "https://a2.kora-plus.dad/watch/hd9.m3u8?token=TUnFb3uZ5buT-xrunOWoxQ&expires=1777479558",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1688249348.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1566244593.png",
@@ -205,7 +205,7 @@
         "2f5fc80ea0f8f43a63f627dc54ffdc33": {
             "channelName": "Nashville SC vs Tigres UANL",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/hd5.m3u8?token=dxi6-ZcFbTJvAUoWuoiAVg&expires=1777471090",
+            "streamUrl": "https://a1.kora-plus.dad/watch/hd5.m3u8?token=vrfU6qmgPh3ccgvvBJvquA&expires=1777479560",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/9569.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1612443557.jpg",
@@ -215,7 +215,7 @@
         "b0d1d24ddb3af47c118e20eb7492c93e": {
             "channelName": "Sporting Cristal vs Junior",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/hd9.m3u8?token=_qyvljA7jNUTvGrnQQKinA&expires=1777471092",
+            "streamUrl": "https://a3.kora-plus.dad/watch/hd9.m3u8?token=rrpoA06US5mvakK--7C-zQ&expires=1777479562",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/2546.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1135.png",
