@@ -2,56 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "f324e0a560a0fa5a7f435575dc902932": {
-            "channelName": "UCV vs Rosario Central",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/2840.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/437.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "f2bf85674f3e43d169ae562535edf4e4": {
-            "channelName": "Millonarios vs Sao Paulo",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/br2.m3u8?token=3ZmS41t-cM_DJIX8dCQ7cg&expires=1777429551",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1125.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1570933882.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "5d71f175e479511e484e73ab2c55e687": {
-            "channelName": "Cruzeiro vs Boca Juniors",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/hd9.m3u8?token=ndM0ly9Llh9XxVMBhZlj_g&expires=1777429552",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1688249348.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1566244593.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "2f5fc80ea0f8f43a63f627dc54ffdc33": {
-            "channelName": "Nashville SC vs Tigres UANL",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/hd5.m3u8?token=IbA4S4vMHDK3zAfmpbK68g&expires=1777429554",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/9569.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1612443557.jpg",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "b0d1d24ddb3af47c118e20eb7492c93e": {
-            "channelName": "Sporting Cristal vs Junior",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a5.kora-plus.dad/watch/hd9.m3u8?token=4xvcgOb2cEEuHqq_vFGtSA&expires=1777429556",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/2546.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1135.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "2feca79674df24866bd01be69e73db21": {
             "channelName": "AS Soliman vs Club Africain",
             "contentType": "event_pertandingan",
@@ -219,6 +169,56 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1616.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/2281.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "f324e0a560a0fa5a7f435575dc902932": {
+            "channelName": "UCV vs Rosario Central",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/2840.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/437.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "f2bf85674f3e43d169ae562535edf4e4": {
+            "channelName": "Millonarios vs Sao Paulo",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a2.kora-plus.dad/watch/br2.m3u8?token=Mm8FyiM2FsrRO4kueM0QeA&expires=1777441913",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1125.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1570933882.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "5d71f175e479511e484e73ab2c55e687": {
+            "channelName": "Cruzeiro vs Boca Juniors",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a3.kora-plus.dad/watch/hd9.m3u8?token=i10epcmXMLxLJ_Hn2RLtfQ&expires=1777441915",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1688249348.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1566244593.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "2f5fc80ea0f8f43a63f627dc54ffdc33": {
+            "channelName": "Nashville SC vs Tigres UANL",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a1.kora-plus.dad/watch/hd5.m3u8?token=8PddfffQbqUyJoG0Zy4Brw&expires=1777441917",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/9569.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1612443557.jpg",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "b0d1d24ddb3af47c118e20eb7492c93e": {
+            "channelName": "Sporting Cristal vs Junior",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a3.kora-plus.dad/watch/hd9.m3u8?token=9AeoYBr8attIPbv82Z_qDQ&expires=1777441919",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/2546.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1135.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
