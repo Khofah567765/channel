@@ -45,7 +45,7 @@
         "6415dbd2d2a5b33bf296c9f454bae98b": {
             "channelName": "Al Kholood vs Al-Fayha",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/thman1.m3u8?token=KrCRhZIvjngSM59yEcQEFA&expires=1777583681",
+            "streamUrl": "https://a3.kora-plus.dad/watch/thman1.m3u8?token=8VNEbvrrlAUDZ4PjTxzbeA&expires=1777587402",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1739539923.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1583494772.png",
@@ -55,8 +55,8 @@
         "03d23d500abf2b0644eaeba968353e77": {
             "channelName": "Club Bolivar vs Fluminense",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a3.kora-plus.dad/watch/hd9.m3u8?token=LNkfAaDxkeMxAIZ0AYrPqA&expires=1777587404",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1583845442.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1688200083.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -65,8 +65,8 @@
         "9f4340fc7ecf27808e38f29c5721376d": {
             "channelName": "Independ. Rivadavia vs Deportivo La Guaira",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a5.kora-plus.dad/watch/br6.m3u8?token=6BC4zd832fEXUjTwpr5HiA&expires=1777587405",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/473.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/2813.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -95,8 +95,8 @@
         "e1fc4077bd8b76d8270a16a274e4aa9f": {
             "channelName": "Velez Sarsfield vs Gimnasia Y Tiro",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a3.kora-plus.dad/watch/hd8.m3u8?token=qIH5ye4gEOnrNG8D2rhl_g&expires=1777587409",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/438.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1928.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -105,8 +105,8 @@
         "fc3768ab1076ce42f97e76b3d430329a": {
             "channelName": "RB Bragantino vs River Plate",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a1.kora-plus.dad/watch/hd9.m3u8?token=3tEyt24PDVQQ56zxI7xOoA&expires=1777587410",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1688323660.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1566245104.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -125,7 +125,7 @@
         "a969700cf0413d2679d6ebde10a88cc3": {
             "channelName": "Estudiantes L.P. vs Flamengo",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/hd9.m3u8?token=KUdVX-uXvqKlmffxTUsUEA&expires=1777583691",
+            "streamUrl": "https://a2.kora-plus.dad/watch/hd9.m3u8?token=oFr_bZxUyebCApkkrZzwuA&expires=1777587413",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/450.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1566244935.png",
@@ -145,7 +145,7 @@
         "faadce1790c66f3ba2f05cf4bc2fc248": {
             "channelName": "Cienciano vs Atletico-MG",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/br4.m3u8?token=wWzdtiHx2jEOxszklgpZ5A&expires=1777583694",
+            "streamUrl": "https://a2.kora-plus.dad/watch/br4.m3u8?token=IGmPCVpT_sdNRQOgE_JnNA&expires=1777587416",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/2562.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1062.png",
@@ -155,7 +155,7 @@
         "4825c8501a238a4e3a535e1d3ca89fa9": {
             "channelName": "Universitario vs Club Nacional",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/hd9.m3u8?token=uAVHBSDeIlovvqoAgFj1SQ&expires=1777583695",
+            "streamUrl": "https://a5.kora-plus.dad/watch/hd9.m3u8?token=3QV0tG6t8jUiQR_v7uDX7A&expires=1777587418",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/2540.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/2356.png",
@@ -165,7 +165,7 @@
         "0f32de25160a4624d3fddbd288f01d2d": {
             "channelName": "Los Angeles FC vs Toluca",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/hd5.m3u8?token=AGbHbkWUcxIUtKVOqxHEgQ&expires=1777583697",
+            "streamUrl": "https://a1.kora-plus.dad/watch/hd5.m3u8?token=-2l9CSXv98tpNsPPbu8MzQ&expires=1777587419",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1616.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/2281.png",
@@ -185,7 +185,7 @@
         "2943f6583d02b56a3b8463c79e9bc8f8": {
             "channelName": "Al Akhdoud vs Al-Ettifaq",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/thman2.m3u8?token=wvRf0mRicDfo7Rl8s2slzQ&expires=1777583700",
+            "streamUrl": "https://a2.kora-plus.dad/watch/thman2.m3u8?token=0YIvUVEK9WcFI0AJsR-B7w&expires=1777587422",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/2977.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1582237044.png",
@@ -195,7 +195,7 @@
         "9d6eab293f8482498d6eba26fd6bacaf": {
             "channelName": "AS FAR Rabat vs Raja Club Athletic",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a5.kora-plus.dad/watch/riadia.m3u8?token=n8hUMdf7WBWw-UamdXJnDw&expires=1777583701",
+            "streamUrl": "https://a4.kora-plus.dad/watch/riadia.m3u8?token=ER_XmFfXNU7o7W5QCsQu3Q&expires=1777587423",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1583244525.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1571880004.png",
