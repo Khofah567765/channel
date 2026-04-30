@@ -2,66 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "c4a48c7ecdb945a4a1e8e4682ac24b21": {
-            "channelName": "Palestino vs Gremio",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/2318.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1566243892.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "a969700cf0413d2679d6ebde10a88cc3": {
-            "channelName": "Estudiantes L.P. vs Flamengo",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/hd9.m3u8?token=WsODR5RGjVUFnE5s0RwPeQ&expires=1777525262",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/450.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1566244935.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "d01701b847bfb430658bc49974685401": {
-            "channelName": "Cerro Porteno vs Palmeiras",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1566245149.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1566243942.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "faadce1790c66f3ba2f05cf4bc2fc248": {
-            "channelName": "Cienciano vs Atletico-MG",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/br4.m3u8?token=vKZ9bw2tffOObYRUglmkNQ&expires=1777525265",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/2562.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1062.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "4825c8501a238a4e3a535e1d3ca89fa9": {
-            "channelName": "Universitario vs Club Nacional",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/hd9.m3u8?token=sNDgmIdgDbX5XEE_hPqLTA&expires=1777525267",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/2540.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/2356.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "0f32de25160a4624d3fddbd288f01d2d": {
-            "channelName": "Los Angeles FC vs Toluca",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/hd5.m3u8?token=NTH2EyEMNeA1Pq1KG98tTw&expires=1777525269",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1616.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/2281.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "353816cb3b48ce2789bcb3cdc72936cc": {
             "channelName": "Esperance Tunis vs CS Sfaxien",
             "contentType": "event_pertandingan",
@@ -199,6 +139,66 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1688323660.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1566245104.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "c4a48c7ecdb945a4a1e8e4682ac24b21": {
+            "channelName": "Palestino vs Gremio",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/2318.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1566243892.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "a969700cf0413d2679d6ebde10a88cc3": {
+            "channelName": "Estudiantes L.P. vs Flamengo",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a4.kora-plus.dad/watch/hd9.m3u8?token=a_ZyzCNi_CMrGuj7NHfNFg&expires=1777534711",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/450.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1566244935.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "d01701b847bfb430658bc49974685401": {
+            "channelName": "Cerro Porteno vs Palmeiras",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1566245149.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1566243942.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "faadce1790c66f3ba2f05cf4bc2fc248": {
+            "channelName": "Cienciano vs Atletico-MG",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a1.kora-plus.dad/watch/br4.m3u8?token=efoSuSh7BtPM1ZOLKmp4Cw&expires=1777534714",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/2562.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1062.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "4825c8501a238a4e3a535e1d3ca89fa9": {
+            "channelName": "Universitario vs Club Nacional",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a1.kora-plus.dad/watch/hd9.m3u8?token=s_-H5Epglbw1VQ_KoVl3dg&expires=1777534716",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/2540.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/2356.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "0f32de25160a4624d3fddbd288f01d2d": {
+            "channelName": "Los Angeles FC vs Toluca",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a5.kora-plus.dad/watch/hd5.m3u8?token=tCTvLZlt2AfqiZp80s9oFw&expires=1777534717",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1616.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/2281.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
