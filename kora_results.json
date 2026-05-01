@@ -2,16 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "a30866e36eb81ea598ccf17ee43688c9": {
-            "channelName": "RB Bragantino vs River Plate",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/hd9.m3u8?token=rJNky9vMsjRox7wrBW0rfA&expires=1777621601",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1688323660.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1566245104.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "c610e65a4eeec179b4a3827108408838": {
             "channelName": "Pyramids FC vs ENPPI",
             "contentType": "event_pertandingan",
@@ -95,10 +85,20 @@
         "c87e3b15fc52f10edee144a338b5acfc": {
             "channelName": "Velez Sarsfield vs Gimnasia Y Tiro",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/hd8.m3u8?token=bOIr0F-AwZFDAuO2J3N7Xg&expires=1777621612",
+            "streamUrl": "https://a1.kora-plus.dad/watch/hd8.m3u8?token=xG5M-gFZoUt2OUcozHbmIw&expires=1777629103",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/438.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1928.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "a30866e36eb81ea598ccf17ee43688c9": {
+            "channelName": "RB Bragantino vs River Plate",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a3.kora-plus.dad/watch/hd9.m3u8?token=PPG8Ak4zpdIxevld-Li5Jg&expires=1777629105",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1688323660.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1566245104.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
