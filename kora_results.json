@@ -2,26 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "c610e65a4eeec179b4a3827108408838": {
-            "channelName": "Pyramids FC vs ENPPI",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/onplus.m3u8?token=nVnlEr8WL5UdQZq0kUhoSA&expires=1777662837",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1571255818.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1609583202.jpg",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "61577958b719394e9f3c2949f7b4494d": {
-            "channelName": "Ceramica Cleopatra vs Al-Masry",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1610099110.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1583054227.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "ad6d766a453772fc9f0603a5e864ae62": {
             "channelName": "Formula 1 vs Formula 1",
             "contentType": "event_pertandingan",
@@ -32,20 +12,10 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "3d2f20ee8de1b20959268b7fe1f65e9f": {
-            "channelName": "Zamalek vs Al Ahly",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/on1.m3u8?token=b462h-StcoY48xeCAB0DNg&expires=1777662842",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1557008685.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1563975183.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "d65a4d3d67630e363de24573acd8304a": {
             "channelName": "Pisa vs Lecce",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/ad1.m3u8?token=TpJUwaYWSJVBO8mOODH5lg&expires=1777662844",
+            "streamUrl": "https://a3.kora-plus.dad/watch/ad1.m3u8?token=_wRt4mqd19mzIfEToWByBg&expires=1777668116",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/801.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1566725911.png",
@@ -72,6 +42,16 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
+        "3d2f20ee8de1b20959268b7fe1f65e9f": {
+            "channelName": "Zamalek vs Al Ahly",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a6.kora-plus.dad/watch/on1.m3u8?token=-UhsQwiKfrpN27YZBSesKg&expires=1777668121",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1557008685.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1563975183.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "7966941fcdc3ed03bdb89649f95b1525": {
             "channelName": "Corinthians vs Penarol",
             "contentType": "event_pertandingan",
@@ -85,7 +65,7 @@
         "c87e3b15fc52f10edee144a338b5acfc": {
             "channelName": "Velez Sarsfield vs Gimnasia Y Tiro",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/hd8.m3u8?token=XWDn1gnFLJSjHnEY0zgiig&expires=1777662849",
+            "streamUrl": "https://a2.kora-plus.dad/watch/hd8.m3u8?token=Nqa-qpz2f8G7FQpc1EE8aQ&expires=1777668125",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/438.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1928.png",
@@ -95,10 +75,30 @@
         "a30866e36eb81ea598ccf17ee43688c9": {
             "channelName": "RB Bragantino vs River Plate",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/hd9.m3u8?token=RXXa61pNvJwfGYI7pSZ-eQ&expires=1777662851",
+            "streamUrl": "https://a1.kora-plus.dad/watch/hd9.m3u8?token=s9Bzj3PmTT8M1FE36kBnmg&expires=1777668126",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1688323660.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1566245104.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "c610e65a4eeec179b4a3827108408838": {
+            "channelName": "Pyramids FC vs ENPPI",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a2.kora-plus.dad/watch/onplus.m3u8?token=j1HzET5o8klPg-3vDdjLeQ&expires=1777668130",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1571255818.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1609583202.jpg",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "61577958b719394e9f3c2949f7b4494d": {
+            "channelName": "Ceramica Cleopatra vs Al-Masry",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1610099110.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1583054227.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
