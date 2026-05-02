@@ -95,18 +95,28 @@
         "e701d337a022e12039d1ad95b42161f6": {
             "channelName": "Udinese vs Torino",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/ad1.m3u8?token=Y_f9lI4hnGkW0RH5RvPa4w&expires=1777723780",
+            "streamUrl": "https://a4.kora-plus.dad/watch/ad1.m3u8?token=plirL0Fk5saBXhAz8AG1EQ&expires=1777726693",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1564236433.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1556907778.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
+        "56b52b9a178ae671be57d2033d28ea9e": {
+            "channelName": "Lyon W vs Arsenal W",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a6.kora-plus.dad/watch/cbs.m3u8?token=itf96UgrO-TRMV--NBtCww&expires=1777726694",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1742305738.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1850.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "4531f4ad37920c69faa491224e6959a1": {
             "channelName": "Bayern Munich vs FC Heidenheim",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a3.kora-plus.dad/watch/alwan4.m3u8?token=f4WITeDpGW0RBWwCWfXSOg&expires=1777726696",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557535267.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1589539886.png",
             "referer": "https://vsys.kora-top.zip/",
