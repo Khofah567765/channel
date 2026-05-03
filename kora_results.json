@@ -2,10 +2,30 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
+        "b175177b84837c51f6d67309d04ec894": {
+            "channelName": "Bournemouth vs Crystal Palace",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1566428704.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1565444750.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "1f5f1febbf0a6447553b2fdad09ba8c1": {
+            "channelName": "Sassuolo vs Milan",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a3.kora-plus.dad/watch/ad1.m3u8?token=LYQYC-D8CdH-hfMKMdy4zw&expires=1777819514",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1558139207.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1556907818.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "0a018fc45d6159b4a087556e59e8dd71": {
             "channelName": "Bologna vs Cagliari",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/ad1.m3u8?token=g__BVZLL0arm402deyCWCw&expires=1777813559",
+            "streamUrl": "https://a2.kora-plus.dad/watch/ad1.m3u8?token=j74_ptV8a3JiQLGE-NOGXQ&expires=1777819516",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557092995.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1557535481.png",
@@ -52,16 +72,6 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "b175177b84837c51f6d67309d04ec894": {
-            "channelName": "Bournemouth vs Crystal Palace",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1566428704.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1565444750.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "c693ca063bab2b1d4bb15b44bd39b1ca": {
             "channelName": "Lille OSC vs Le Havre",
             "contentType": "event_pertandingan",
@@ -69,16 +79,6 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557010340.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1594632021.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "1f5f1febbf0a6447553b2fdad09ba8c1": {
-            "channelName": "Sassuolo vs Milan",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1558139207.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1556907818.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -105,8 +105,8 @@
         "0f329ebdc5582397a52a497e367a6dee": {
             "channelName": "FC Masr vs El Gouna FC",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a4.kora-plus.dad/watch/on1.m3u8?token=zOHJC9ZA0L4IS0eGIhrWzQ&expires=1777819527",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1570382853.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1601156928.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -135,8 +135,8 @@
         "ebe530cc94be771b41ca7bc7fa2055e9": {
             "channelName": "Barcelona W vs Bayern Munich W",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a3.kora-plus.dad/watch/cbs.m3u8?token=smxUXLrGWIJR7sX8_0zmkA&expires=1777819531",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1918.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1860.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -445,7 +445,7 @@
         "c8b003f7e30ec0895e6f587940f3f871": {
             "channelName": "Cruzeiro vs Atletico-MG",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/br1.m3u8?token=Px0g5L3tLoWi_D8ZRX95wQ&expires=1777813612",
+            "streamUrl": "https://a3.kora-plus.dad/watch/br1.m3u8?token=MFcbv2XwvqE-ADDUYDCZeA&expires=1777819567",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1688249348.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1062.png",
