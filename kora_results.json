@@ -5,7 +5,7 @@
         "0a018fc45d6159b4a087556e59e8dd71": {
             "channelName": "Bologna vs Cagliari",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/ad1.m3u8?token=pe6ijp8WIU2wkRxvQ6pZMQ&expires=1777793746",
+            "streamUrl": "https://a1.kora-plus.dad/watch/ad1.m3u8?token=cK048maR5VMif-hnD3Xarw&expires=1777800148",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557092995.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1557535481.png",
@@ -445,7 +445,7 @@
         "c8b003f7e30ec0895e6f587940f3f871": {
             "channelName": "Cruzeiro vs Atletico-MG",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/br1.m3u8?token=VDCN95IXrCEcaeWUByGmWw&expires=1777793798",
+            "streamUrl": "https://a4.kora-plus.dad/watch/br1.m3u8?token=0eXvskMnsM0v1weI6330ag&expires=1777800200",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1688249348.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1062.png",
