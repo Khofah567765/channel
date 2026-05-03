@@ -2,23 +2,33 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "b175177b84837c51f6d67309d04ec894": {
-            "channelName": "Bournemouth vs Crystal Palace",
+        "0a018fc45d6159b4a087556e59e8dd71": {
+            "channelName": "Bologna vs Cagliari",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1566428704.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1565444750.png",
+            "streamUrl": "https://a2.kora-plus.dad/watch/ad1.m3u8?token=ZkbzXfVSID4nV8winRm8eg&expires=1777825624",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1557092995.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1557535481.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "1f5f1febbf0a6447553b2fdad09ba8c1": {
-            "channelName": "Sassuolo vs Milan",
+        "99dea68869f7eea03720b41a2e505601": {
+            "channelName": "Manchester City W vs Liverpool W",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/ad1.m3u8?token=cJp356YUMLlJnUiqSH4M3w&expires=1777822579",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1558139207.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1556907818.png",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1854.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1847.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "7e1c2dc4497739e5b7d3b17623077ace": {
+            "channelName": "Hibernian vs Celtic",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1678238414.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1567290671.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -42,6 +52,16 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
+        "b175177b84837c51f6d67309d04ec894": {
+            "channelName": "Bournemouth vs Crystal Palace",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1566428704.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1565444750.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "c693ca063bab2b1d4bb15b44bd39b1ca": {
             "channelName": "Lille OSC vs Le Havre",
             "contentType": "event_pertandingan",
@@ -49,6 +69,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557010340.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1594632021.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "1f5f1febbf0a6447553b2fdad09ba8c1": {
+            "channelName": "Sassuolo vs Milan",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a4.kora-plus.dad/watch/ad1.m3u8?token=evr-05WbMwMc036WMwjHtA&expires=1777825633",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1558139207.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1556907818.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -75,7 +105,7 @@
         "0f329ebdc5582397a52a497e367a6dee": {
             "channelName": "FC Masr vs El Gouna FC",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/on1.m3u8?token=XiG2UIva02grXwgz1Gsi1g&expires=1777822587",
+            "streamUrl": "https://a1.kora-plus.dad/watch/on1.m3u8?token=j4nhLC-OVbR6BMBWA7LnMQ&expires=1777825638",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1570382853.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1601156928.png",
@@ -105,7 +135,7 @@
         "ebe530cc94be771b41ca7bc7fa2055e9": {
             "channelName": "Barcelona W vs Bayern Munich W",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/cbs.m3u8?token=P_emAOC8Kp_eJyO_p7rGWw&expires=1777822591",
+            "streamUrl": "https://a4.kora-plus.dad/watch/cbs.m3u8?token=wMNz9boatGZGAOLdK_EtDA&expires=1777825642",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1918.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1860.png",
@@ -165,7 +195,7 @@
         "4b9c808bd06572ac99116fda8ca5cab7": {
             "channelName": "Borussia Monchengladbach vs Borussia Dortmund",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/alwan4.m3u8?token=mHIgJHyeArmQqqjbtwOn2g&expires=1777822600",
+            "streamUrl": "https://a2.kora-plus.dad/watch/alwan4.m3u8?token=VgGP7JIo-ZxKmGCFSsDKBg&expires=1777825650",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1558219789.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1556983444.png",
@@ -175,7 +205,7 @@
         "0a0e1e0536136767826a6767d7366854": {
             "channelName": "Juventus vs Chievo Verona",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/ad1.m3u8?token=qMEbzXnk4e43i7aINS5-wA&expires=1777822601",
+            "streamUrl": "https://a6.kora-plus.dad/watch/ad1.m3u8?token=ZU5Z8TNSb33bZKuWhLVOXQ&expires=1777825651",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1556907695.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1557752013.png",
@@ -195,8 +225,8 @@
         "064fa4c3595bb60b05a4de11071f5eda": {
             "channelName": "Renaissance Zemamra vs Wydad Athletic Club",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a1.kora-plus.dad/watch/riadia.m3u8?token=w38nbWOeppRTj52_iaY9xQ&expires=1777825655",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1583430709.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1556302755.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -415,40 +445,10 @@
         "c8b003f7e30ec0895e6f587940f3f871": {
             "channelName": "Cruzeiro vs Atletico-MG",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/br1.m3u8?token=vybcsl6NLFpsOo0pmCRRcQ&expires=1777822629",
+            "streamUrl": "https://a3.kora-plus.dad/watch/br1.m3u8?token=I9TZXeu1aqHquj0fIm3Mxw&expires=1777825680",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1688249348.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1062.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "0a018fc45d6159b4a087556e59e8dd71": {
-            "channelName": "Bologna vs Cagliari",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/ad1.m3u8?token=tPH3P8FicT6RSucpOkJsdw&expires=1777822631",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1557092995.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1557535481.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "99dea68869f7eea03720b41a2e505601": {
-            "channelName": "Manchester City W vs Liverpool W",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1854.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1847.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "7e1c2dc4497739e5b7d3b17623077ace": {
-            "channelName": "Hibernian vs Celtic",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1678238414.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1567290671.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
