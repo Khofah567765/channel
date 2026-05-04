@@ -2,36 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "e26bff88ede434343ae822ce9118e1ee": {
-            "channelName": "Internacional vs Fluminense",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/br1.m3u8?token=Ey4N2ZcZrvsEWJp5_FORuQ&expires=1777857039",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1566244981.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1688200083.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "28a2567db22afee46454abd9b00b9319": {
-            "channelName": "River Plate vs Atletico Tucuman",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1566245104.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/455.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "c5cf62cbe9bac2ab32da79c43951429d": {
-            "channelName": "Mirassol vs Corinthians",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/br5.m3u8?token=oR9PGvpArdcOk0ZTdJ4NmQ&expires=1777857042",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/7848.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1570934037.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "0eaded1cb0ea7a3049c749e8326c4d33": {
             "channelName": "Chelsea vs Nottingham Forest",
             "contentType": "event_pertandingan",
