@@ -15,10 +15,30 @@
         "99405582d7b7b03813645c5e6e49eb5b": {
             "channelName": "Roma vs Fiorentina",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/ad1.m3u8?token=H61syJ6ukS-zUPgnt6QmCA&expires=1777933103",
+            "streamUrl": "https://a3.kora-plus.dad/watch/ad1.m3u8?token=zATnhgj4PJgqLBY_JzFAJw&expires=1777936640",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557010107.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1557535616.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "3c8622f1241c52d357647aba49c6dd56": {
+            "channelName": "Al-Ittihad vs Al Kholood",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a2.kora-plus.dad/watch/thman1.m3u8?token=5U4W4JQ5vW9WANBq9vRwkw&expires=1777936642",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1565007758.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1739539923.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "c04526ee6befd34fab07f4e4905def28": {
+            "channelName": "Al-Ettifaq vs Al Najma",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a3.kora-plus.dad/watch/thman3.m3u8?token=lqQ11DxYlRisiOPM_fbwrw&expires=1777936644",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1582237044.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/2992.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -35,7 +55,7 @@
         "9535ca4ef724210c59e0f5bf416ba4fe": {
             "channelName": "Sporting CP vs Vitoria Guimaraes",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/tv1.m3u8?token=2_csI442lC_tdk4NnBdXug&expires=1777933106",
+            "streamUrl": "https://a2.kora-plus.dad/watch/tv1.m3u8?token=-RvGnXK17vZln8KmReoZAA&expires=1777936647",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1558220377.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1571881050.png",
@@ -65,7 +85,7 @@
         "bc7577b03c5e9752e97f16a7e2f11379": {
             "channelName": "Al-Fayha vs Al Riyadh",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/thman2.m3u8?token=JiQkDRwH9GhPn0KCLen8_g&expires=1777933110",
+            "streamUrl": "https://a6.kora-plus.dad/watch/thman2.m3u8?token=PaO3ZiygVjg0MCP7Sh2c9w&expires=1777936651",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1583494772.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1739540056.png",
@@ -75,7 +95,7 @@
         "df0c401a86cbf68ea9a80f0efbfa1b3b": {
             "channelName": "Cremonese vs Lazio",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/ad1.m3u8?token=dXEucAeDo0b9PAULCGtowg&expires=1777933112",
+            "streamUrl": "https://a1.kora-plus.dad/watch/ad1.m3u8?token=b4WTS2DyApWuxDXO4d6iBQ&expires=1777936653",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1661139489.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1557009867.png",
@@ -89,26 +109,6 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1678238483.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1567290622.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "3c8622f1241c52d357647aba49c6dd56": {
-            "channelName": "Al-Ittihad vs Al Kholood",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/thman1.m3u8?token=wGX5Nxt-p2b7ny2i4ptVxw&expires=1777933114",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1565007758.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1739539923.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "c04526ee6befd34fab07f4e4905def28": {
-            "channelName": "Al-Ettifaq vs Al Najma",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/thman3.m3u8?token=Shm0qrBG5U87m6--CSgoug&expires=1777933116",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1582237044.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/2992.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
