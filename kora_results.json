@@ -2,6 +2,16 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
+        "950613a9798643263f5e56321ae5f8f5": {
+            "channelName": "Arsenal vs Atletico Madrid",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1557009110.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1564172667.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "075d9a4a6b35e2f09f3b1c1e0ac11f34": {
             "channelName": "Al Ahly vs ENPPI",
             "contentType": "event_pertandingan",
@@ -15,7 +25,7 @@
         "2c735a4811bd2bba4e4f6ef37fa62c0b": {
             "channelName": "Smouha vs Zamalek",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/on1.m3u8?token=9oRwHs5JR1V7dLBBIQvlXw&expires=1778008312",
+            "streamUrl": "https://a2.kora-plus.dad/watch/on1.m3u8?token=iaSTGZ7fF8ScYVu6S1dREg&expires=1778014405",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1569252347.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1557008685.png",
@@ -25,7 +35,7 @@
         "cbfb2ba3fb1965e7dd596c4ea749a3d1": {
             "channelName": "Ceramica Cleopatra vs Pyramids FC",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/onplus.m3u8?token=mQ2AxZP5fA8dDWpPnQxAKQ&expires=1778008314",
+            "streamUrl": "https://a1.kora-plus.dad/watch/onplus.m3u8?token=sI3z8xKF-bU4UWqJ7XcsJQ&expires=1778014407",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1610099110.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1571255818.png",
@@ -35,7 +45,7 @@
         "ff9244ed8438bdbf1ac7886da6162191": {
             "channelName": "Besiktas vs Konyaspor",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/atv.m3u8?token=QI2_FOfm9IEe7S7KV0dtaQ&expires=1778008315",
+            "streamUrl": "https://a1.kora-plus.dad/watch/atv.m3u8?token=K8ZjF0p7HKuF8hx-XI2yaQ&expires=1778014409",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557010753.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1663346905.png",
@@ -45,20 +55,10 @@
         "3d55eda74c961541dcd26ce1e6959916": {
             "channelName": "Al Khaleej Saihat vs Al-Hilal Saudi",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/alwan2.m3u8?token=VfYRL9gpXl9LHVzNXYDDxw&expires=1778008316",
+            "streamUrl": "https://a3.kora-plus.dad/watch/alwan2.m3u8?token=11e5Kjhmokx932x9_pcaNg&expires=1778014411",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1741967325.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1565008904.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "950613a9798643263f5e56321ae5f8f5": {
-            "channelName": "Arsenal vs Atletico Madrid",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1557009110.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1564172667.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
