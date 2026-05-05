@@ -12,10 +12,40 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
+        "075d9a4a6b35e2f09f3b1c1e0ac11f34": {
+            "channelName": "Al Ahly vs ENPPI",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1563975183.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1609583202.jpg",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "2c735a4811bd2bba4e4f6ef37fa62c0b": {
+            "channelName": "Smouha vs Zamalek",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a2.kora-plus.dad/watch/on1.m3u8?token=F9CpzqEcOn4I05ZxTgdzjg&expires=1778022461",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1569252347.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1557008685.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "cbfb2ba3fb1965e7dd596c4ea749a3d1": {
+            "channelName": "Ceramica Cleopatra vs Pyramids FC",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a6.kora-plus.dad/watch/onplus.m3u8?token=2EbbmlZMncp93B77_JgEzA&expires=1778022463",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1610099110.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1571255818.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "ff9244ed8438bdbf1ac7886da6162191": {
             "channelName": "Besiktas vs Konyaspor",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/atv.m3u8?token=gLFqNejtrxmwZ2y5bcJ0-Q&expires=1778018387",
+            "streamUrl": "https://a2.kora-plus.dad/watch/atv.m3u8?token=hmzGg_iXjmNweCqrCbwnIg&expires=1778022465",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557010753.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1663346905.png",
@@ -25,7 +55,7 @@
         "3d55eda74c961541dcd26ce1e6959916": {
             "channelName": "Al Khaleej Saihat vs Al-Hilal Saudi",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/alwan2.m3u8?token=5qmqdp8G3HdWjePbVyTWVw&expires=1778018389",
+            "streamUrl": "https://a6.kora-plus.dad/watch/alwan2.m3u8?token=KjUUtVNTquBKdVdM3GbBGg&expires=1778022466",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1741967325.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1565008904.png",
@@ -35,8 +65,8 @@
         "6d074d9fc0e6c2613856d79f2fc77c66": {
             "channelName": "Deportivo Riestra vs Gremio",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a6.kora-plus.dad/watch/br4.m3u8?token=Wlk2EGbIKiVzBC9jhGk1lw&expires=1778022468",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1731682080.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1566243892.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -45,8 +75,8 @@
         "6d4afa7d413ecf99605632a9e13ed1d7": {
             "channelName": "Juventud vs Atletico-MG",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a2.kora-plus.dad/watch/br2.m3u8?token=9aSGPUsqa31jUqP4DTdT6A&expires=1778022469",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/2353.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1062.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -65,8 +95,8 @@
         "b93269539bc546fd373f63e81066254e": {
             "channelName": "Sporting Cristal vs Palmeiras",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a6.kora-plus.dad/watch/hd9.m3u8?token=vyS9lkSta5KbR-bi6SLIsw&expires=1778022472",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/2546.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1566243942.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -75,8 +105,8 @@
         "4ca243cd652bfd9c49ea85966fce7278": {
             "channelName": "Barcelona SC vs Boca Juniors",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a6.kora-plus.dad/watch/hd9.m3u8?token=mQ-IYt6psqVAKjhiwaJbmw&expires=1778022473",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1152.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1566244593.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -85,8 +115,8 @@
         "97fa5ef03e960de625d7bb56d4017be8": {
             "channelName": "Deportivo Recoleta vs Santos",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a3.kora-plus.dad/watch/br2.m3u8?token=_rQHdmyjMHjfzhhXR_y45g&expires=1778022475",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/10476.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1570933631.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -95,40 +125,10 @@
         "e474ee484521e9e9bcc3b6e4eb4e7acf": {
             "channelName": "Deportivo Cuenca vs San Lorenzo",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a1.kora-plus.dad/watch/hd9.m3u8?token=iwam-wJXC53DuGYKxUf3wg&expires=1778022477",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1154.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/460.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "075d9a4a6b35e2f09f3b1c1e0ac11f34": {
-            "channelName": "Al Ahly vs ENPPI",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1563975183.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1609583202.jpg",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "2c735a4811bd2bba4e4f6ef37fa62c0b": {
-            "channelName": "Smouha vs Zamalek",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/on1.m3u8?token=S0eubCXiI1C9sQ8VFhhSOw&expires=1778018400",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1569252347.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1557008685.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "cbfb2ba3fb1965e7dd596c4ea749a3d1": {
-            "channelName": "Ceramica Cleopatra vs Pyramids FC",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/onplus.m3u8?token=QaeG9Pr2IkwVaV810n40aQ&expires=1778018402",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1610099110.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1571255818.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
