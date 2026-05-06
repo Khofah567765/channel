@@ -2,36 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "d8c533a27a5ad0d329d54aab12e2d292": {
-            "channelName": "Barcelona SC vs Boca Juniors",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/hd9.m3u8?token=sbIqTkrNYjua706CVtQJgA&expires=1778043601",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1152.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1566244593.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "8c5ca39c252807214f907c65b7977953": {
-            "channelName": "Deportivo Recoleta vs Santos",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/br2.m3u8?token=5RXH2a2_fYuEgJd0QzvsMw&expires=1778043603",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/10476.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1570933631.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "92dc483361831b954d0025aa2b8e3b67": {
-            "channelName": "Deportivo Cuenca vs San Lorenzo",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/hd9.m3u8?token=lRfUdi27IRT4uWHMzNApDw&expires=1778043605",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1154.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/460.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "5129ff9bad5a809e630925d16663d35f": {
             "channelName": "Mamelodi Sundowns vs Kaizer Chiefs",
             "contentType": "event_pertandingan",
@@ -79,6 +49,36 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1608901012.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1571880004.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "d8c533a27a5ad0d329d54aab12e2d292": {
+            "channelName": "Barcelona SC vs Boca Juniors",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a1.kora-plus.dad/watch/hd9.m3u8?token=lQ3ONwoSovi1-KUxIm6Dbw&expires=1778053113",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1152.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1566244593.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "8c5ca39c252807214f907c65b7977953": {
+            "channelName": "Deportivo Recoleta vs Santos",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a3.kora-plus.dad/watch/br2.m3u8?token=sGcxon4GyutxMNLD3XYmhw&expires=1778053115",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/10476.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1570933631.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "92dc483361831b954d0025aa2b8e3b67": {
+            "channelName": "Deportivo Cuenca vs San Lorenzo",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a4.kora-plus.dad/watch/hd9.m3u8?token=HSV7HdZXFzfTAp8fsjM7Rw&expires=1778053117",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1154.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/460.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
