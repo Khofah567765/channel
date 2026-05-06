@@ -12,10 +12,20 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
+        "5129ff9bad5a809e630925d16663d35f": {
+            "channelName": "Mamelodi Sundowns vs Kaizer Chiefs",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a2.kora-plus.dad/watch/psl.m3u8?token=9UAdbFQob6qIjKASJJdwCg&expires=1778107193",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1556302828.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1613179866.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "9bd5a68c3b147117fb08c9f466efdd84": {
             "channelName": "Wydad Athletic Club vs CODM Mekn\u00e8s",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/riadia.m3u8?token=45j9_BXgll32jd7hetYESg&expires=1778102738",
+            "streamUrl": "https://a2.kora-plus.dad/watch/riadia.m3u8?token=CM4MIFBKcVOQKEFL4Ufgig&expires=1778107195",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1556302755.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1731682110.png",
@@ -25,7 +35,7 @@
         "fcde4675d385f93a304d45f153f2190f": {
             "channelName": "Al-Ahli Saudi vs Al-Fateh",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/thman1.m3u8?token=tGNGN4A8QjMgIpwigile2A&expires=1778102739",
+            "streamUrl": "https://a1.kora-plus.dad/watch/thman1.m3u8?token=hvzQ8tzs-jBb1-7GC7rCJg&expires=1778107197",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1565008831.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1572531350.png",
@@ -35,7 +45,7 @@
         "22355fd2ffa639c3bbcdbca9f8dd1933": {
             "channelName": "MAS de Fes vs Raja Club Athletic",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/riadia.m3u8?token=lUwzp_kjeEHEqV96I2vqDQ&expires=1778102741",
+            "streamUrl": "https://a6.kora-plus.dad/watch/riadia.m3u8?token=-28E8asP0aTMMXH8muuZ0Q&expires=1778107199",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1608901012.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1571880004.png",
@@ -45,7 +55,7 @@
         "d8c533a27a5ad0d329d54aab12e2d292": {
             "channelName": "Barcelona SC vs Boca Juniors",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/hd9.m3u8?token=5Jbdn7mWtuVPuVc6Gr76qQ&expires=1778102742",
+            "streamUrl": "https://a6.kora-plus.dad/watch/hd9.m3u8?token=EUqV5X0-Jpm83_pHwH3kvA&expires=1778107200",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1152.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1566244593.png",
@@ -55,7 +65,7 @@
         "8c5ca39c252807214f907c65b7977953": {
             "channelName": "Deportivo Recoleta vs Santos",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/br2.m3u8?token=Dc38Ni3GLX0gytdKembwGQ&expires=1778102744",
+            "streamUrl": "https://a1.kora-plus.dad/watch/br2.m3u8?token=su_SkDj8ZMammInGqLg_QA&expires=1778107202",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/10476.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1570933631.png",
@@ -65,20 +75,10 @@
         "92dc483361831b954d0025aa2b8e3b67": {
             "channelName": "Deportivo Cuenca vs San Lorenzo",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/hd9.m3u8?token=KxjLc0uPEs6GjtVba7A62Q&expires=1778102746",
+            "streamUrl": "https://a2.kora-plus.dad/watch/hd9.m3u8?token=8RkdrkHSjYhwFRo36F3gpQ&expires=1778107203",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1154.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/460.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "5129ff9bad5a809e630925d16663d35f": {
-            "channelName": "Mamelodi Sundowns vs Kaizer Chiefs",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/psl.m3u8?token=CBMq0tSrmFfWjKMFfqhw4g&expires=1778102747",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1556302828.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1613179866.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
