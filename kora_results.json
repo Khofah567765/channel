@@ -5,8 +5,8 @@
         "08f9df3c1955b3779cab68c4fb8eb177": {
             "channelName": "Al-Shabab vs Al-Nassr",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a4.kora-plus.dad/watch/thman1.m3u8?token=fEg2p7Yes-aRxW9IDfLGog&expires=1778174903",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1569537759.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1565008227.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -65,7 +65,7 @@
         "36bcb060bd866e6e96df1ad32aa02e6e": {
             "channelName": "Barracas Central vs Olimpia",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/br6.m3u8?token=nWzoX-oqkigSqR9ymqeokw&expires=1778168736",
+            "streamUrl": "https://a1.kora-plus.dad/watch/br6.m3u8?token=gQITH7LbdqbnuHRSG_LQ-w&expires=1778174911",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/2432.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1182.png",
@@ -75,7 +75,7 @@
         "9b8692fa31173398cf47794fd81e6df9": {
             "channelName": "Botafogo vs Racing Club",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/hd9.m3u8?token=a1mSC96R5Yl5LCB7DlNn_A&expires=1778168738",
+            "streamUrl": "https://a3.kora-plus.dad/watch/hd9.m3u8?token=3_BrT39WRYBpBchaejER-Q&expires=1778174913",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/120.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1571257110.png",
@@ -95,7 +95,7 @@
         "b8224c4de203655b84e90edc54a0d770": {
             "channelName": "Independ. Rivadavia vs Fluminense",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/br2.m3u8?token=Lbe-Gd65fywt9NkO9qeGlQ&expires=1778168741",
+            "streamUrl": "https://a6.kora-plus.dad/watch/br2.m3u8?token=teIGBP7r0hiTbXYYSEsXDg&expires=1778174917",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/473.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1688200083.png",
@@ -105,7 +105,7 @@
         "c756bb312c26b4249e715cf2a1ad448d": {
             "channelName": "Toluca vs Los Angeles FC",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/hd5.m3u8?token=FO7OFJ3XHy61x_Mtc-ngoA&expires=1778168743",
+            "streamUrl": "https://a4.kora-plus.dad/watch/hd5.m3u8?token=f59TpgyxVct7QfTTqD-GgQ&expires=1778174919",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/2281.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1616.png",
@@ -115,7 +115,7 @@
         "bbeedb7a32c2010c452879a61cdc706e": {
             "channelName": "Deportes Tolima vs Club Nacional",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/br3.m3u8?token=8yKKgMgl7wGjpudu3ZqthQ&expires=1778168744",
+            "streamUrl": "https://a4.kora-plus.dad/watch/br3.m3u8?token=17M6wT13WZjDZhZrDXA4VQ&expires=1778174920",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1142.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/2356.png",
@@ -125,7 +125,7 @@
         "1081e28292a0d0cbb5a6aeb72cbdfedd": {
             "channelName": "U. Catolica vs Cruzeiro",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/br6.m3u8?token=x2mYletXwXdfxVSU9widOA&expires=1778168746",
+            "streamUrl": "https://a2.kora-plus.dad/watch/br6.m3u8?token=hbEb4AKSj4FjJ3EDEMm3RQ&expires=1778174922",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/2994.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1688249348.png",
