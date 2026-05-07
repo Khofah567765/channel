@@ -2,36 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "67a51601449345c2b2c3f1692df11960": {
-            "channelName": "Haras El Hodoud vs FC Masr",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1599438655.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1570382853.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "058bc0632358db67ef556cd294f2f873": {
-            "channelName": "National Bank of Egypt vs Ismaily",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/on1.m3u8?token=frPvWWXn_xnhWupgQ08w-Q&expires=1778180906",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1619405898.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1563975286.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "08f9df3c1955b3779cab68c4fb8eb177": {
-            "channelName": "Al-Shabab vs Al-Nassr",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/thman1.m3u8?token=scOdCyy-UVlEuitP_IevSQ&expires=1778180907",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1569537759.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1565008227.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "8cf81bd7fbd1d0c5b62f2a62c591bfed": {
             "channelName": "Aston Villa vs Nottingham Forest",
             "contentType": "event_pertandingan",
@@ -72,10 +42,40 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
+        "67a51601449345c2b2c3f1692df11960": {
+            "channelName": "Haras El Hodoud vs FC Masr",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1599438655.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1570382853.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "058bc0632358db67ef556cd294f2f873": {
+            "channelName": "National Bank of Egypt vs Ismaily",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a6.kora-plus.dad/watch/on1.m3u8?token=XJjx8scqz40lQMaJWfkucQ&expires=1778187177",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1619405898.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1563975286.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "08f9df3c1955b3779cab68c4fb8eb177": {
+            "channelName": "Al-Shabab vs Al-Nassr",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a3.kora-plus.dad/watch/thman1.m3u8?token=ujrdGzauYDcq6wDqXAqzZw&expires=1778187179",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1569537759.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1565008227.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "d8e1762e456b3b0bb9f751894098b641": {
             "channelName": "AS FAR Rabat vs Olympique de Safi",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/riadia.m3u8?token=vEpkb3gEtVsyaRwT65fhlw&expires=1778180914",
+            "streamUrl": "https://a3.kora-plus.dad/watch/riadia.m3u8?token=42A8Xpq26NAIuLhxrUfx0w&expires=1778187181",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1583244525.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1572733931.png",
@@ -85,7 +85,7 @@
         "36bcb060bd866e6e96df1ad32aa02e6e": {
             "channelName": "Barracas Central vs Olimpia",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/br6.m3u8?token=nKV-rmTnTooirWzrxaVDAg&expires=1778180916",
+            "streamUrl": "https://a4.kora-plus.dad/watch/br6.m3u8?token=OiMWkCNOOKrI8weCIZQBnA&expires=1778187182",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/2432.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1182.png",
@@ -95,7 +95,7 @@
         "9b8692fa31173398cf47794fd81e6df9": {
             "channelName": "Botafogo vs Racing Club",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/hd9.m3u8?token=oUiBhbqQFZ21c7MyxwLGmg&expires=1778180917",
+            "streamUrl": "https://a3.kora-plus.dad/watch/hd9.m3u8?token=NoZ8CHUkTXEvPzDk3Sshow&expires=1778187184",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/120.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1571257110.png",
@@ -115,7 +115,7 @@
         "b8224c4de203655b84e90edc54a0d770": {
             "channelName": "Independ. Rivadavia vs Fluminense",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/br2.m3u8?token=sV8STa5-cNp2QBYrrRpbhg&expires=1778180920",
+            "streamUrl": "https://a6.kora-plus.dad/watch/br2.m3u8?token=xyiMQAoHIKv9u2UkPvcRxw&expires=1778187187",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/473.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1688200083.png",
@@ -125,7 +125,7 @@
         "c756bb312c26b4249e715cf2a1ad448d": {
             "channelName": "Toluca vs Los Angeles FC",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/hd5.m3u8?token=tldiopdGd04QubAtBUTuzg&expires=1778180922",
+            "streamUrl": "https://a3.kora-plus.dad/watch/hd5.m3u8?token=n86gzJ4JA410EyS8d8BQJA&expires=1778187188",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/2281.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1616.png",
@@ -135,7 +135,7 @@
         "bbeedb7a32c2010c452879a61cdc706e": {
             "channelName": "Deportes Tolima vs Club Nacional",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/br3.m3u8?token=mF1EiTVpa8pnuU_GAJjlug&expires=1778180923",
+            "streamUrl": "https://a4.kora-plus.dad/watch/br3.m3u8?token=ZbaNjLMDHZkxya5YT_zbrw&expires=1778187190",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1142.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/2356.png",
@@ -145,7 +145,7 @@
         "1081e28292a0d0cbb5a6aeb72cbdfedd": {
             "channelName": "U. Catolica vs Cruzeiro",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/br6.m3u8?token=qcA4jqXz9Wi3gjhoSVVjgg&expires=1778180924",
+            "streamUrl": "https://a4.kora-plus.dad/watch/br6.m3u8?token=2cEhyuvvDfO7h8-Yb90v8g&expires=1778187191",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/2994.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1688249348.png",
