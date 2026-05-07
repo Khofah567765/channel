@@ -2,6 +2,76 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
+        "36bcb060bd866e6e96df1ad32aa02e6e": {
+            "channelName": "Barracas Central vs Olimpia",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a1.kora-plus.dad/watch/br6.m3u8?token=0yVqjZMpCKTXMGMEWJptWw&expires=1778143265",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/2432.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1182.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "9b8692fa31173398cf47794fd81e6df9": {
+            "channelName": "Botafogo vs Racing Club",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a1.kora-plus.dad/watch/hd9.m3u8?token=acZ0HRnEdcjJDuKblkNpXg&expires=1778143267",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/120.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1571257110.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "e888e1b59c10c6a68b9439cc3c93edc8": {
+            "channelName": "Santa Fe vs Corinthians",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1139.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1570934037.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "b8224c4de203655b84e90edc54a0d770": {
+            "channelName": "Independ. Rivadavia vs Fluminense",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a3.kora-plus.dad/watch/br2.m3u8?token=uaQRRqVzl0vvGpsdVxUpHg&expires=1778143269",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/473.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1688200083.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "c756bb312c26b4249e715cf2a1ad448d": {
+            "channelName": "Toluca vs Los Angeles FC",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a1.kora-plus.dad/watch/hd5.m3u8?token=0pI7LG5WKBRdohWB_t89iQ&expires=1778143271",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/2281.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1616.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "bbeedb7a32c2010c452879a61cdc706e": {
+            "channelName": "Deportes Tolima vs Club Nacional",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a2.kora-plus.dad/watch/br3.m3u8?token=cpLsdWMgld1QBkucHPN-Cw&expires=1778143272",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1142.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/2356.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "1081e28292a0d0cbb5a6aeb72cbdfedd": {
+            "channelName": "U. Catolica vs Cruzeiro",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a1.kora-plus.dad/watch/br6.m3u8?token=AhPxxPbAOiix1Xkb6MUk_A&expires=1778143274",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/2994.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1688249348.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "08f9df3c1955b3779cab68c4fb8eb177": {
             "channelName": "Al-Shabab vs Al-Nassr",
             "contentType": "event_pertandingan",
@@ -59,76 +129,6 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1583244525.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1572733931.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "36bcb060bd866e6e96df1ad32aa02e6e": {
-            "channelName": "Barracas Central vs Olimpia",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/br6.m3u8?token=Zjs2W0fWhvYN9wVvf36CDw&expires=1778133238",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/2432.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1182.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "9b8692fa31173398cf47794fd81e6df9": {
-            "channelName": "Botafogo vs Racing Club",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/hd9.m3u8?token=Wnnkd44PCQr0lzynV0lGTQ&expires=1778133240",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/120.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1571257110.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "e888e1b59c10c6a68b9439cc3c93edc8": {
-            "channelName": "Santa Fe vs Corinthians",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1139.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1570934037.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "b8224c4de203655b84e90edc54a0d770": {
-            "channelName": "Independ. Rivadavia vs Fluminense",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/br2.m3u8?token=Dnn7ni1uEfEPBf130Mvxqg&expires=1778133243",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/473.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1688200083.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "c756bb312c26b4249e715cf2a1ad448d": {
-            "channelName": "Toluca vs Los Angeles FC",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/hd5.m3u8?token=KhzPJZDlwx_cZgL78NjPBQ&expires=1778133244",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/2281.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1616.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "bbeedb7a32c2010c452879a61cdc706e": {
-            "channelName": "Deportes Tolima vs Club Nacional",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/br3.m3u8?token=Z3581nhac9JBOwGyu7TAZA&expires=1778133246",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1142.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/2356.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "1081e28292a0d0cbb5a6aeb72cbdfedd": {
-            "channelName": "U. Catolica vs Cruzeiro",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/br6.m3u8?token=XtXWbArgcuEpXO4-OxfOlw&expires=1778133247",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/2994.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1688249348.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
