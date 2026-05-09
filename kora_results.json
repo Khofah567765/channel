@@ -45,8 +45,8 @@
         "660709fc7e57390aee825634f245159c": {
             "channelName": "Cagliari vs Udinese",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a1.kora-plus.dad/watch/ad1.m3u8?token=W_ei2IwrkitaR_HKAapozw&expires=1778313616",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557535481.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1564236433.png",
             "referer": "https://vsys.kora-top.zip/",
