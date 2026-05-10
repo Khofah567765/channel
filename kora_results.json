@@ -2,26 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "f64756d32010a917aea7b7f662113e6e": {
-            "channelName": "Khamzat Chimaev vs Sean Strickland",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/alwan6.m3u8?token=GyoLR7LlSXPZ9j1aRMeJUQ&expires=1778410858",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1755338195.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1705713618.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "681f84c8a2b9912d65dfa981e51fe16b": {
-            "channelName": "Cruz Azul vs Atlas",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/hd1.m3u8?token=zCO_SRUnmnoAILyREcBRbQ&expires=1778410859",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/2295.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1731681918.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "6227644398717a49f3d5d268b8f62577": {
             "channelName": "Celtic vs Rangers",
             "contentType": "event_pertandingan",
@@ -232,6 +212,16 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
+        "532e4ed0ad3edc5286cba178ccf0c7a4": {
+            "channelName": "FC Masr vs Pyramids FC",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1570382853.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1571255818.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "3c55e19007dc9dd3d16c2287fde58b2c": {
             "channelName": "Al-Ittihad vs Damac FC",
             "contentType": "event_pertandingan",
@@ -239,6 +229,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1565007758.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1571410568.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "9dad80c700d4dd01189bdb6cb591c39a": {
+            "channelName": "CODM Mekn\u00e8s vs RSB Berkane",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1731682110.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/berkane.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -302,6 +302,16 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
+        "c266f66f1211b859f7eec3b3c2bc4444": {
+            "channelName": "Hassania Agadir vs AS FAR Rabat",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1583052987.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1583244525.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "fcc9fcbe96312a6a0673649101d84522": {
             "channelName": "Corinthians vs Sao Paulo",
             "contentType": "event_pertandingan",
@@ -355,7 +365,7 @@
         "ff48e1cb4a786b178e3fae8fdf5c8279": {
             "channelName": "Bahia vs Cruzeiro",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/br1.m3u8?token=O9dLQZMaqaAsChJGnm26lQ&expires=1778410900",
+            "streamUrl": "https://a6.kora-plus.dad/watch/br1.m3u8?token=WsiR7OGQCQE-ft4noQyOfg&expires=1778415097",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1688241464.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1688249348.png",
@@ -375,7 +385,7 @@
         "d4cada0d64723b804173d1f6100144e1": {
             "channelName": "Guadalajara Chivas vs Tigres UANL",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/hd8.m3u8?token=iJjNEJ_NukVncV-3_vWx1g&expires=1778410903",
+            "streamUrl": "https://a3.kora-plus.dad/watch/hd8.m3u8?token=HZPu_yJgfYuiXuvdIInZdw&expires=1778415099",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/2278.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1612443557.jpg",
@@ -385,10 +395,20 @@
         "650eb48531129cbd3757dbe3b397f9c2": {
             "channelName": "Nashville SC vs DC United",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/hd5.m3u8?token=qZw7bve674bec89j3JCDZw&expires=1778410904",
+            "streamUrl": "https://a1.kora-plus.dad/watch/hd5.m3u8?token=ih1KDIlWgj6eeBknQqxShg&expires=1778415101",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/9569.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1658315332.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "681f84c8a2b9912d65dfa981e51fe16b": {
+            "channelName": "Cruz Azul vs Atlas",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a3.kora-plus.dad/watch/hd1.m3u8?token=_NJbr_aiXVzMZl_fEY_-nQ&expires=1778415103",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/2295.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1731681918.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
