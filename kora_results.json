@@ -75,7 +75,7 @@
         "bc024ad1f577e35de949d7a4d5b2afc6": {
             "channelName": "Parma vs Roma",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/ad1.m3u8?token=WXrLl4YstS7h_acCGlAtVA&expires=1778434520",
+            "streamUrl": "https://a4.kora-plus.dad/watch/ad1.m3u8?token=2h-2h8uB6mAfcd-7aoWBRw&expires=1778438065",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557762849.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1557010107.png",
@@ -85,7 +85,7 @@
         "297f571b7201df4a200a6de331af7803": {
             "channelName": "Al Riyadh vs Al-Fateh",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/thman2.m3u8?token=5iVhR4N8ep-Wh_K5BtyvUQ&expires=1778434522",
+            "streamUrl": "https://a4.kora-plus.dad/watch/thman2.m3u8?token=dHLrAkXCJHUdI2bjIx9Agg&expires=1778438067",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1739540056.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1572531350.png",
@@ -125,7 +125,7 @@
         "e781f2e77a45ca7c79c71a58dda235a6": {
             "channelName": "AVS vs Porto",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/tv1.m3u8?token=cNCrludpMHTUX_Xrrwarlg&expires=1778434527",
+            "streamUrl": "https://a1.kora-plus.dad/watch/tv1.m3u8?token=EqscQRDDxfx_5ukT8Lw7xg&expires=1778438072",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/21595.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1558220341.png",
@@ -145,7 +145,7 @@
         "532e4ed0ad3edc5286cba178ccf0c7a4": {
             "channelName": "FC Masr vs Pyramids FC",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/on1.m3u8?token=MPILL7Igc3bHAuvf88nfLw&expires=1778434531",
+            "streamUrl": "https://a3.kora-plus.dad/watch/on1.m3u8?token=1vTEqsnylcBuB-dq4PF-8Q&expires=1778438075",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1570382853.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1571255818.png",
@@ -155,8 +155,8 @@
         "3c55e19007dc9dd3d16c2287fde58b2c": {
             "channelName": "Al-Ittihad vs Damac FC",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a1.kora-plus.dad/watch/thman1.m3u8?token=7UZpC9tnyMGGaSTHLAB4Dw&expires=1778438076",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1565007758.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1571410568.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -165,8 +165,8 @@
         "9dad80c700d4dd01189bdb6cb591c39a": {
             "channelName": "CODM Mekn\u00e8s vs RSB Berkane",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a1.kora-plus.dad/watch/riadia.m3u8?token=y_JYMgLZDTIGAj35geyDJQ&expires=1778438078",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1731682110.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/berkane.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -175,8 +175,8 @@
         "7d7870098166c2974343f9b5be0bb091": {
             "channelName": "Milan vs Atalanta",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a1.kora-plus.dad/watch/ad1.m3u8?token=RjEf5YEmT13K_4FFKlVx8w&expires=1778438079",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1556907818.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1557009898.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -325,7 +325,7 @@
         "ff48e1cb4a786b178e3fae8fdf5c8279": {
             "channelName": "Bahia vs Cruzeiro",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/br1.m3u8?token=JYcI6WI8zT3KWMu9lPxUaQ&expires=1778434553",
+            "streamUrl": "https://a1.kora-plus.dad/watch/br1.m3u8?token=iIlz9R4JsRaAkQBec-yZlQ&expires=1778438097",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1688241464.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1688249348.png",
@@ -345,7 +345,7 @@
         "d4cada0d64723b804173d1f6100144e1": {
             "channelName": "Guadalajara Chivas vs Tigres UANL",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/hd8.m3u8?token=iP8hf_UXhtL3qIcot7rLOQ&expires=1778434556",
+            "streamUrl": "https://a1.kora-plus.dad/watch/hd8.m3u8?token=MhIDHiq0tYb26F4hzVkijg&expires=1778438100",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/2278.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1612443557.jpg",
@@ -355,7 +355,7 @@
         "650eb48531129cbd3757dbe3b397f9c2": {
             "channelName": "Nashville SC vs DC United",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/hd5.m3u8?token=Np7HXyKnKE_l0luhgYeWRQ&expires=1778434558",
+            "streamUrl": "https://a2.kora-plus.dad/watch/hd5.m3u8?token=4RO_MKo361K0vEjrfwiahg&expires=1778438102",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/9569.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1658315332.png",
@@ -365,7 +365,7 @@
         "681f84c8a2b9912d65dfa981e51fe16b": {
             "channelName": "Cruz Azul vs Atlas",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/hd1.m3u8?token=wPftpS3RJGq17g8h3uFgIQ&expires=1778434560",
+            "streamUrl": "https://a1.kora-plus.dad/watch/hd1.m3u8?token=w3HMuZYfD2JY4UWTCfHehw&expires=1778438103",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/2295.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1731681918.png",
@@ -405,7 +405,7 @@
         "6b8f84f3b000b6695eb14b6c233337de": {
             "channelName": "Cremonese vs Pisa",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/ch9.m3u8?token=p-hGug4xck60kY8rKTgn8Q&expires=1778434565",
+            "streamUrl": "https://a4.kora-plus.dad/watch/ch9.m3u8?token=Vmu9LRuA2LAvxvAiu6N9QQ&expires=1778438109",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1661139489.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/801.png",
