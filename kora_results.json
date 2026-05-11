@@ -5,8 +5,8 @@
         "faf40177fdf6e95eea528c2866298eba": {
             "channelName": "Olympique de Safi vs FUS Rabat",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a2.kora-plus.dad/watch/riadia.m3u8?token=1tnqIaRhwNoB4xbFKcg2Kg&expires=1778521783",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1572733931.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1583244646.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -15,8 +15,8 @@
         "eeaedc95f342400305271b48e86c1c9d": {
             "channelName": "NEOM vs Al-Shabab",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a4.kora-plus.dad/watch/thman2.m3u8?token=nN1uoVLuQKdD4eurfWld7A&expires=1778521785",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/10513.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1569537759.png",
             "referer": "https://vsys.kora-top.zip/",
