@@ -2,23 +2,13 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "96fd5dfae90c6a9a6368908780997aec": {
-            "channelName": "El Gouna FC vs Kahraba Ismailia",
+        "6f416fe33d603e0d728095e253ac0ece": {
+            "channelName": "Al Kholood vs Al Akhdoud",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/on1.m3u8?token=k8_SoenVT2ANHb13S5WMTQ&expires=1778610675",
+            "streamUrl": "https://a4.kora-plus.dad/watch/thman2.m3u8?token=jbX9uIE_dDRYMCpOlivE4A&expires=1778617219",
             "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1601156928.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/20458.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "aa78337abc8239f89b679edd74354456": {
-            "channelName": "Pharco vs Future FC",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/15736.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1640475557.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1739539923.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/2977.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -35,7 +25,7 @@
         "b74aa526dfe97b13c0d48bd87cc1178d": {
             "channelName": "Wadi Degla vs Ismaily",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/on1.m3u8?token=hv_-mZHr5BOic9BHkbfwsw&expires=1778610680",
+            "streamUrl": "https://a3.kora-plus.dad/watch/on1.m3u8?token=xTFSaSD4mv3DeVmW6kbNog&expires=1778617222",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1599240541.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1563975286.png",
@@ -49,6 +39,26 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1558221913.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1603455181.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "e5e2fbd908380ab052f2071970d30052": {
+            "channelName": "Al-Nassr vs Al-Hilal Saudi",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a2.kora-plus.dad/watch/alwan1.m3u8?token=SXeun8CrH29DB1iXpF8xYQ&expires=1778617225",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1565008227.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1565008904.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "376eaeb256c6bcfe901d900b59f8e04d": {
+            "channelName": "RED Star FC 93 vs Rodez",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/104.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1301.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -75,10 +85,30 @@
         "a212837793101f47e2ec4e273726d9cf": {
             "channelName": "Internacional vs Athletic Club",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/br3.m3u8?token=H3_d1yYMOypvK8FepICJgA&expires=1778610686",
+            "streamUrl": "https://a6.kora-plus.dad/watch/br3.m3u8?token=S8hdtTq93xYUi6nsbMfz7A&expires=1778617230",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1566244981.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/13975.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "96fd5dfae90c6a9a6368908780997aec": {
+            "channelName": "El Gouna FC vs Kahraba Ismailia",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a3.kora-plus.dad/watch/on1.m3u8?token=X7sgQyf0_q2Mie9QTYGxqw&expires=1778617232",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1601156928.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/20458.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "aa78337abc8239f89b679edd74354456": {
+            "channelName": "Pharco vs Future FC",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/15736.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1640475557.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
