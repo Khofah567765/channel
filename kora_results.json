@@ -5,8 +5,8 @@
         "ce57d53bb3182e876b63d42d1b154c71": {
             "channelName": "FC Masr vs Ghazl El Mahalla",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a4.kora-plus.dad/watch/on1.m3u8?token=muc6SwEIfr3JEY4HZKxDPA&expires=1778689988",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1570382853.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1608259706.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -65,8 +65,8 @@
         "f9cfba9ada19237caca8a3141ecee885": {
             "channelName": "Al-Ittihad Alexandria vs Talaea El-Gaish",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a3.kora-plus.dad/watch/on1.m3u8?token=P0DCMHz_vajAgeBIFZ-kAg&expires=1778689996",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1569253085.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1599382443.png",
             "referer": "https://vsys.kora-top.zip/",
