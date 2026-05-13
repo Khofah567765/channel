@@ -2,26 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "ce57d53bb3182e876b63d42d1b154c71": {
-            "channelName": "FC Masr vs Ghazl El Mahalla",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/on1.m3u8?token=muc6SwEIfr3JEY4HZKxDPA&expires=1778689988",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1570382853.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1608259706.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "e7ac2e5d9225eb728cb684b84f453f61": {
-            "channelName": "Haras El Hodoud vs El Mokawloon",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1599438655.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1575.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "4e7524dcf8be40b4e48922266c3cd6f0": {
             "channelName": "Olympiacos vs Panathinaikos",
             "contentType": "event_pertandingan",
@@ -65,7 +45,7 @@
         "f9cfba9ada19237caca8a3141ecee885": {
             "channelName": "Al-Ittihad Alexandria vs Talaea El-Gaish",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/on1.m3u8?token=P0DCMHz_vajAgeBIFZ-kAg&expires=1778689996",
+            "streamUrl": "https://a3.kora-plus.dad/watch/on1.m3u8?token=URtm-81HApiG1nIbXiPEmQ&expires=1778697405",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1569253085.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1599382443.png",
@@ -105,8 +85,8 @@
         "53683aab4227f0676730524e602e8567": {
             "channelName": "Lazio vs Inter",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a1.kora-plus.dad/watch/alwan3.m3u8?token=_J3f6SISya1WF0mcPJxXZA&expires=1778697410",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557009867.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1557751896.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -249,6 +229,26 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1688249348.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/151.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "ce57d53bb3182e876b63d42d1b154c71": {
+            "channelName": "FC Masr vs Ghazl El Mahalla",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a6.kora-plus.dad/watch/on1.m3u8?token=gHy3vaOcw85KtwF9zFoE9Q&expires=1778697429",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1570382853.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1608259706.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "e7ac2e5d9225eb728cb684b84f453f61": {
+            "channelName": "Haras El Hodoud vs El Mokawloon",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1599438655.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1575.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
