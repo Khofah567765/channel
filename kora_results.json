@@ -45,7 +45,7 @@
         "fa91df106a255e7b1c8c9627678a5d72": {
             "channelName": "Al-Fateh vs Al Najma",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/thman2.m3u8?token=N9yFBdhAPWLDkoFjEYXt1A&expires=1778773530",
+            "streamUrl": "https://a3.kora-plus.dad/watch/thman2.m3u8?token=USsS2UiNbCXFCWmBJuXIUQ&expires=1778781121",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1572531350.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/2992.png",
@@ -75,8 +75,8 @@
         "9a2be567b42f8d4b11e96e5fba391907": {
             "channelName": "Al-Ettifaq vs Al-Ittihad",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a6.kora-plus.dad/watch/thman1.m3u8?token=hks17omfC3Dk5FDsrB5JRQ&expires=1778781125",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1582237044.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1565007758.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -115,7 +115,7 @@
         "c579bea839070ceb461db14de88bcfa9": {
             "channelName": "River Plate vs Gimnasia L.P.",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/hd9.m3u8?token=_xP_TUZ6LqZSA6jjHB_lMA&expires=1778773539",
+            "streamUrl": "https://a2.kora-plus.dad/watch/hd9.m3u8?token=njyYyNVNr-t5MMTwrNcF0Q&expires=1778781131",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1566245104.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/434.png",
