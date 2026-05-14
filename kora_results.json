@@ -2,36 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "151ba5f263adb0abac201d51544b8f67": {
-            "channelName": "FC Cincinnati vs Inter Miami CF",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/alwan1.m3u8?token=STO7REjkwoQFDRixpUpxaA&expires=1778725819",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/2242.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1658211721.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "66e3c9d70bf7d0de099264b2c8307696": {
-            "channelName": "Mirassol vs RB Bragantino",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/br5.m3u8?token=QL4_vNa94pfkj-zBKnaGtg&expires=1778725821",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/7848.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1688323660.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "c579bea839070ceb461db14de88bcfa9": {
-            "channelName": "River Plate vs Gimnasia L.P.",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/hd9.m3u8?token=BP65N7_xeJmslZYyNlIcWA&expires=1778725823",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1566245104.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/434.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "561d26cb96976573300b9b2b55394fd7": {
             "channelName": "US Ben Guerdane vs Esperance Tunis",
             "contentType": "event_pertandingan",
@@ -139,6 +109,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1556300822.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1672797503.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "c579bea839070ceb461db14de88bcfa9": {
+            "channelName": "River Plate vs Gimnasia L.P.",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a4.kora-plus.dad/watch/hd9.m3u8?token=_b2KFWqVpjOfivqqFi-TZg&expires=1778740255",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1566245104.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/434.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
