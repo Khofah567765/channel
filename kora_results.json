@@ -2,10 +2,20 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
+        "39ac790793b50acf2f6385228ac3fbc7": {
+            "channelName": "AS FAR Rabat vs Stade Marocain",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a1.kora-plus.dad/watch/riadia.m3u8?token=Wd3u_G8UKOBaP-ucczcDGg&expires=1778874533",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1583244525.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/15549.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "833a0c5f1a913d7214dfd4b27321c63f": {
             "channelName": "Damac FC vs Al-Fayha",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/thman2.m3u8?token=tQpVm3irVieqj1TaWbnReg&expires=1778868137",
+            "streamUrl": "https://a6.kora-plus.dad/watch/thman2.m3u8?token=wrBuqzcDN_7EHMQewyv_tw&expires=1778874535",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1571410568.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1583494772.png",
@@ -25,7 +35,7 @@
         "657ada1129a3e3eeeadebd8798969cc2": {
             "channelName": "Al-Taawoun vs Al Riyadh",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/thman1.m3u8?token=GmXsGfzBRTVV1AyPzQkg-A&expires=1778868140",
+            "streamUrl": "https://a3.kora-plus.dad/watch/thman1.m3u8?token=hYIon7NRZgVnWee9pDhu5A&expires=1778874538",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1569516699.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1739540056.png",
@@ -35,7 +45,7 @@
         "6b71acd9bf20fbe0433993c5448c2717": {
             "channelName": "Kawkab Marrakech vs Chabab Riadi Salmi",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/riadia.m3u8?token=zcoQ8cxpTajt1w3SwX8Xvg&expires=1778868141",
+            "streamUrl": "https://a2.kora-plus.dad/watch/riadia.m3u8?token=ii3hHN7VQjZ2uoNF1V4Y2Q&expires=1778874540",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/971.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1632503334.webp",
@@ -65,20 +75,10 @@
         "a1128671b76228f5e1e35f40a096ad77": {
             "channelName": "Vitoria vs Flamengo",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/br1.m3u8?token=O7fnFrAfrNnexfS8sDnSVA&expires=1778868146",
+            "streamUrl": "https://a3.kora-plus.dad/watch/br1.m3u8?token=7V3bsZNKptp60aDJ0vewnQ&expires=1778874544",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/136.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1566244935.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "39ac790793b50acf2f6385228ac3fbc7": {
-            "channelName": "AS FAR Rabat vs Stade Marocain",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/riadia.m3u8?token=b9mQncok0G_IL2hDjF0PFw&expires=1778868147",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1583244525.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/15549.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
