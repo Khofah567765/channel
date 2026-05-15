@@ -12,10 +12,20 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
+        "597e50e87f59555c84ad6d3ee918e268": {
+            "channelName": "Rizespor vs Besiktas",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1572482198.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1557010753.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "657ada1129a3e3eeeadebd8798969cc2": {
             "channelName": "Al-Taawoun vs Al Riyadh",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/thman1.m3u8?token=Pol-SCFC3Nr4tuRVk3PV1Q&expires=1778879299",
+            "streamUrl": "https://a4.kora-plus.dad/watch/thman1.m3u8?token=kaisnLjJP5Mktsn--puiFA&expires=1778883448",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1569516699.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1739540056.png",
@@ -25,7 +35,7 @@
         "6b71acd9bf20fbe0433993c5448c2717": {
             "channelName": "Kawkab Marrakech vs Chabab Riadi Salmi",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/riadia.m3u8?token=0UHKIhADSTFUuX5LcS05Cw&expires=1778879301",
+            "streamUrl": "https://a6.kora-plus.dad/watch/riadia.m3u8?token=6_ARdhySEHg0n3XpJ30MJQ&expires=1778883450",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/971.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1632503334.webp",
@@ -45,7 +55,7 @@
         "a1128671b76228f5e1e35f40a096ad77": {
             "channelName": "Vitoria vs Flamengo",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/br1.m3u8?token=wtQMyTjqEnk30XSF_MmMiA&expires=1778879304",
+            "streamUrl": "https://a4.kora-plus.dad/watch/br1.m3u8?token=gTwXNy-VW5zqUmWscU9yCQ&expires=1778883453",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/136.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1566244935.png",
@@ -55,7 +65,7 @@
         "39ac790793b50acf2f6385228ac3fbc7": {
             "channelName": "AS FAR Rabat vs Stade Marocain",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/riadia.m3u8?token=uNL1NfKrAQddwXzTN5anng&expires=1778879306",
+            "streamUrl": "https://a1.kora-plus.dad/watch/riadia.m3u8?token=KVLeQ8_q8hY3D1bNSGYl_A&expires=1778883454",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1583244525.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/15549.png",
@@ -65,20 +75,10 @@
         "833a0c5f1a913d7214dfd4b27321c63f": {
             "channelName": "Damac FC vs Al-Fayha",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/thman2.m3u8?token=49FoKUTTtPH4ZxA9LVnoNw&expires=1778879307",
+            "streamUrl": "https://a4.kora-plus.dad/watch/thman2.m3u8?token=JP5VVUwZCHi6UPaI3n7G-w&expires=1778883456",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1571410568.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1583494772.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "597e50e87f59555c84ad6d3ee918e268": {
-            "channelName": "Rizespor vs Besiktas",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1572482198.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1557010753.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
