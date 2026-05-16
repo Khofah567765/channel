@@ -25,7 +25,7 @@
         "2ead16ccfc692c621ab034977d4de147": {
             "channelName": "Liverpool W vs Arsenal W",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/mix.m3u8?token=OOOgKQ_vV5Gj029lbsJECw&expires=1778936502",
+            "streamUrl": "https://a6.kora-plus.dad/watch/mix.m3u8?token=B90eqxfuTgO7HD29mwzxOg&expires=1778943332",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1847.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1850.png",
@@ -45,7 +45,7 @@
         "ca3c73726412986eb5c314475f60d5d0": {
             "channelName": "Chelsea W vs Manchester United W",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/nz5.m3u8?token=ePVnyEmnDSTh8-ZA6tgjHg&expires=1778936505",
+            "streamUrl": "https://a1.kora-plus.dad/watch/nz5.m3u8?token=N85K6Ka_xZZf4_87g-vHlw&expires=1778943335",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1853.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/4898.png",
@@ -65,8 +65,8 @@
         "8182aa2fa9795d4b15fc6832eaf2b2e4": {
             "channelName": "Bayern Munich vs FC Koln",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a4.kora-plus.dad/watch/alwan2.m3u8?token=GznmuKw0HW2hJRRUNSrLFw&expires=1778943338",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557535267.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1566427611.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -75,8 +75,8 @@
         "159fad77a494d34c326ef67cb23f9579": {
             "channelName": "Werder Bremen vs Borussia Dortmund",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a6.kora-plus.dad/watch/alwan5.m3u8?token=7Y7IBx2C320JnUB7WP8PBA&expires=1778943340",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1556983395.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1556983444.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -85,8 +85,8 @@
         "e40148c383fbef21982088e9bea4b992": {
             "channelName": "Bayer 04 Leverkusen vs Hamburger SV",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a2.kora-plus.dad/watch/alwan3.m3u8?token=Lhg53JeCfTktz4gzN-gIqQ&expires=1778943341",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1566682146.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1589715204.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -95,8 +95,8 @@
         "91e92c463ae89b587eb95d5a5e13de4d": {
             "channelName": "Freiburg vs RB Leipzig",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a4.kora-plus.dad/watch/hd8.m3u8?token=tZW0CzlVUIVpncyzA-KIBg&expires=1778943343",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1570290754.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1557535209.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -105,10 +105,20 @@
         "dadd7f6d2f98aedc2be7f02c9ddce4d1": {
             "channelName": "St. Pauli vs Wolfsburg",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a6.kora-plus.dad/watch/hd9.m3u8?token=dNoSXuKqwJdKhTYRK8zXqw&expires=1778943344",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1589714564.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1566818005.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "0f06bf40a04db138c1671e242144dc02": {
+            "channelName": "Borussia Monchengladbach vs 1899 Hoffenheim",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a4.kora-plus.dad/watch/hd5.m3u8?token=ER_JU0a2f3K0W6QmoyqwmQ&expires=1778943345",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1558219789.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1566134670.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -125,8 +135,8 @@
         "eacef8c8db7f390b559080721f421fbb": {
             "channelName": "Porto vs Santa Clara",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a4.kora-plus.dad/watch/tv1.m3u8?token=vVetLnkijy_uXSCfO0WwVA&expires=1778943348",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1558220341.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1685129320.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -145,8 +155,8 @@
         "d2dc6977c5370384eb7ce48c11fd765f": {
             "channelName": "Al Akhdoud vs Al Khaleej Saihat",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a2.kora-plus.dad/watch/thman2.m3u8?token=3EFn9_iAptixhkxD9b7lEw&expires=1778943351",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/2977.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1741967325.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -155,8 +165,8 @@
         "964056ca9abfeca1068d9b0b5918ad97": {
             "channelName": "Al-Hilal Saudi vs NEOM",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a2.kora-plus.dad/watch/thman1.m3u8?token=V4KccbM-HguLCCbgEaWqbQ&expires=1778943352",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1565008904.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/10513.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -165,8 +175,8 @@
         "3e48ac07cdc9c48455b2b5abcf0e0ea2": {
             "channelName": "Sporting Braga vs Estrela",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a4.kora-plus.dad/watch/tv4.m3u8?token=Kqv52es1GuqDUjNtd4FBaA&expires=1778943354",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1582206314.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/15130.png",
             "referer": "https://vsys.kora-top.zip/",
