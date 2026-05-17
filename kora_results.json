@@ -5,7 +5,7 @@
         "ab8f02dcef1b648d56aad660682b8323": {
             "channelName": "Roma vs Lazio",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/ad1.m3u8?token=Qnq40NRd4TX6U9LOyo_E9Q&expires=1779012906",
+            "streamUrl": "https://a6.kora-plus.dad/watch/ad1.m3u8?token=ZsSJ8yfKz1ql4uTQzySlnA&expires=1779018063",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557010107.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1557009867.png",
@@ -15,8 +15,8 @@
         "fa72fdce949f8d64d29c57fd9d291620": {
             "channelName": "Genoa vs Milan",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a2.kora-plus.dad/watch/alwan2.m3u8?token=AJxfz_esKR6PL9FUUSBdgg&expires=1779018064",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557010059.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1556907818.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -25,8 +25,8 @@
         "e7d9ba80ae57d1b6343979582caf6eb0": {
             "channelName": "Juventus vs Fiorentina",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a6.kora-plus.dad/watch/alwan4.m3u8?token=Jg9XvyxuOKP5mkky2kdF1A&expires=1779018066",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1556907695.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1557535616.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -35,8 +35,8 @@
         "e95f55677fb789fd5602d640de1e28e8": {
             "channelName": "Pisa vs Napoli",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a1.kora-plus.dad/watch/alwan6.m3u8?token=Xn8Y835WKOWrKbaj7HOriA&expires=1779018067",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/801.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1558306657.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -415,7 +415,7 @@
         "e2276973f69f2e1ae788ba9112cf5baa": {
             "channelName": "Palmeiras vs Cruzeiro",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/br1.m3u8?token=qz1Ly7Daud4CeyBYDcKLNw&expires=1779012953",
+            "streamUrl": "https://a1.kora-plus.dad/watch/br1.m3u8?token=fxhs7L8bOd0tIANKLWsw4A&expires=1779018112",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1566243942.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1688249348.png",
