@@ -5,8 +5,8 @@
         "ab8f02dcef1b648d56aad660682b8323": {
             "channelName": "Roma vs Lazio",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a4.kora-plus.dad/watch/ad1.m3u8?token=Qnq40NRd4TX6U9LOyo_E9Q&expires=1779012906",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557010107.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1557009867.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -415,7 +415,7 @@
         "e2276973f69f2e1ae788ba9112cf5baa": {
             "channelName": "Palmeiras vs Cruzeiro",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/br1.m3u8?token=ijL9hcfz3DNFtmK15sdhfQ&expires=1779005893",
+            "streamUrl": "https://a4.kora-plus.dad/watch/br1.m3u8?token=qz1Ly7Daud4CeyBYDcKLNw&expires=1779012953",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1566243942.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1688249348.png",
