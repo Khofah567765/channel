@@ -2,16 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "db277e049d82588f792bd1cb6da179c6": {
-            "channelName": "Arnold Allen vs Melquizael Costa",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1681551951.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1778949670.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "ab8f02dcef1b648d56aad660682b8323": {
             "channelName": "Roma vs Lazio",
             "contentType": "event_pertandingan",
@@ -425,7 +415,7 @@
         "e2276973f69f2e1ae788ba9112cf5baa": {
             "channelName": "Palmeiras vs Cruzeiro",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/br1.m3u8?token=YsM8z1jjrdGEvCQ8oVf0jQ&expires=1778995071",
+            "streamUrl": "https://a6.kora-plus.dad/watch/br1.m3u8?token=ijL9hcfz3DNFtmK15sdhfQ&expires=1779005893",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1566243942.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1688249348.png",
