@@ -5,8 +5,8 @@
         "5c84dbf68051f69e63874d432a67e965": {
             "channelName": "Talaea El-Gaish vs Pharco",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a3.kora-plus.dad/watch/on1.m3u8?token=QRhONfWR3RS9juUgN7dxWw&expires=1779115671",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1599382443.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/15736.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -35,8 +35,8 @@
         "677e820c826095f4be2823c331d727cf": {
             "channelName": "Ghazl El Mahalla vs Al-Ittihad Alexandria",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a4.kora-plus.dad/watch/on1.m3u8?token=zIsvg5cr0uQ-LRZEDs-Xuw&expires=1779115676",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1608259706.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1569253085.png",
             "referer": "https://vsys.kora-top.zip/",
