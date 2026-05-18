@@ -2,26 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "5c84dbf68051f69e63874d432a67e965": {
-            "channelName": "Talaea El-Gaish vs Pharco",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/on1.m3u8?token=18GxgeUR8YYymJXDlQONOQ&expires=1779126081",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1599382443.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/15736.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "2af7b717a41da3ea23c864b92c81682f": {
-            "channelName": "Kahraba Ismailia vs Haras El Hodoud",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/20458.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1599438655.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "066a223784ef6f09c0460d613e4fcb8c": {
             "channelName": "El Mokawloon vs Wadi Degla",
             "contentType": "event_pertandingan",
@@ -35,7 +15,7 @@
         "677e820c826095f4be2823c331d727cf": {
             "channelName": "Ghazl El Mahalla vs Al-Ittihad Alexandria",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/on1.m3u8?token=jHqAYAWB8ibSktdA8KdrbQ&expires=1779126085",
+            "streamUrl": "https://a3.kora-plus.dad/watch/on1.m3u8?token=11jCnJXCU9SPHB1OMHk9iw&expires=1779132302",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1608259706.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1569253085.png",
@@ -49,6 +29,26 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557009110.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1565677386.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "5c84dbf68051f69e63874d432a67e965": {
+            "channelName": "Talaea El-Gaish vs Pharco",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a2.kora-plus.dad/watch/on1.m3u8?token=nlYDMUj1rpIk4k1HY334Lg&expires=1779132304",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1599382443.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/15736.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "2af7b717a41da3ea23c864b92c81682f": {
+            "channelName": "Kahraba Ismailia vs Haras El Hodoud",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/20458.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1599438655.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
