@@ -2,53 +2,53 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "657bbd65dc829e60916f72e7a9aa8191": {
-            "channelName": "Arsenal vs Burnley",
+        "e706e32dad6ff599c2ac53727831505a": {
+            "channelName": "Bournemouth vs Manchester City",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1557009110.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1565677386.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1566428704.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1556300905.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "066a223784ef6f09c0460d613e4fcb8c": {
-            "channelName": "El Mokawloon vs Wadi Degla",
+        "a2017f30838831ff16c4de8e0f6f4aec": {
+            "channelName": "USM Alger vs Oued Akbou",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1575.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1599240541.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1582564205.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/10780.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "677e820c826095f4be2823c331d727cf": {
-            "channelName": "Ghazl El Mahalla vs Al-Ittihad Alexandria",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/on1.m3u8?token=jgvvgp9SyRVL3Wh77-fzWA&expires=1779151484",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1608259706.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1569253085.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "5c84dbf68051f69e63874d432a67e965": {
-            "channelName": "Talaea El-Gaish vs Pharco",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/on1.m3u8?token=Sg-0moDmBX0YlDL7e-eQaw&expires=1779151486",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1599382443.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/15736.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "2af7b717a41da3ea23c864b92c81682f": {
-            "channelName": "Kahraba Ismailia vs Haras El Hodoud",
+        "63738a1712676f854e3c1bc7d8be149e": {
+            "channelName": "Tunisia U17 vs Ethiopia U17",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/20458.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1599438655.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1762270074.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/27740.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "c467f0580948319c413f621612832c8d": {
+            "channelName": "Morocco U17 vs Egypt U17",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/21302.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1762269537.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "881a9b3394023127673f4390ef6a21af": {
+            "channelName": "Chelsea vs Tottenham",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1557008970.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1556824121.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
