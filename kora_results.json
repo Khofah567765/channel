@@ -2,30 +2,10 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "9e41ac7fce3c861fecbe247515c99ca9": {
-            "channelName": "Olimpia vs Vasco DA Gama",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/br3.m3u8?token=4KmLxqBE9sZH866qV4JEhQ&expires=1779325508",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1182.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1688323838.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "f0ecddc4d245fc58c06754e80debe15d": {
-            "channelName": "Santos vs San Lorenzo",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/tv1.m3u8?token=_9DpXXi7tJIg6mmcJnrZ_w&expires=1779325509",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1570933631.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/460.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "33a315718a5a99361869b992776ef1f3": {
             "channelName": "Gremio vs Palestino",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/br4.m3u8?token=I2Y68pVaDwzRQrv1Qm97sA&expires=1779325511",
+            "streamUrl": "https://a4.kora-plus.dad/watch/br4.m3u8?token=4kfiDYhyaj1UlvHDWEFYfQ&expires=1779342018",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1566243892.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/2318.png",
@@ -65,7 +45,7 @@
         "d33040431a06020ca1f1186aeedcdaf1": {
             "channelName": "River Plate vs RB Bragantino",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/hd5.m3u8?token=7wqco0_7HIZvfc24J0pxOA&expires=1779325517",
+            "streamUrl": "https://a3.kora-plus.dad/watch/hd5.m3u8?token=TJfmc3xY5eDmSdOz34fDPg&expires=1779342024",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1566245104.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1688323660.png",
