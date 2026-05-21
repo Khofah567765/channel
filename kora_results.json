@@ -2,16 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "3cd3e674abd21e28663201920c5109a0": {
-            "channelName": "Wolfsburg vs Paderborn 07",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1566818005.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1569691791.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "b1b108f93e7d72ac897536a403db54a3": {
             "channelName": "FC Utrecht vs Heerenveen",
             "contentType": "event_pertandingan",
@@ -25,7 +15,7 @@
         "103e0f416cf871ace53b65cb2c949832": {
             "channelName": "Al-Nassr vs Damac FC",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/alwan1.m3u8?token=18v6l4TJEB6HIVN9xA9Fyg&expires=1779400868",
+            "streamUrl": "https://a3.kora-plus.dad/watch/alwan1.m3u8?token=KoKBjB5pO09vsfgWbHI-Bw&expires=1779406722",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1565008227.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1571410568.png",
@@ -45,7 +35,7 @@
         "03065c2c4ef39d8e2ffc823b8338b0bd": {
             "channelName": "Al-Fayha vs Al-Hilal Saudi",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/alwan2.m3u8?token=DtT9dl42R85FtSD8t_zbgw&expires=1779400871",
+            "streamUrl": "https://a6.kora-plus.dad/watch/alwan2.m3u8?token=NR7siWIvI6xQAtG_gVxCdg&expires=1779406725",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1583494772.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1565008904.png",
@@ -55,7 +45,7 @@
         "33a315718a5a99361869b992776ef1f3": {
             "channelName": "Gremio vs Palestino",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/br4.m3u8?token=awWq21eN-dWLhlsTlsngDQ&expires=1779400873",
+            "streamUrl": "https://a6.kora-plus.dad/watch/br4.m3u8?token=JQoGb1VYbIT1gn63rKq4xw&expires=1779406727",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1566243892.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/2318.png",
@@ -95,7 +85,7 @@
         "d33040431a06020ca1f1186aeedcdaf1": {
             "channelName": "River Plate vs RB Bragantino",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/hd5.m3u8?token=FEF_qgAXaFzwWkw2fJobTA&expires=1779400878",
+            "streamUrl": "https://a4.kora-plus.dad/watch/hd5.m3u8?token=TzSQXPDXqKOp0-v-GvzaZg&expires=1779406733",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1566245104.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1688323660.png",
@@ -165,10 +155,20 @@
         "86ed1c14222d28351b58026e9827524d": {
             "channelName": "Wadi Degla vs FC Masr",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/on1.m3u8?token=OzCN2WZ9muW_nc-vobT81A&expires=1779400887",
+            "streamUrl": "https://a6.kora-plus.dad/watch/on1.m3u8?token=Y61i-3Q7Cg3E8zMF0v6_Pw&expires=1779406743",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1599240541.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1570382853.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "3cd3e674abd21e28663201920c5109a0": {
+            "channelName": "Wolfsburg vs Paderborn 07",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1566818005.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1569691791.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
