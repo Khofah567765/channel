@@ -5,10 +5,20 @@
         "5ccb956b4823625b144d999025dbb94f": {
             "channelName": "El Gouna FC vs Talaea El-Gaish",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/on1.m3u8?token=5MpM44J_NoOYzT96RqrRZw&expires=1779461903",
+            "streamUrl": "https://a6.kora-plus.dad/watch/on1.m3u8?token=jbz7uJ-XonotIJkYksab0g&expires=1779470992",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1601156928.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1599382443.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "3c9f4f3377186bf684533d381fff8edb": {
+            "channelName": "Club Africain vs Esperance Tunis",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1559557337.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1556349905.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -25,7 +35,7 @@
         "fbb11dd8b4e1c34051bfc5ec917c0b8a": {
             "channelName": "Pharco vs National Bank of Egypt",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/on1.m3u8?token=mnP23aCAjIvmmmW0PsQ5Qw&expires=1779461906",
+            "streamUrl": "https://a3.kora-plus.dad/watch/on1.m3u8?token=R6syJPaNszzXDYVdZ5DUkQ&expires=1779470996",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/15736.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1619405898.png",
