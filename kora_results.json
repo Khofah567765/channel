@@ -2,6 +2,26 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
+        "a5f72489490d16e18bc984dc973032e5": {
+            "channelName": "Mexico vs Ghana",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a1.kora-plus.dad/watch/foxdep.m3u8?token=bnF2otmhO_-3imDFqcQdlQ&expires=1779497439",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1568151357.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1559434250.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "5ccb956b4823625b144d999025dbb94f": {
+            "channelName": "El Gouna FC vs Talaea El-Gaish",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a1.kora-plus.dad/watch/on1.m3u8?token=0WULhYyen9Z09HOyBbtiug&expires=1779497441",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1601156928.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1599382443.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "3c9f4f3377186bf684533d381fff8edb": {
             "channelName": "Club Africain vs Esperance Tunis",
             "contentType": "event_pertandingan",
@@ -25,7 +45,7 @@
         "fbb11dd8b4e1c34051bfc5ec917c0b8a": {
             "channelName": "Pharco vs National Bank of Egypt",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/on1.m3u8?token=97KUX4iQtn4DGOUJmlTkyQ&expires=1779493374",
+            "streamUrl": "https://a4.kora-plus.dad/watch/on1.m3u8?token=CPCv1Ls_O6T2ehhAUuyvaw&expires=1779497445",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/15736.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1619405898.png",
@@ -35,7 +55,7 @@
         "b9c7e9d723a10f903c5bb37f7965c048": {
             "channelName": "Trabzonspor vs Konyaspor",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/tv2.m3u8?token=cGgS_QehN-TyaeuK0FQGfw&expires=1779493376",
+            "streamUrl": "https://a3.kora-plus.dad/watch/tv2.m3u8?token=QupqhMxZf5An65E-1QgKpg&expires=1779497447",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1568920933.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1663346905.png",
@@ -45,7 +65,7 @@
         "7852200113b4b1f8c1e7cbe07fbb53af": {
             "channelName": "Fiorentina vs Atalanta",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/ad1.m3u8?token=SR1U-ljQpRg2yWS1bF7Mdw&expires=1779493378",
+            "streamUrl": "https://a3.kora-plus.dad/watch/ad1.m3u8?token=jtNelJWVw4F_RQcTmCOpTw&expires=1779497448",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557535616.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1557009898.png",
@@ -59,26 +79,6 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1599743063.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1566726796.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "a5f72489490d16e18bc984dc973032e5": {
-            "channelName": "Mexico vs Ghana",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/foxdep.m3u8?token=CtNf46lLmvDqPzkQI-rMJQ&expires=1779493381",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1568151357.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1559434250.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "5ccb956b4823625b144d999025dbb94f": {
-            "channelName": "El Gouna FC vs Talaea El-Gaish",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/on1.m3u8?token=24OfPqr7R6Zgaj6Opk1dmg&expires=1779493382",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1601156928.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1599382443.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
