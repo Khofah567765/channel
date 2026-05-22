@@ -5,8 +5,8 @@
         "5ccb956b4823625b144d999025dbb94f": {
             "channelName": "El Gouna FC vs Talaea El-Gaish",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a3.kora-plus.dad/watch/on1.m3u8?token=5MpM44J_NoOYzT96RqrRZw&expires=1779461903",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1601156928.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1599382443.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -25,8 +25,8 @@
         "fbb11dd8b4e1c34051bfc5ec917c0b8a": {
             "channelName": "Pharco vs National Bank of Egypt",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a2.kora-plus.dad/watch/on1.m3u8?token=mnP23aCAjIvmmmW0PsQ5Qw&expires=1779461906",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/15736.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1619405898.png",
             "referer": "https://vsys.kora-top.zip/",
