@@ -2,16 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "b7acc6e21a311a49494a88e774e1daa8": {
-            "channelName": "Ajax vs FC Utrecht",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/Ajax.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1612665495.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "041862d7cc5904978208280b12452957": {
             "channelName": "Bolton Wanderers vs Stockport County",
             "contentType": "event_pertandingan",
@@ -25,7 +15,7 @@
         "786acfd0d9dadaa359b8023c7fef2d2c": {
             "channelName": "Parma vs Sassuolo",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/ad1.m3u8?token=qJMQXqM-R_YwEplonOLq7w&expires=1779630377",
+            "streamUrl": "https://a3.kora-plus.dad/watch/ad1.m3u8?token=C98fQ9kKSbnE-gX_quFN0A&expires=1779635662",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557762849.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1558139207.png",
@@ -175,7 +165,7 @@
         "e2843aa843f5ab3cabc2dd8188862d6a": {
             "channelName": "Olympique Dche\u00efra vs Raja Club Athletic",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/riadia.m3u8?token=QfDzSlVnRxYt60glvDW5eQ&expires=1779630396",
+            "streamUrl": "https://a2.kora-plus.dad/watch/riadia.m3u8?token=x0yb-XJyMFsuMfYOxO59zA&expires=1779635681",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/3454.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1571880004.png",
@@ -185,7 +175,7 @@
         "23ee933a50ae5d92a9ccc2ee0c5a8aa2": {
             "channelName": "Napoli vs Udinese",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/ad1.m3u8?token=TmonQnAV0bMiEMb6l2PbYg&expires=1779630397",
+            "streamUrl": "https://a1.kora-plus.dad/watch/ad1.m3u8?token=uzrbCnJMArIivT90uYLyWg&expires=1779635682",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1558306657.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1564236433.png",
@@ -205,8 +195,8 @@
         "a03ca1d9de10de758e9dcdc16c7ff344": {
             "channelName": "Sporting CP vs Torreense",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a6.kora-plus.dad/watch/tv1.m3u8?token=CD1dexW3p_CP84vSrrWn_w&expires=1779635685",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1558220377.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/4799.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -365,10 +355,20 @@
         "2ffd2726b7af43402f1242b6b9e77af5": {
             "channelName": "Flamengo vs Palmeiras",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/br1.m3u8?token=6J4H5KjHTZOdQRac65V-5w&expires=1779630419",
+            "streamUrl": "https://a6.kora-plus.dad/watch/br1.m3u8?token=x6XfgtkqCCcVgJcZnaH6WA&expires=1779635704",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1566244935.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1566243942.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "b7acc6e21a311a49494a88e774e1daa8": {
+            "channelName": "Ajax vs FC Utrecht",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/Ajax.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1612665495.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
