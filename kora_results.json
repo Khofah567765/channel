@@ -2,6 +2,16 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
+        "df4986923ac057f94fdbbdbc9299094b": {
+            "channelName": "ENPPI vs Wadi Degla",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a1.kora-plus.dad/watch/on1.m3u8?token=IeLk8XfgxKvpN7yLl58G6w&expires=1779739129",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1609583202.jpg",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1599240541.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "0f3a0da2a534acfa2aca9b03080c774f": {
             "channelName": "CS Hammam-Lif vs AS Kasserine",
             "contentType": "event_pertandingan",
@@ -25,7 +35,7 @@
         "b342294dc9c10f6beab5e3e95806a8e7": {
             "channelName": "FC Masr vs Al-Masry",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/on1.m3u8?token=YOEpiC6oYK6VRfVJsD2UPw&expires=1779733275",
+            "streamUrl": "https://a4.kora-plus.dad/watch/on1.m3u8?token=eaVAo1bi2LOn5fQNzx0LDw&expires=1779739133",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1570382853.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1583054227.png",
@@ -49,16 +59,6 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1677977219.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/901.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "df4986923ac057f94fdbbdbc9299094b": {
-            "channelName": "ENPPI vs Wadi Degla",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/on1.m3u8?token=ztmdljRVBQVZ5t98Qgctdw&expires=1779733279",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1609583202.jpg",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1599240541.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
