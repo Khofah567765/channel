@@ -2,10 +2,30 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
+        "586c97631c17d87823897b0409a6547c": {
+            "channelName": "Paderborn 07 vs Wolfsburg",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1569691791.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1566818005.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "05d6f15b809c70d2ab348d7cb809a63e": {
+            "channelName": "St. Mirren vs Partick",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1677977219.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/901.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "df4986923ac057f94fdbbdbc9299094b": {
             "channelName": "ENPPI vs Wadi Degla",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/on1.m3u8?token=X8f5vsNxLvSeZPAKffO3qg&expires=1779744300",
+            "streamUrl": "https://a6.kora-plus.dad/watch/on1.m3u8?token=n9IpVW08YfrLe3Ja69ULxg&expires=1779748989",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1609583202.jpg",
             "team2Logo": "https://img.kora-api.space/uploads/team/1599240541.png",
@@ -35,30 +55,10 @@
         "b342294dc9c10f6beab5e3e95806a8e7": {
             "channelName": "FC Masr vs Al-Masry",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/on1.m3u8?token=je1kl0_SdG9ZedrPlKBCMA&expires=1779744305",
+            "streamUrl": "https://a2.kora-plus.dad/watch/on1.m3u8?token=DD4kxQaY9bVonIj0L5jctw&expires=1779748993",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1570382853.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1583054227.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "586c97631c17d87823897b0409a6547c": {
-            "channelName": "Paderborn 07 vs Wolfsburg",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1569691791.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1566818005.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "05d6f15b809c70d2ab348d7cb809a63e": {
-            "channelName": "St. Mirren vs Partick",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1677977219.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/901.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
