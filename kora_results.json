@@ -1,5 +1,36 @@
 {
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
-    "channels": {}
+    "channels": {
+        "f28e37aedd102a87e45e5def23ee2b4c": {
+            "channelName": "Morocco vs Burundi",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1670707745.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1558613432.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "b83bc603ac421acb49ef96cff9c64861": {
+            "channelName": "Saint Etienne vs OGC Nice",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1557480714.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1566726796.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "d2babc899fdf99dbf775f4275fdfd729": {
+            "channelName": "Sao Paulo vs Boston River",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1570933882.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/2361.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        }
+    }
 }
