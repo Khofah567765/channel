@@ -2,13 +2,13 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "36c33d234f2b69d5665d1530f66acf79": {
-            "channelName": "Sao Paulo vs Boston River",
+        "b5571fcca3430458bb7771f150c5e478": {
+            "channelName": "Crystal Palace vs Rayo Vallecano",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1570933882.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/2361.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1565444750.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1611706644.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
