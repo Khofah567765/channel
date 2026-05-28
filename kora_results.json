@@ -2,21 +2,11 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "947ba7c6eff1a616323e68be9643e48a": {
-            "channelName": "Petrojet vs El Gouna FC",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1656752193.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1601156928.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "3a137d76f6160c37e4d19f135ef0e0c9": {
             "channelName": "Talaea El-Gaish vs Wadi Degla",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a2.kora-plus.dad/watch/onplus.m3u8?token=Be6ZQsUlfdrEM1AT-K_u1w&expires=1779988614",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1599382443.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1599240541.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -32,6 +22,16 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
+        "bce5093548c921b241c624ea0e2d834a": {
+            "channelName": "Egypt U17 vs Tanzania U17",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1762269537.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/25822.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "650260508ecbae925d62a4e4bd599a95": {
             "channelName": "Egypt vs Russia",
             "contentType": "event_pertandingan",
@@ -42,6 +42,16 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
+        "272e2dd335e9359c8cb77e070af21f83": {
+            "channelName": "Morocco U17 vs Senegal U17",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/21302.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1762452477.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "7cd34c91d563d92961e95f25ba525ee8": {
             "channelName": "Palmeiras vs Junior",
             "contentType": "event_pertandingan",
@@ -49,6 +59,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1566243942.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1135.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "947ba7c6eff1a616323e68be9643e48a": {
+            "channelName": "Petrojet vs El Gouna FC",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1656752193.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1601156928.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
