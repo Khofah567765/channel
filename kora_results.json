@@ -5,7 +5,7 @@
         "3a137d76f6160c37e4d19f135ef0e0c9": {
             "channelName": "Talaea El-Gaish vs Wadi Degla",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/onplus.m3u8?token=Be6ZQsUlfdrEM1AT-K_u1w&expires=1779988614",
+            "streamUrl": "https://a3.kora-plus.dad/watch/onplus.m3u8?token=62TNCtRSWArDOz807V07vQ&expires=1779997467",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1599382443.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1599240541.png",
@@ -35,8 +35,8 @@
         "650260508ecbae925d62a4e4bd599a95": {
             "channelName": "Egypt vs Russia",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a2.kora-plus.dad/watch/on1.m3u8?token=AigM75mH93hdmC-hnJlMKg&expires=1779997472",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1558613293.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1567803494.png",
             "referer": "https://vsys.kora-top.zip/",
