@@ -2,20 +2,10 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "272e2dd335e9359c8cb77e070af21f83": {
-            "channelName": "Morocco U17 vs Senegal U17",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/21302.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1762452477.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "7cd34c91d563d92961e95f25ba525ee8": {
             "channelName": "Palmeiras vs Junior",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/hd5.m3u8?token=fYWxKMgl97nheRVRgQlCPA&expires=1780011791",
+            "streamUrl": "https://a4.kora-plus.dad/watch/hd5.m3u8?token=Gu0RJCFlxQWJyPgL7krOeA&expires=1780016174",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1566243942.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1135.png",
@@ -25,7 +15,7 @@
         "650260508ecbae925d62a4e4bd599a95": {
             "channelName": "Egypt vs Russia",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/on1.m3u8?token=HDF_uyVJlwf-OLKwwzBSKQ&expires=1780011793",
+            "streamUrl": "https://a3.kora-plus.dad/watch/on1.m3u8?token=deH2SPVyG3SwXP_J8XbASg&expires=1780016176",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1558613293.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1567803494.png",
@@ -45,7 +35,7 @@
         "3a137d76f6160c37e4d19f135ef0e0c9": {
             "channelName": "Talaea El-Gaish vs Wadi Degla",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/onplus.m3u8?token=hQIba45prPIrF0IwfR1XcA&expires=1780011796",
+            "streamUrl": "https://a4.kora-plus.dad/watch/onplus.m3u8?token=WPNBar4_GvCt_v3IeT_y0Q&expires=1780016178",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1599382443.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1599240541.png",
@@ -69,6 +59,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1762269537.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/25822.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "272e2dd335e9359c8cb77e070af21f83": {
+            "channelName": "Morocco U17 vs Senegal U17",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/21302.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1762452477.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
