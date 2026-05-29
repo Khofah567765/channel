@@ -2,13 +2,103 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "f4a708afdc6fe5502831e3271aa8502c": {
-            "channelName": "Palmeiras vs Junior",
+        "22773e434d5750ee594040e596f03b4d": {
+            "channelName": "Iran vs Gambia",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/hd5.m3u8?token=L1PFge1NXYyKSdxoVRglWQ&expires=1780029349",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1571090639.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1560334717.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "1ac07f640ad6dfd1fa9d2b01f841c988": {
+            "channelName": "South Africa vs Nicaragua",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1559434872.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1560164476.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "cc734f6041cd4c89218410e06bbb8702": {
+            "channelName": "Andorra vs Iraq",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1568067531.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1559702437.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "fdea3f32713ff5f81867e5f5a965d53d": {
+            "channelName": "National Bank of Egypt vs Al-Ittihad Alexandria",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1619405898.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1569253085.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "70bd325ffa27dae82dbe2143e77d1f2b": {
+            "channelName": "FC Masr vs Kahraba Ismailia",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1570382853.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/20458.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "6781515187fb1541d093f0b18acdb5f2": {
+            "channelName": "El Mokawloon vs Future FC",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1575.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1640475557.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "cbd7c6485922360eb9e635c20358c2b6": {
+            "channelName": "Ghazl El Mahalla vs Haras El Hodoud",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1608259706.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1599438655.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "c8d7b9dea4993ca8f5580f5395fd5459": {
+            "channelName": "Bosnia and Herzegovina vs FYR Macedonia",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1560263913.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1105.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "a93d73a7f763a5fa41896eda1969af1c": {
+            "channelName": "OGC Nice vs Saint Etienne",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1566726796.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1557480714.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "05205bcbfdd57596979af2f80b0244d8": {
+            "channelName": "Boca Juniors vs U. Catolica",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a1.kora-plus.dad/watch/hd5.m3u8?token=t46SGziaUe6NrvQsmhN7iA&expires=1780044004",
             "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1566243942.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1135.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1566244593.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/2994.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
