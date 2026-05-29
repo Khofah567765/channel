@@ -2,6 +2,16 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
+        "43c4b89a9dbc01b07289a06b71af9fb5": {
+            "channelName": "Roland garros vs Roland garros",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1602079301.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1602079301.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "22773e434d5750ee594040e596f03b4d": {
             "channelName": "Iran vs Gambia",
             "contentType": "event_pertandingan",
@@ -95,7 +105,7 @@
         "05205bcbfdd57596979af2f80b0244d8": {
             "channelName": "Boca Juniors vs U. Catolica",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/hd5.m3u8?token=PShGUonsM5H1-BBG-maCmw&expires=1780055902",
+            "streamUrl": "https://a1.kora-plus.dad/watch/hd5.m3u8?token=DTqt_HpXKoxrGJ9WxgWB_Q&expires=1780067485",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1566244593.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/2994.png",
