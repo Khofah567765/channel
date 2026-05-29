@@ -2,6 +2,46 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
+        "43c4b89a9dbc01b07289a06b71af9fb5": {
+            "channelName": "Roland garros vs Roland garros",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1602079301.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1602079301.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "c8d7b9dea4993ca8f5580f5395fd5459": {
+            "channelName": "Bosnia and Herzegovina vs FYR Macedonia",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1560263913.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1105.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "a93d73a7f763a5fa41896eda1969af1c": {
+            "channelName": "OGC Nice vs Saint Etienne",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1566726796.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1557480714.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "05205bcbfdd57596979af2f80b0244d8": {
+            "channelName": "Boca Juniors vs U. Catolica",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a6.kora-plus.dad/watch/hd5.m3u8?token=MHn34u667KS2H11X4Prq1w&expires=1780095328",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1566244593.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/2994.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "22773e434d5750ee594040e596f03b4d": {
             "channelName": "Iran vs Gambia",
             "contentType": "event_pertandingan",
@@ -35,7 +75,7 @@
         "fdea3f32713ff5f81867e5f5a965d53d": {
             "channelName": "National Bank of Egypt vs Al-Ittihad Alexandria",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/on1.m3u8?token=qjDuGY6quMgBa4P93ZFM5A&expires=1780088293",
+            "streamUrl": "https://a2.kora-plus.dad/watch/on1.m3u8?token=itCwTPo8KFJgbstRjIR1-A&expires=1780095334",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1619405898.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1569253085.png",
@@ -69,36 +109,6 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1608259706.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1599438655.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "c8d7b9dea4993ca8f5580f5395fd5459": {
-            "channelName": "Bosnia and Herzegovina vs FYR Macedonia",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1560263913.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1105.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "a93d73a7f763a5fa41896eda1969af1c": {
-            "channelName": "OGC Nice vs Saint Etienne",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1566726796.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1557480714.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "05205bcbfdd57596979af2f80b0244d8": {
-            "channelName": "Boca Juniors vs U. Catolica",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/hd5.m3u8?token=tTzF_NhKXne5ROaYnCVLHQ&expires=1780088301",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1566244593.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/2994.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
