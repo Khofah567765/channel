@@ -2,16 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "697b17f8a0854e7f546134fc6d60ecde": {
-            "channelName": "Paris Saint-Germain vs Arsenal",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1558219377.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1557009110.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "6607117e79dc4522318b29baa3490356": {
             "channelName": "Roland garros vs Roland garros",
             "contentType": "event_pertandingan",
@@ -25,7 +15,7 @@
         "8e2f3b9c280385d796ac69ce5a0c133a": {
             "channelName": "Flamengo vs Coritiba",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/br1.m3u8?token=WGPbjdoWKQlwZQK9xduqWg&expires=1780182721",
+            "streamUrl": "https://a2.kora-plus.dad/watch/br1.m3u8?token=uoQXTRSpJdEWxK33cF0NlA&expires=1780186630",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1566244935.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1690321635.png",
@@ -35,7 +25,7 @@
         "492b876eba5505741d56898efa37fdf4": {
             "channelName": "Athletico Paranaense vs Mirassol",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/br4.m3u8?token=snMWDhaSz9deq_ufGdELsg&expires=1780182723",
+            "streamUrl": "https://a4.kora-plus.dad/watch/br4.m3u8?token=plWNF8aixDY74EHE5afVvQ&expires=1780186631",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1571572624.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/7848.png",
@@ -45,7 +35,7 @@
         "d28ceba55bf8491a817ca9c004db3a23": {
             "channelName": "FUS Rabat vs AS FAR Rabat",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/riadia.m3u8?token=9Arthk4qpTrAMmAlzyz-uw&expires=1780182725",
+            "streamUrl": "https://a2.kora-plus.dad/watch/riadia.m3u8?token=e_5pzcUWvI-2qfoRZIPEdA&expires=1780186633",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1583244646.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1583244525.png",
@@ -55,7 +45,7 @@
         "80fa6d4589708c56c4a48a5cc9ea1d08": {
             "channelName": "Bahia vs Botafogo",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/br5.m3u8?token=HuriPtq7c2I_E53igXUlKg&expires=1780182727",
+            "streamUrl": "https://a6.kora-plus.dad/watch/br5.m3u8?token=31u7eoc39XZcw_oAl9-GJg&expires=1780186634",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1688241464.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/120.png",
@@ -65,7 +55,7 @@
         "c91a062b674c602dbcacd0ac75ae3459": {
             "channelName": "Gremio vs Corinthians",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/br2.m3u8?token=z1szyH7khWgrTC12lyE_fg&expires=1780182729",
+            "streamUrl": "https://a1.kora-plus.dad/watch/br2.m3u8?token=rLzJ3UU_isU1fQJXSelrSA&expires=1780186636",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1566243892.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1570934037.png",
@@ -75,7 +65,7 @@
         "d82a8618352b6497894a7c3358e408df": {
             "channelName": "Santos vs Vitoria",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/br1.m3u8?token=6MVLZ_x5gExO5QkMu49FCg&expires=1780182730",
+            "streamUrl": "https://a4.kora-plus.dad/watch/br1.m3u8?token=0grUeCrlAaH7-k0TyaeLXg&expires=1780186638",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1570933631.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/136.png",
@@ -92,10 +82,20 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
+        "697b17f8a0854e7f546134fc6d60ecde": {
+            "channelName": "Paris Saint-Germain vs Arsenal",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1558219377.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1557009110.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "ae0e36320e002b190cbb5f7f39d252b7": {
             "channelName": "Scotland vs Curacao",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/bbc.m3u8?token=vtaHPm6XZmtDNVeeAki2zQ&expires=1780182734",
+            "streamUrl": "https://a3.kora-plus.dad/watch/bbc.m3u8?token=fdibudRUFxfunwTGnIPIGQ&expires=1780186641",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1560287918.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1679974740.png",
@@ -109,6 +109,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1191.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1557535902.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "2691287fdd2a45d12740d5853f78281a": {
+            "channelName": "O'Shaquie Foster vs Raymond Ford",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1780167955.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1780168007.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
