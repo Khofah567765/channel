@@ -2,6 +2,16 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
+        "ae0e36320e002b190cbb5f7f39d252b7": {
+            "channelName": "Scotland vs Curacao",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a4.kora-plus.dad/watch/bbc.m3u8?token=WM74fqN8aQHuH0h39gBQ_g&expires=1780146731",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1560287918.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1679974740.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "6607117e79dc4522318b29baa3490356": {
             "channelName": "Roland garros vs Roland garros",
             "contentType": "event_pertandingan",
@@ -9,16 +19,6 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1602079301.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1602079301.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "ae0e36320e002b190cbb5f7f39d252b7": {
-            "channelName": "Scotland vs Curacao",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/bbc.m3u8?token=2yOmgoRdhHVRa4KV07yv5g&expires=1780142463",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1560287918.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1679974740.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
