@@ -2,16 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "697b17f8a0854e7f546134fc6d60ecde": {
-            "channelName": "Paris Saint-Germain vs Arsenal",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1558219377.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1557009110.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "6607117e79dc4522318b29baa3490356": {
             "channelName": "Roland garros vs Roland garros",
             "contentType": "event_pertandingan",
@@ -22,21 +12,11 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "ad6b302e7c638be7a80cd194bfcdd032": {
-            "channelName": "CS Hammam-Lif vs Stade Gabesien",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1191.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1557535902.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "8e2f3b9c280385d796ac69ce5a0c133a": {
             "channelName": "Flamengo vs Coritiba",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a4.kora-plus.dad/watch/br1.m3u8?token=_YRNGaAYbgqvrdKb5uyi9w&expires=1780174752",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1566244935.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1690321635.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -45,8 +25,8 @@
         "492b876eba5505741d56898efa37fdf4": {
             "channelName": "Athletico Paranaense vs Mirassol",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a3.kora-plus.dad/watch/br4.m3u8?token=EQpuNH4nOUsCctt79rEVzA&expires=1780174754",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1571572624.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/7848.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -55,8 +35,8 @@
         "d28ceba55bf8491a817ca9c004db3a23": {
             "channelName": "FUS Rabat vs AS FAR Rabat",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a2.kora-plus.dad/watch/riadia.m3u8?token=rt2WoEru7z0vshRY8N1dFw&expires=1780174756",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1583244646.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1583244525.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -65,8 +45,8 @@
         "80fa6d4589708c56c4a48a5cc9ea1d08": {
             "channelName": "Bahia vs Botafogo",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a6.kora-plus.dad/watch/br5.m3u8?token=GmWxS14bi2_lbz9WFWUrvA&expires=1780174758",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1688241464.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/120.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -75,8 +55,8 @@
         "c91a062b674c602dbcacd0ac75ae3459": {
             "channelName": "Gremio vs Corinthians",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a4.kora-plus.dad/watch/br2.m3u8?token=XeTWOw_LPo-x-JgdwuNusQ&expires=1780174759",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1566243892.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1570934037.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -85,8 +65,8 @@
         "d82a8618352b6497894a7c3358e408df": {
             "channelName": "Santos vs Vitoria",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a2.kora-plus.dad/watch/br1.m3u8?token=yW5tzh0UZUCO091tw-cGYg&expires=1780174761",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1570933631.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/136.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -102,13 +82,33 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
+        "697b17f8a0854e7f546134fc6d60ecde": {
+            "channelName": "Paris Saint-Germain vs Arsenal",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1558219377.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1557009110.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "ae0e36320e002b190cbb5f7f39d252b7": {
             "channelName": "Scotland vs Curacao",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/bbc.m3u8?token=_tz8_34pMS3yIxsSQiesZg&expires=1780170568",
+            "streamUrl": "https://a3.kora-plus.dad/watch/bbc.m3u8?token=pw6BD7A-vs7bR8yko4MgNw&expires=1780174765",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1560287918.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1679974740.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "ad6b302e7c638be7a80cd194bfcdd032": {
+            "channelName": "CS Hammam-Lif vs Stade Gabesien",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1191.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1557535902.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
