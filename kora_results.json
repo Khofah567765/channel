@@ -2,6 +2,16 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
+        "989f4857795060707f1d0ba7421616f9": {
+            "channelName": "Brazil vs Panama",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a4.kora-plus.dad/watch/sportv.m3u8?token=gIawANnjuvd11pYd1hX3uQ&expires=1780273901",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1559701816.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1664238907.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "a999246c87eff6074860edc4fd99d749": {
             "channelName": "Roland garros vs Roland garros",
             "contentType": "event_pertandingan",
@@ -12,13 +22,23 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "4b057402bd3f8d19e0c2f228db435e83": {
-            "channelName": "Poland vs Ukraine",
+        "c7d8dd1e726f034b83f597db0229b10e": {
+            "channelName": "Cruzeiro vs Fluminense",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1599240248.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1571004214.png",
+            "streamUrl": "https://a4.kora-plus.dad/watch/br4.m3u8?token=FX9uZzPr-MEpTj-8t2UQSA&expires=1780273904",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1688249348.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1688200083.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "c78ca401722503d1309c993b800f8274": {
+            "channelName": "remo vs Sao Paulo",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a2.kora-plus.dad/watch/br3.m3u8?token=po6H24f903H8k0oBeeSKMg&expires=1780273906",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1198.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1570933882.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -32,26 +52,6 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "55cfb42e87218e56313edbf98c1eb343": {
-            "channelName": "Palmeiras vs Chapecoense-sc",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/br3.m3u8?token=CB-P3thbRcxaDafxxQ0-pQ&expires=1780269077",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1566243942.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/132.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "02681df9f9bbb45be25d676b55c0f809": {
-            "channelName": "Vasco DA Gama vs Atletico-MG",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/br4.m3u8?token=79nSbtGa0bcdLyUvlEKHgw&expires=1780269079",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1688323838.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1062.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "f5df951d05756955b418049e456838b0": {
             "channelName": "USA vs Senegal",
             "contentType": "event_pertandingan",
@@ -59,36 +59,6 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1622387312.jpg",
             "team2Logo": "https://img.kora-api.space/uploads/team/1558613750.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "989f4857795060707f1d0ba7421616f9": {
-            "channelName": "Brazil vs Panama",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/sportv.m3u8?token=ChGJOeD7YCjgK59amyyy-w&expires=1780269083",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1559701816.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1664238907.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "c7d8dd1e726f034b83f597db0229b10e": {
-            "channelName": "Cruzeiro vs Fluminense",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/br4.m3u8?token=LpSKwC6FcsiYz40Tgb9ijQ&expires=1780269085",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1688249348.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1688200083.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "c78ca401722503d1309c993b800f8274": {
-            "channelName": "remo vs Sao Paulo",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/br3.m3u8?token=LoHBOhYku7xzJRchwfIghA&expires=1780269086",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1198.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1570933882.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -115,7 +85,7 @@
         "df3e3e84c7f24b1e96bea103bd12c659": {
             "channelName": "Switzerland vs Jordan",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/jordan.m3u8?token=GEM0e6ndAKnHxIc1nDLXmw&expires=1780269091",
+            "streamUrl": "https://a2.kora-plus.dad/watch/jordan.m3u8?token=soUyUWEBmIN_eYnMRNlRwQ&expires=1780273913",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1559701443.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1567707351.png",
@@ -125,7 +95,7 @@
         "954714d07cb49657bf94da20665909ae": {
             "channelName": "RB Bragantino vs Internacional",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/br3.m3u8?token=nn6jDCQ0z2EGwYMEPXPpvw&expires=1780269093",
+            "streamUrl": "https://a1.kora-plus.dad/watch/br3.m3u8?token=FmrUkMzSM4s_tM5QJayXnA&expires=1780273914",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1688323660.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1566244981.png",
@@ -149,6 +119,36 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/989.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1556349905.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "4b057402bd3f8d19e0c2f228db435e83": {
+            "channelName": "Poland vs Ukraine",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1599240248.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1571004214.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "55cfb42e87218e56313edbf98c1eb343": {
+            "channelName": "Palmeiras vs Chapecoense-sc",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a4.kora-plus.dad/watch/br3.m3u8?token=21A3RtzuGww5rUqHj_xrdw&expires=1780273920",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1566243942.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/132.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "02681df9f9bbb45be25d676b55c0f809": {
+            "channelName": "Vasco DA Gama vs Atletico-MG",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a1.kora-plus.dad/watch/br4.m3u8?token=f-nNziHg_1OcDnsmQ3KkSA&expires=1780273921",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1688323838.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1062.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
