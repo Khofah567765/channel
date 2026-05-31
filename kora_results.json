@@ -2,6 +2,16 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
+        "a999246c87eff6074860edc4fd99d749": {
+            "channelName": "Roland garros vs Roland garros",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1602079301.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1602079301.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "df3e3e84c7f24b1e96bea103bd12c659": {
             "channelName": "Switzerland vs Jordan",
             "contentType": "event_pertandingan",
