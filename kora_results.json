@@ -2,10 +2,20 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
+        "a999246c87eff6074860edc4fd99d749": {
+            "channelName": "Roland garros vs Roland garros",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1602079301.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1602079301.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "df3e3e84c7f24b1e96bea103bd12c659": {
             "channelName": "Switzerland vs Jordan",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/jordan.m3u8?token=G3raXqIdczTjGrYohiKC9A&expires=1780243590",
+            "streamUrl": "https://a2.kora-plus.dad/watch/jordan.m3u8?token=BFNuwvK8QdI1STiXBnfkOQ&expires=1780248082",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1559701443.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1567707351.png",
@@ -15,7 +25,7 @@
         "954714d07cb49657bf94da20665909ae": {
             "channelName": "RB Bragantino vs Internacional",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/br3.m3u8?token=wRC347EkJ266fjcLeAtTEA&expires=1780243592",
+            "streamUrl": "https://a6.kora-plus.dad/watch/br3.m3u8?token=46J8uyBY-Mnjv6H39j-gkQ&expires=1780248084",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1688323660.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1566244981.png",
