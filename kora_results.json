@@ -2,26 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "a9122e31542c8fae383a6de5146385a6": {
-            "channelName": "Santos vs Vitoria",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/br1.m3u8?token=5Ja4TO9WQRu4m8HFWyuaFQ&expires=1780190276",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1570933631.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/136.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "a7fd4423ac6297c3464617f8fc8cc1b6": {
-            "channelName": "Ecuador vs Saudi Arabia",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1560461775.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1559009301.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "3b6d6a20c101c38db57d08d9128fb279": {
             "channelName": "Mexico vs Australia",
             "contentType": "event_pertandingan",
