@@ -45,8 +45,8 @@
         "55cfb42e87218e56313edbf98c1eb343": {
             "channelName": "Palmeiras vs Chapecoense-sc",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a1.kora-plus.dad/watch/br3.m3u8?token=2vvjZFRUcBANfLAYrhbwLw&expires=1780256917",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1566243942.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/132.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -125,7 +125,7 @@
         "df3e3e84c7f24b1e96bea103bd12c659": {
             "channelName": "Switzerland vs Jordan",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/jordan.m3u8?token=KOFndld5Z9THgGRReoXA4g&expires=1780252613",
+            "streamUrl": "https://a6.kora-plus.dad/watch/jordan.m3u8?token=2hZWdHC-sivrfbCSLFK0Yw&expires=1780256927",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1559701443.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1567707351.png",
@@ -135,7 +135,7 @@
         "954714d07cb49657bf94da20665909ae": {
             "channelName": "RB Bragantino vs Internacional",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/br3.m3u8?token=E_4zYxCUTIh489bkb0SdyQ&expires=1780252615",
+            "streamUrl": "https://a2.kora-plus.dad/watch/br3.m3u8?token=4LhA491gyhQ6KAXymCjxng&expires=1780256929",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1688323660.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1566244981.png",
