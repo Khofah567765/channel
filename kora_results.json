@@ -2,26 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "003b14723da0037fddf85330a0752b07": {
-            "channelName": "Cruzeiro vs Fluminense",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/br4.m3u8?token=_EXGKimmS62X66tPXqMvjQ&expires=1780282604",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1688249348.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1688200083.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "b7551e9e43a6e71bc801d26e5ca8b9a3": {
-            "channelName": "remo vs Sao Paulo",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/br3.m3u8?token=i_mlNxOc8-_d32X6lK6VUg&expires=1780282606",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1198.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1570933882.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "a27323528aa4872ed029753f468d01c7": {
             "channelName": "Roland garros vs Roland garros",
             "contentType": "event_pertandingan",
