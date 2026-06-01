@@ -32,10 +32,40 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
+        "116e808462ea0b171fe775d3502f5522": {
+            "channelName": "Turkey vs FYR Macedonia",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1559702589.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1105.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "e65d1d995fc1ce1c0da5b701eac1db6e": {
+            "channelName": "Al Najaf vs Al Zawra'a",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a6.kora-plus.dad/watch/alwan5.m3u8?token=1ivN1ENUVBpLbv8goNQGnQ&expires=1780359905",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/11066.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/8010.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "a7f72485fb4edd6435ae65cb576dc391": {
+            "channelName": "Al Talaba vs Al Karkh",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a4.kora-plus.dad/watch/alwan6.m3u8?token=FcCO_mKK6uJMVIvvdbtRJw&expires=1780359907",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/11067.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/15544.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "9e8349a97dd38e0ab232acd1ce6da191": {
             "channelName": "Olympique de Safi vs MAS de Fes",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/riadia.m3u8?token=xS_Wwdwl8-eCR5r_UQ3D-A&expires=1780354261",
+            "streamUrl": "https://a4.kora-plus.dad/watch/riadia.m3u8?token=Y9v19DFEZwAcZ7rgSS9FrQ&expires=1780359908",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1572733931.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1608901012.png",
@@ -45,7 +75,7 @@
         "544629565c828652bc50af5ef8c1d704": {
             "channelName": "CODM Mekn\u00e8s vs Olympique Dche\u00efra",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/riadia.m3u8?token=PPQLmFeglkzNRfpAd01_Ng&expires=1780354269",
+            "streamUrl": "https://a6.kora-plus.dad/watch/riadia.m3u8?token=N9Yyu1XeKQTaPf_Ga66KOg&expires=1780359910",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1731682110.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/3454.png",
@@ -55,8 +85,8 @@
         "47e88a418c49e960b0e793ccd658b9c6": {
             "channelName": "Colombia vs Costa Rica",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a4.kora-plus.dad/watch/tv1.m3u8?token=KMBJMa1pAjSgmjtfvNZHlw&expires=1780359911",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1560461661.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1655156961.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -65,8 +95,8 @@
         "3f3cbcc0b8423a3c62a030afa8502771": {
             "channelName": "Canada vs Uzbekistan",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a4.kora-plus.dad/watch/tv2.m3u8?token=CMjxcJqBmCYxCwaTldxw9A&expires=1780359912",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1626609059.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1567707646.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -85,7 +115,7 @@
         "74717f29a13dd57a6a0ff4b00474bedc": {
             "channelName": "Mosul vs Al-Qasim",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/alwan4.m3u8?token=9fJx_FRvG6nScRZ13XFy1Q&expires=1780354281",
+            "streamUrl": "https://a1.kora-plus.dad/watch/alwan4.m3u8?token=QOvnEfCk6qxUWMTHT1-OiA&expires=1780359915",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/26598.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/15546.png",
@@ -95,7 +125,7 @@
         "60039b0a55d97551383805e1a68451c7": {
             "channelName": "Naft vs Newroz",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/alwan6.m3u8?token=5FyrBeYvKHBo3AJpFzuTKg&expires=1780354284",
+            "streamUrl": "https://a4.kora-plus.dad/watch/alwan6.m3u8?token=r5Pt4LL_Bf_3Qpwg6804Dg&expires=1780359917",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/11071.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/25062.png",
@@ -105,7 +135,7 @@
         "a1919780941040d0617d96055c32e611": {
             "channelName": "Diyala vs Duhok",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/alwan5.m3u8?token=ZEeoNVfBKDGEsYAsLGkAYg&expires=1780354286",
+            "streamUrl": "https://a6.kora-plus.dad/watch/alwan5.m3u8?token=9MwxevYAaf8QTgpSFmc3ig&expires=1780359918",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/25061.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/20463.png",
@@ -135,40 +165,10 @@
         "4486377284b16b51ad0129cc26353884": {
             "channelName": "Uts Union Touarga vs Kawkab Marrakech",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/riadia.m3u8?token=tweZ9_r01cbZvLaHL12U5A&expires=1780354291",
+            "streamUrl": "https://a3.kora-plus.dad/watch/riadia.m3u8?token=GXrn26MJaUEahl7830Cq4g&expires=1780359922",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1662717594.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/971.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "116e808462ea0b171fe775d3502f5522": {
-            "channelName": "Turkey vs FYR Macedonia",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1559702589.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1105.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "e65d1d995fc1ce1c0da5b701eac1db6e": {
-            "channelName": "Al Najaf vs Al Zawra'a",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/alwan5.m3u8?token=-mcrmdfkJCSP6EP0GNBm_Q&expires=1780354294",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/11066.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/8010.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "a7f72485fb4edd6435ae65cb576dc391": {
-            "channelName": "Al Talaba vs Al Karkh",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/alwan6.m3u8?token=-a9OrXqmplWkwMpXVX038Q&expires=1780354296",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/11067.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/15544.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
