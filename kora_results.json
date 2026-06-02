@@ -12,6 +12,36 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
+        "2c32223c389855347576761ebdcc4b66": {
+            "channelName": "Gharraf vs Naft Maysan",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a3.kora-plus.dad/watch/alwan6.m3u8?token=UB1jA_WpmIdBD8WoFtUyAg&expires=1780416535",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/26600.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/11074.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "e240a3eddb6457cd67d31b920a282653": {
+            "channelName": "Al Kahrabaa vs Al-Karma",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a6.kora-plus.dad/watch/alwan5.m3u8?token=iR2oLFh9eYvwN-O35d61aw&expires=1780416537",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/11064.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/25063.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "342f684c346de62e4638998a708b9439": {
+            "channelName": "Al-Quwa Al-Jawiya vs Zakho",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1649410014.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/15547.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "05f7eca9a000a6de25bc18c0efb8e5a5": {
             "channelName": "Croatia vs Belgium",
             "contentType": "event_pertandingan",
@@ -42,6 +72,36 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
+        "637a373fbed7c401a3a0c702460ec966": {
+            "channelName": "Erbil vs Baghdad",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a6.kora-plus.dad/watch/alwan5.m3u8?token=_IfFwaFdqZ6cE2YBzRjcpA&expires=1780416544",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/11070.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/11069.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "612d327a1f3c8f79ee271f2cb26875ff": {
+            "channelName": "Al-Shorta vs Al Minaa Basra",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a3.kora-plus.dad/watch/alwan6.m3u8?token=QCaJ5Yz1TG45B69Q6fQU_A&expires=1780416545",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1600822273.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/11065.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "7437f33d0b8f64b0170ed5bc9e8f761d": {
+            "channelName": "USM Alger vs CR Belouizdad",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1582564205.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1613179694.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "d26948be578ecdf6b45ea6b128aab980": {
             "channelName": "Wales vs Ghana",
             "contentType": "event_pertandingan",
@@ -65,7 +125,7 @@
         "42e997c53f99063f7d9e19a711b0f869": {
             "channelName": "Canada vs Uzbekistan",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/tv2.m3u8?token=fYIKeibHgIzc9k8l8IUvzQ&expires=1780402130",
+            "streamUrl": "https://a6.kora-plus.dad/watch/tv2.m3u8?token=vb13alzETRUPczeDYWn_NA&expires=1780416550",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1626609059.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1567707646.png",
