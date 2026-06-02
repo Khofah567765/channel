@@ -2,173 +2,23 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "2abc9391e052d1e39d90db32340a3e35": {
-            "channelName": "Austria vs Tunisia",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1610789258.jpg",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1559434130.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "09ee12b4c8d7991c622137ec8963f97a": {
-            "channelName": "Morocco U17 vs Egypt U17",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/21302.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1762269537.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "a27323528aa4872ed029753f468d01c7": {
-            "channelName": "Roland garros vs Roland garros",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1602079301.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1602079301.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "116e808462ea0b171fe775d3502f5522": {
-            "channelName": "Turkey vs FYR Macedonia",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1559702589.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1105.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "e65d1d995fc1ce1c0da5b701eac1db6e": {
-            "channelName": "Al Najaf vs Al Zawra'a",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/alwan5.m3u8?token=1ivN1ENUVBpLbv8goNQGnQ&expires=1780359905",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/11066.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/8010.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "a7f72485fb4edd6435ae65cb576dc391": {
-            "channelName": "Al Talaba vs Al Karkh",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/alwan6.m3u8?token=FcCO_mKK6uJMVIvvdbtRJw&expires=1780359907",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/11067.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/15544.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "9e8349a97dd38e0ab232acd1ce6da191": {
-            "channelName": "Olympique de Safi vs MAS de Fes",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/riadia.m3u8?token=Y9v19DFEZwAcZ7rgSS9FrQ&expires=1780359908",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1572733931.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1608901012.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "544629565c828652bc50af5ef8c1d704": {
-            "channelName": "CODM Mekn\u00e8s vs Olympique Dche\u00efra",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/riadia.m3u8?token=N9Yyu1XeKQTaPf_Ga66KOg&expires=1780359910",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1731682110.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/3454.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "47e88a418c49e960b0e793ccd658b9c6": {
+        "20a3d36750219d0d7849f2e5e79e0524": {
             "channelName": "Colombia vs Costa Rica",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/tv1.m3u8?token=KMBJMa1pAjSgmjtfvNZHlw&expires=1780359911",
+            "streamUrl": "https://a6.kora-plus.dad/watch/tv1.m3u8?token=7tHh6qus7eIQ34tVF9pnYw&expires=1780369032",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1560461661.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1655156961.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "3f3cbcc0b8423a3c62a030afa8502771": {
+        "42e997c53f99063f7d9e19a711b0f869": {
             "channelName": "Canada vs Uzbekistan",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/tv2.m3u8?token=CMjxcJqBmCYxCwaTldxw9A&expires=1780359912",
+            "streamUrl": "https://a2.kora-plus.dad/watch/tv2.m3u8?token=HIVo9B8c7eRTP1oy8Ub4pQ&expires=1780369034",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1626609059.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1567707646.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "dc181a08c017f78e6d833a5701421b9e": {
-            "channelName": "Norway vs Sweden",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1570845150.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1560165168.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "74717f29a13dd57a6a0ff4b00474bedc": {
-            "channelName": "Mosul vs Al-Qasim",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/alwan4.m3u8?token=QOvnEfCk6qxUWMTHT1-OiA&expires=1780359915",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/26598.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/15546.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "60039b0a55d97551383805e1a68451c7": {
-            "channelName": "Naft vs Newroz",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/alwan6.m3u8?token=r5Pt4LL_Bf_3Qpwg6804Dg&expires=1780359917",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/11071.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/25062.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "a1919780941040d0617d96055c32e611": {
-            "channelName": "Diyala vs Duhok",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/alwan5.m3u8?token=9MwxevYAaf8QTgpSFmc3ig&expires=1780359918",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/25061.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/20463.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "bebae247271a6f244963ede6b3d0f123": {
-            "channelName": "Bulgaria vs Montenegro",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1567549755.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1602280166.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "6572dfc73170ee9728dacb52e0b6cbbd": {
-            "channelName": "Slovakia vs Malta",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1567791745.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1633917102.webp",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "4486377284b16b51ad0129cc26353884": {
-            "channelName": "Uts Union Touarga vs Kawkab Marrakech",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a3.kora-plus.dad/watch/riadia.m3u8?token=GXrn26MJaUEahl7830Cq4g&expires=1780359922",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1662717594.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/971.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
