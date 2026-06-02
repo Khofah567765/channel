@@ -2,20 +2,60 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "20a3d36750219d0d7849f2e5e79e0524": {
-            "channelName": "Colombia vs Costa Rica",
+        "05f7eca9a000a6de25bc18c0efb8e5a5": {
+            "channelName": "Croatia vs Belgium",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/tv1.m3u8?token=7tHh6qus7eIQ34tVF9pnYw&expires=1780369032",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1560461661.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1655156961.png",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1670707775.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1560287858.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "1b27edd8bf9a02bc8f3a8b3c4b0666bb": {
+            "channelName": "Morocco vs Madagascar",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1670707745.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1558613468.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "beecd67e5861358d4b21ff1903d8dddc": {
+            "channelName": "Georgia vs Romania",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1616906372.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1567423275.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "d26948be578ecdf6b45ea6b128aab980": {
+            "channelName": "Wales vs Ghana",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1570991705.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1559434250.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "2b42e863b15212ea7bf2e77420ba98dc": {
+            "channelName": "Tanzania U17 vs Senegal U17",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/25822.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1762452477.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
         "42e997c53f99063f7d9e19a711b0f869": {
             "channelName": "Canada vs Uzbekistan",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/tv2.m3u8?token=HIVo9B8c7eRTP1oy8Ub4pQ&expires=1780369034",
+            "streamUrl": "https://a2.kora-plus.dad/watch/tv2.m3u8?token=3CQ3B2ZZ9MP31fYZSeLnwA&expires=1780386255",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1626609059.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1567707646.png",
