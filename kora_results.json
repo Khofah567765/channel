@@ -2,6 +2,16 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
+        "395fdce08f78f8a915229ac1a4627982": {
+            "channelName": "Roland garros vs Roland garros",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1602079301.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1602079301.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "05f7eca9a000a6de25bc18c0efb8e5a5": {
             "channelName": "Croatia vs Belgium",
             "contentType": "event_pertandingan",
@@ -55,7 +65,7 @@
         "42e997c53f99063f7d9e19a711b0f869": {
             "channelName": "Canada vs Uzbekistan",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a2.kora-plus.dad/watch/tv2.m3u8?token=3CQ3B2ZZ9MP31fYZSeLnwA&expires=1780386255",
+            "streamUrl": "https://a1.kora-plus.dad/watch/tv2.m3u8?token=fYIKeibHgIzc9k8l8IUvzQ&expires=1780402130",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1626609059.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1567707646.png",
