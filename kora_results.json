@@ -2,46 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "0b28779e3062b16c99ea4c7dae93d67c": {
-            "channelName": "Roland garros vs Roland garros",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1602079301.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1602079301.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "7fda09ba007737f8542fbda73f4530c2": {
-            "channelName": "Renaissance Zemamra vs Yacoub El Mansour",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/riadia.m3u8?token=o6jEDeAPf6BmW64mq_gM5w&expires=1780510277",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1583430709.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/25058.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "336993f2886d217ac0099f66b0c857d7": {
-            "channelName": "DR Congo vs Denmark",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1558613262.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1570844552.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "bb3c172fcf0a7d7f5b8cc35f3929d682": {
-            "channelName": "Ittihad Tanger vs Wydad Athletic Club",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1584029792.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1556302755.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "e896c8265379773475a507020d56db36": {
             "channelName": "Netherlands vs Algeria",
             "contentType": "event_pertandingan",
@@ -72,11 +32,41 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "bb84119c8ec7e5d8b9b726cf8203b697": {
-            "channelName": "Raja Club Athletic vs RSB Berkane",
+        "0b28779e3062b16c99ea4c7dae93d67c": {
+            "channelName": "Roland garros vs Roland garros",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1602079301.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1602079301.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "336993f2886d217ac0099f66b0c857d7": {
+            "channelName": "DR Congo vs Denmark",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1558613262.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1570844552.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "bb3c172fcf0a7d7f5b8cc35f3929d682": {
+            "channelName": "Ittihad Tanger vs Wydad Athletic Club",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a6.kora-plus.dad/watch/riadia.m3u8?token=UpKFMUdu2dyyj5wwnGEHDA&expires=1780522189",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1584029792.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1556302755.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "bb84119c8ec7e5d8b9b726cf8203b697": {
+            "channelName": "Raja Club Athletic vs RSB Berkane",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a6.kora-plus.dad/watch/riadia.m3u8?token=zHv7mbPwN8UjnZIOM7qpnQ&expires=1780522191",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1571880004.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/berkane.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -85,10 +75,20 @@
         "69e83eea291fcf362524ccf485ce03ef": {
             "channelName": "Haiti vs New Zealand",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/foxdep.m3u8?token=YoK2L8X9wj7VVOo8qzp5yQ&expires=1780510286",
+            "streamUrl": "https://a4.kora-plus.dad/watch/foxdep.m3u8?token=LVthSMpJKG8939OxeS7vgg&expires=1780522192",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1688323750.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1654376336.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "7fda09ba007737f8542fbda73f4530c2": {
+            "channelName": "Renaissance Zemamra vs Yacoub El Mansour",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a1.kora-plus.dad/watch/riadia.m3u8?token=VKVRVt43To91mPQrwCtpCg&expires=1780522194",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1583430709.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/25058.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
