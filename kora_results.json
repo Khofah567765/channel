@@ -25,8 +25,8 @@
         "fed50491cc64d9d7f370a3c025121f6c": {
             "channelName": "Hassania Agadir vs FUS Rabat",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a6.kora-plus.dad/watch/riadia.m3u8?token=i-h-sSSisC6Lff2vLSNNIQ&expires=1780599780",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1583052987.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1583244646.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -35,8 +35,8 @@
         "cd0e649963bf46bfce66882ace24d24f": {
             "channelName": "Spain vs Iraq",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a1.kora-plus.dad/watch/alwan1.m3u8?token=Y5OkLBQkNtWIE9jk8ETmjA&expires=1780599782",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1559702274.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1559702437.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -55,8 +55,8 @@
         "c255a2e65896ce4895287e6f044c064d": {
             "channelName": "AS FAR Rabat vs Difaa Hassani El-Jadidi",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a1.kora-plus.dad/watch/riadia.m3u8?token=VTaVz3JtDJKD8FTr0h9Ixg&expires=1780599786",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1583244525.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1570369492.png",
             "referer": "https://vsys.kora-top.zip/",
