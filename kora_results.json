@@ -12,6 +12,16 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
+        "21fcc419cb3695693d6808ef59b5b793": {
+            "channelName": "Lebanon vs Yemen",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1624402591.jpg",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1568067990.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "99bb13cfc1718a1b7a22e183090a9ac3": {
             "channelName": "Sweden vs Greece",
             "contentType": "event_pertandingan",
@@ -25,7 +35,7 @@
         "fed50491cc64d9d7f370a3c025121f6c": {
             "channelName": "Hassania Agadir vs FUS Rabat",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/riadia.m3u8?token=i-h-sSSisC6Lff2vLSNNIQ&expires=1780599780",
+            "streamUrl": "https://a4.kora-plus.dad/watch/riadia.m3u8?token=0kGht6JI4ND-LIIXzgSqMA&expires=1780608040",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1583052987.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1583244646.png",
@@ -35,7 +45,7 @@
         "cd0e649963bf46bfce66882ace24d24f": {
             "channelName": "Spain vs Iraq",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/alwan1.m3u8?token=Y5OkLBQkNtWIE9jk8ETmjA&expires=1780599782",
+            "streamUrl": "https://a6.kora-plus.dad/watch/alwan1.m3u8?token=jDcyauDO9e3VkuT4ags1iQ&expires=1780608042",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1559702274.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1559702437.png",
@@ -55,7 +65,7 @@
         "c255a2e65896ce4895287e6f044c064d": {
             "channelName": "AS FAR Rabat vs Difaa Hassani El-Jadidi",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/riadia.m3u8?token=VTaVz3JtDJKD8FTr0h9Ixg&expires=1780599786",
+            "streamUrl": "https://a6.kora-plus.dad/watch/riadia.m3u8?token=2us4BruIkY7843FXqVxc5g&expires=1780608046",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1583244525.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1570369492.png",
