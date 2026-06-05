@@ -35,7 +35,7 @@
         "7a07265e0bcceb7c3a549c4171e4cd87": {
             "channelName": "Georgia vs Bahrain",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/hd9.m3u8?token=E3ntpoQ2rTdKRZ6TgGB4mw&expires=1780679583",
+            "streamUrl": "https://a4.kora-plus.dad/watch/hd9.m3u8?token=z_wAn4aasHC1SaVb9jj-og&expires=1780686863",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1616906372.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1567424487.png",
@@ -45,8 +45,8 @@
         "7b6bb85705e9ad1ab94ec83acf01f3d7": {
             "channelName": "Hungary vs Finland",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a6.kora-plus.dad/watch/ch2.m3u8?token=uRr8tO6PiilcY_ZQ--cyqw&expires=1780686865",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1623755382.jpg",
             "team2Logo": "https://img.kora-api.space/uploads/team/1567550460.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -95,7 +95,7 @@
         "a11bb189099a59b071f033514df3f3fe": {
             "channelName": "Mexico vs Serbia",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/hd5.m3u8?token=AiqRBkufmH3NAqpaYhC-Zg&expires=1780679591",
+            "streamUrl": "https://a4.kora-plus.dad/watch/hd5.m3u8?token=tor09ZtmyN5zR7q5l698eA&expires=1780686871",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1568151357.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1567549961.png",
@@ -115,7 +115,7 @@
         "08e13c4f2e9d366905a793a7c1aa54ac": {
             "channelName": "Indonesia vs Oman",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/ch1.m3u8?token=fHYO-UV-c4OUNfTjlSnC1A&expires=1780679594",
+            "streamUrl": "https://a1.kora-plus.dad/watch/ch1.m3u8?token=LZhdUncr5iUNo5IammtjjA&expires=1780686874",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1623361444.jpg",
             "team2Logo": "https://img.kora-api.space/uploads/team/1567708884.png",
