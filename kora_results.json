@@ -2,11 +2,21 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
+        "7b6bb85705e9ad1ab94ec83acf01f3d7": {
+            "channelName": "Hungary vs Finland",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1623755382.jpg",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1567550460.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "6c6e26a35d6531050496f95f82d143d4": {
             "channelName": "Paraguay vs Nicaragua",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/hd8.m3u8?token=1J5Fd8LDJixXHhh8rhF2cA&expires=1780703391",
-            "status": "live",
+            "streamUrl": "",
+            "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1560461713.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1560164476.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -15,8 +25,8 @@
         "40e1ec5e3e3fd1bd602b81120a0aaacd": {
             "channelName": "Puerto Rico vs Saudi Arabia",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/alwan1.m3u8?token=XgOFdlusRLpWL9aJA7Q8gw&expires=1780703393",
-            "status": "live",
+            "streamUrl": "",
+            "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/5539.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1559009301.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -25,8 +35,8 @@
         "a3d2b43f13b8b7f2098c9b1f4374c27f": {
             "channelName": "Canada vs Rep. Of Ireland",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/ch3.m3u8?token=_LoKI3H_CTQ8Y1xIFFAegg&expires=1780703394",
-            "status": "live",
+            "streamUrl": "",
+            "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1626609059.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/776.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -45,8 +55,8 @@
         "a11bb189099a59b071f033514df3f3fe": {
             "channelName": "Mexico vs Serbia",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/hd5.m3u8?token=LcHn4lKCZPU5blirbN-c5Q&expires=1780703397",
-            "status": "live",
+            "streamUrl": "",
+            "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1568151357.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1567549961.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -75,8 +85,8 @@
         "08e13c4f2e9d366905a793a7c1aa54ac": {
             "channelName": "Indonesia vs Oman",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/ch1.m3u8?token=kebHhT_dqWSSnhKfc-3sDQ&expires=1780703401",
-            "status": "live",
+            "streamUrl": "",
+            "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1623361444.jpg",
             "team2Logo": "https://img.kora-api.space/uploads/team/1567708884.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -105,20 +115,10 @@
         "7a07265e0bcceb7c3a549c4171e4cd87": {
             "channelName": "Georgia vs Bahrain",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/hd9.m3u8?token=1Vm_YU_tgqgt-59Jv6GyUA&expires=1780703405",
-            "status": "live",
+            "streamUrl": "",
+            "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1616906372.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1567424487.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "7b6bb85705e9ad1ab94ec83acf01f3d7": {
-            "channelName": "Hungary vs Finland",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a6.kora-plus.dad/watch/ch2.m3u8?token=yXtRpCoypnASrmfLGXUIcw&expires=1780703406",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1623755382.jpg",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1567550460.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
