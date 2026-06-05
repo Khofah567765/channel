@@ -2,6 +2,16 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
+        "f285bb3c5fbe4bdfdcbe7285a56006e1": {
+            "channelName": "Roland garros vs Roland garros",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1602079301.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1602079301.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "b4393e783a55002e3c815cdb29f2245d": {
             "channelName": "Formula 1 vs Formula 1",
             "contentType": "event_pertandingan",
@@ -15,8 +25,8 @@
         "08e13c4f2e9d366905a793a7c1aa54ac": {
             "channelName": "Indonesia vs Oman",
             "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
+            "streamUrl": "https://a6.kora-plus.dad/watch/ch1.m3u8?token=65mRkq40FLabG5qyGg-x6A&expires=1780669647",
+            "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1623361444.jpg",
             "team2Logo": "https://img.kora-api.space/uploads/team/1567708884.png",
             "referer": "https://vsys.kora-top.zip/",
@@ -29,6 +39,26 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "2dafd3772890bdc21411dbb521a0abcd": {
+            "channelName": "Belarus vs Syria",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1560164189.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1742908449.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "7a07265e0bcceb7c3a549c4171e4cd87": {
+            "channelName": "Georgia vs Bahrain",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1616906372.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1567424487.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -85,7 +115,7 @@
         "a11bb189099a59b071f033514df3f3fe": {
             "channelName": "Mexico vs Serbia",
             "contentType": "event_pertandingan",
-            "streamUrl": "https://a1.kora-plus.dad/watch/hd5.m3u8?token=GRiuwouYg4xJlZB9HJgf6Q&expires=1780657914",
+            "streamUrl": "https://a1.kora-plus.dad/watch/hd5.m3u8?token=cpaIjVj5rhhNsuZTpnIe5w&expires=1780669659",
             "status": "live",
             "team1Logo": "https://img.kora-api.space/uploads/team/1568151357.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1567549961.png",
