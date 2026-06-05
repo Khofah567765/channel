@@ -2,16 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "a11bb189099a59b071f033514df3f3fe": {
-            "channelName": "Mexico vs Serbia",
-            "contentType": "event_pertandingan",
-            "streamUrl": "https://a4.kora-plus.dad/watch/hd5.m3u8?token=a7P4ykWNxtF2Vuxt_Jp87A&expires=1780643122",
-            "status": "live",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1568151357.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1567549961.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "b4393e783a55002e3c815cdb29f2245d": {
             "channelName": "Formula 1 vs Formula 1",
             "contentType": "event_pertandingan",
@@ -89,6 +79,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1570451829.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1684566996.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "a11bb189099a59b071f033514df3f3fe": {
+            "channelName": "Mexico vs Serbia",
+            "contentType": "event_pertandingan",
+            "streamUrl": "https://a1.kora-plus.dad/watch/hd5.m3u8?token=GRiuwouYg4xJlZB9HJgf6Q&expires=1780657914",
+            "status": "live",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1568151357.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1567549961.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
