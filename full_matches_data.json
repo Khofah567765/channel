@@ -3,10 +3,12 @@
         "id": 9703,
         "title": "Motogp HUNGARY",
         "is_live": true,
+        "category": "Motor Sport",
+        "begin_at": "2026-06-05T09:45:00Z",
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/oeenzgezcz47.m3u8?st=YZtHYUddbYVJTT3-46iu0jRUSAlshB14euGceVGVzJs&e=1780756844"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/oeenzgezcz47.m3u8?st=f8dgmZ3RXMq1deKYtpA-PGruq69LIIkuVeVyhnYTgLI&e=1780757331"
             }
         ]
     },
@@ -14,10 +16,337 @@
         "id": 9700,
         "title": "Monaco Grand Prix  Practice 3",
         "is_live": true,
+        "category": "Motor Sport",
+        "begin_at": "2026-06-06T11:30:00Z",
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/hbfkazbkaznc49.m3u8?st=7pDJfpf-p9fsPiWuyOc-XOwB1wOYYwKV_iCTN1GLVLk&e=1780756858"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/hbfkazbkaznc49.m3u8?st=-i2ib3pJKNbctkPjvDNUq-DxQPeINP1PEPoYtd8h2bE&e=1780757343"
+            }
+        ]
+    },
+    {
+        "id": 9727,
+        "title": "Tunisia vs Belgium",
+        "is_live": false,
+        "category": "Football",
+        "begin_at": "2026-06-06T14:00:00Z",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/24SDAZFcsqnj24.m3u8?st=uFp27iizMaTJPoVtekDPOGNFi9NV2S09C8g26o4Sbpo&e=1780757355"
+            }
+        ]
+    },
+    {
+        "id": 9701,
+        "title": "Monaco Grand Prix Qualifying",
+        "is_live": false,
+        "category": "Motor Sport",
+        "begin_at": "2026-06-06T15:00:00Z",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/hbfkazbkaznc49.m3u8?st=6HoLLcRvCKo-YlBnUpbFmKCnfTeN_3tZSIRpnT4fVmQ&e=1780757367"
+            }
+        ]
+    },
+    {
+        "id": 9733,
+        "title": "Seattle Mariners vs Detroit Tigers",
+        "is_live": false,
+        "category": "Baseball",
+        "begin_at": "2026-06-06T18:10:00Z",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/dazhfiach15.m3u8?st=SXmLmdl1pT8VHFXiytRGwsSDSQ8of887QVfn2P-cVos&e=1780757379"
+            }
+        ]
+    },
+    {
+        "id": 9729,
+        "title": "Chile vs Portugal",
+        "is_live": false,
+        "category": "Football",
+        "begin_at": "2026-06-06T18:45:00Z",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/eJmauBDCIf.m3u8?st=qVkgwtRrsmrRko6Yx1vTR75es-vGuJo9AvGIRwoKMY4&e=1780757391"
+            }
+        ]
+    },
+    {
+        "id": 9734,
+        "title": "Kansas City Royals vs Minnesota Twins",
+        "is_live": false,
+        "category": "Baseball",
+        "begin_at": "2026-06-06T19:10:00Z",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/16yuitzaerghbhc16.m3u8?st=jrwJGLiIo4kGC-M08nOg50-NuvZTeRUc-wv2tyv1i-Q&e=1780757403"
+            }
+        ]
+    },
+    {
+        "id": 9735,
+        "title": "Cincinnati Reds vs St. Louis Cardinals",
+        "is_live": false,
+        "category": "Baseball",
+        "begin_at": "2026-06-06T19:15:00Z",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/ihfazugfyjcazich17.m3u8?st=4BE9y6v2saR_LZVas7uKRdAlnnqm_JSAEl9TIQZp-OY&e=1780757415"
+            }
+        ]
+    },
+    {
+        "id": 9736,
+        "title": "San Francisco Giants vs Chicago Cubs",
+        "is_live": false,
+        "category": "Baseball",
+        "begin_at": "2026-06-06T19:20:00Z",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/Czajafjihafch18.m3u8?st=4NnIdCS8jX21wIGdV5JDplxXz9XftJ3SyN_QgPVU3Ek&e=1780757427"
+            }
+        ]
+    },
+    {
+        "id": 9728,
+        "title": "Germany vs United States",
+        "is_live": false,
+        "category": "Football",
+        "begin_at": "2026-06-06T19:30:00Z",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/24SDAZFcsqnj24.m3u8?st=RJvjw_NGpeN0k69W4YlBpfbJT0v8WsXcQnFZx4Q7lWE&e=1780757439"
+            }
+        ]
+    },
+    {
+        "id": 9730,
+        "title": "Australia vs Switzerland",
+        "is_live": false,
+        "category": "Football",
+        "begin_at": "2026-06-06T20:00:00Z",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/b0h5fNwDKH.m3u8?st=lW5S7kdsgsa9qwqOTwKLY7ThX-dL5ifdeEhXrD563Xw&e=1780757451"
+            }
+        ]
+    },
+    {
+        "id": 9737,
+        "title": "Baltimore Orioles vs Toronto Blue Jays",
+        "is_live": false,
+        "category": "Baseball",
+        "begin_at": "2026-06-06T20:07:00Z",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/bzagLHzach19.m3u8?st=meqHpnIH-dsr11QDrOpC4bQF0ydmZF8WOj0_tb-v_RY&e=1780757463"
+            }
+        ]
+    },
+    {
+        "id": 9731,
+        "title": "New Zealand vs England",
+        "is_live": false,
+        "category": "Football",
+        "begin_at": "2026-06-06T21:00:00Z",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/sqdahach1ax.m3u8?st=sWKdznct4eimDxsG32KYWqR2VrWvklfjCqRieHtqT6w&e=1780757475"
+            }
+        ]
+    },
+    {
+        "id": 9738,
+        "title": "Chicago White Sox vs Philadelphia Phillies",
+        "is_live": false,
+        "category": "Baseball",
+        "begin_at": "2026-06-06T21:05:00Z",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/jkzahzadach20.m3u8?st=vzVLfoupaV6G7lgtQ8Xr8KRJZp-bK4sEIL4eOk3h9AU&e=1780757487"
+            }
+        ]
+    },
+    {
+        "id": 9739,
+        "title": "Pittsburgh Pirates vs Atlanta Braves",
+        "is_live": false,
+        "category": "Baseball",
+        "begin_at": "2026-06-06T21:10:00Z",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/ojzkajnach21.m3u8?st=Im_Pwszfj-tZq0YUYFFRlnFUr7en2-S4QDHTg9DFwq8&e=1780757499"
+            }
+        ]
+    },
+    {
+        "id": 9740,
+        "title": "Tampa Bay Rays vs Miami Marlins",
+        "is_live": false,
+        "category": "Baseball",
+        "begin_at": "2026-06-06T21:10:00Z",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/ijfnakfidch22.m3u8?st=1yb3DoD5I_nZIJyo4I0lhrrD6udkDuoiZzdakCKmzxk&e=1780757510"
+            }
+        ]
+    },
+    {
+        "id": 9741,
+        "title": "Athletics vs Houston Astros",
+        "is_live": false,
+        "category": "Baseball",
+        "begin_at": "2026-06-06T21:10:00Z",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/jnzkdzjfanch23.m3u8?st=V2kMsz2TS1v71GyqdykWpAZ03zNwdCex_O9tOWsi8cc&e=1780757522"
+            }
+        ]
+    },
+    {
+        "id": 9742,
+        "title": "Washington Nationals vs Arizona Diamondbacks",
+        "is_live": false,
+        "category": "Baseball",
+        "begin_at": "2026-06-06T21:10:00Z",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/fskjanach24.m3u8?st=R5Am0ulvSHRQaBFGQBnoc8LyFlWa-MJA19TaBxwkqDQ&e=1780757534"
+            }
+        ]
+    },
+    {
+        "id": 9749,
+        "title": "UFC Fight Night: Muhammad vs Bonfim",
+        "is_live": false,
+        "category": "Fight MMA",
+        "begin_at": "2026-06-06T22:00:00Z",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/zeuryuegn48.m3u8?st=LCGM9Byu4V1DR2EYtuAuJHxppjsB-cMF5PMtzoAlujo&e=1780757546"
+            }
+        ]
+    },
+    {
+        "id": 9732,
+        "title": "Egypt vs Brazil",
+        "is_live": false,
+        "category": "Football",
+        "begin_at": "2026-06-06T23:00:00Z",
+        "streams": [
+            {
+                "lang": "Spanish",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/377qj1h2727.m3u8?st=pnJ-u0IegwG-BoJe1bv9XpKqWVTUOEjIxNT541Oo6wM&e=1780757558"
+            }
+        ]
+    },
+    {
+        "id": 9743,
+        "title": "Boston Red Sox vs New York Yankees",
+        "is_live": false,
+        "category": "Baseball",
+        "begin_at": "2026-06-07T00:35:00Z",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/kjhfzua25.m3u8?st=TR6FU-yqCgQMR6uI4aP8xzHUYgZnyIuuu0KyoqF6IFg&e=1780757570"
+            }
+        ]
+    },
+    {
+        "id": 9744,
+        "title": "Cleveland Guardians vs Texas Rangers",
+        "is_live": false,
+        "category": "Baseball",
+        "begin_at": "2026-06-07T00:35:00Z",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/dzjhkfazbka26.m3u8?st=_-iTEXkaXA9CQh4bYZ3kETmAkmKyioD-HIenvqGiSfY&e=1780757582"
+            }
+        ]
+    },
+    {
+        "id": 9748,
+        "title": "Carolina Hurricanes vs Vegas Golden Knights",
+        "is_live": false,
+        "category": "Hockey",
+        "begin_at": "2026-06-07T01:00:00Z",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/uyopzarf50.m3u8?st=rCn_IXYV1E8hUW0gguZ4aGKy3Op8FIX8KLe3E9mOml4&e=1780757594"
+            }
+        ]
+    },
+    {
+        "id": 9745,
+        "title": "Milwaukee Brewers vs Colorado Rockies",
+        "is_live": false,
+        "category": "Baseball",
+        "begin_at": "2026-06-07T02:10:00Z",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/jzabfazkbf27.m3u8?st=HikLsgkVWIbJwxeeBuYPcrsUoFcI0ntBwuoudqxjdOA&e=1780757606"
+            }
+        ]
+    },
+    {
+        "id": 9746,
+        "title": "Los Angeles Angels vs Los Angeles Dodgers",
+        "is_live": false,
+        "category": "Baseball",
+        "begin_at": "2026-06-07T03:10:00Z",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/hefbafbakx28.m3u8?st=6ZMyiBCM61Utf60inWNRkJwOeXbNiB4AouloveMDCME&e=1780757618"
+            }
+        ]
+    },
+    {
+        "id": 9747,
+        "title": "New York Mets vs San Diego Padres",
+        "is_live": false,
+        "category": "Baseball",
+        "begin_at": "2026-06-07T03:10:00Z",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/hfzljfahzcax29.m3u8?st=uSNptl_XiKGq4kUnmZkaEOW0SW2fav-zHtp9NFd2xAk&e=1780757630"
+            }
+        ]
+    },
+    {
+        "id": 9702,
+        "title": "Monaco Grand Prix Race",
+        "is_live": false,
+        "category": "Motor Sport",
+        "begin_at": "2026-06-07T14:00:00Z",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/hbfkazbkaznc49.m3u8?st=UlGwwS3ngcjeeDs1i_27Xe8VT3f75w_0MyEnYW5vZ7U&e=1780757642"
             }
         ]
     }
