@@ -13,44 +13,35 @@ API_URL = "https://ws.kora-api.space/api/matches/"
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
 
 def convert_to_wib(utc_time_str):
-    """Mengonversi string waktu UTC ke format WIB yang mudah dibaca."""
     try:
-        # Parse string waktu dari API
-        utc_dt = datetime.strptime(utc_time_str, "%Y-%m-%dT%H:%M:%SZ")
-        utc_dt = utc_dt.replace(tzinfo=pytz.UTC)
-        # Konversi ke WIB
-        wib_tz = pytz.timezone("Asia/Jakarta")
-        wib_dt = utc_dt.astimezone(wib_tz)
+        utc_dt = datetime.strptime(utc_time_str, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=pytz.UTC)
+        wib_dt = utc_dt.astimezone(pytz.timezone("Asia/Jakarta"))
         return wib_dt.strftime("%d-%m-%Y %H:%M WIB")
     except:
         return utc_time_str
 
-def get_m3u8_from_embed(embed_url):
-    browser = None
-    try:
-        with sync_playwright() as p:
-            browser = p.chromium.launch(headless=True)
-            context = browser.new_context(user_agent=USER_AGENT)
-            page = context.new_page()
-            page.add_init_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
-            
-            found_m3u8 = {"url": None}
-            def on_request(request):
-                if ".m3u8" in request.url and "st=" in request.url:
-                    found_m3u8["url"] = request.url
+def get_m3u8_from_browser(browser, embed_url):
+    """Mengekstraksi link m3u8 menggunakan page dari instance browser yang sudah ada."""
+    found_m3u8 = {"url": None}
+    page = browser.new_context(user_agent=USER_AGENT).new_page()
+    page.add_init_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
+    
+    def on_request(request):
+        if ".m3u8" in request.url and "st=" in request.url:
+            found_m3u8["url"] = request.url
 
-            page.on("request", on_request)
-            page.goto(embed_url, timeout=30000)
-            page.wait_for_timeout(5000)
-            return found_m3u8["url"]
+    page.on("request", on_request)
+    try:
+        page.goto(embed_url, timeout=30000)
+        page.wait_for_timeout(5000)
     except:
-        return None
+        pass
     finally:
-        if browser:
-            browser.close()
+        page.close()
+    return found_m3u8["url"]
 
 def run_scraper():
-    print("🚀 Memulai ekstraksi & sinkronisasi data dengan WIB...")
+    print("🚀 Memulai ekstraksi & sinkronisasi data...")
     
     try:
         response = requests.get(API_URL).json()
@@ -58,42 +49,48 @@ def run_scraper():
     except Exception as e:
         print(f"❌ Gagal koneksi API: {e}")
         return
-    
-    results = []
-    for m in matches:
-       # Ambil data kategori
-        category_data = m.get('category', {})
-        
-        match_info = {
-            "id": m.get('id'),
-            "title": m.get('name'),
-            "is_live": m.get('is_live'),
-            "category": category_data.get('name'),
-            "category_image": category_data.get('image'), # Tambahkan ini
-            "waktu_wib": convert_to_wib(m.get('begin_at')),
-            "logo_t1": m.get('logo_team1'),
-            "logo_t2": m.get('logo_team2'),
-            "streams": []
-        }
-        
-        for s in m.get('streams', []):
-            embed_url = s.get('url')
-            m3u8_raw = get_m3u8_from_embed(embed_url)
+
+    # Buka browser sekali saja
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        results = []
+
+        for m in matches:
+            category_data = m.get('category', {})
+            match_info = {
+                "id": m.get('id'),
+                "title": m.get('name'),
+                "is_live": m.get('is_live'),
+                "category": category_data.get('name'),
+                "category_image": category_data.get('image'),
+                "waktu_wib": convert_to_wib(m.get('begin_at')),
+                "logo_t1": m.get('logo_team1'),
+                "logo_t2": m.get('logo_team2'),
+                "streams": []
+            }
             
-            if m3u8_raw:
-                parsed = urllib.parse.urlparse(m3u8_raw)
-                path_with_query = f"{parsed.path}?{parsed.query}"
-                m3u8_final = f"{WORKER_DOMAIN.rstrip('/')}{path_with_query}"
+            for s in m.get('streams', []):
+                embed_url = s.get('url')
+                print(f"🔍 Mencari: {m.get('name')}...")
                 
-                match_info['streams'].append({"lang": s.get('lang'), "m3u8": m3u8_final})
+                m3u8_raw = get_m3u8_from_browser(browser, embed_url)
+                
+                if m3u8_raw:
+                    parsed = urllib.parse.urlparse(m3u8_raw)
+                    path_with_query = f"{parsed.path}?{parsed.query}"
+                    m3u8_final = f"{WORKER_DOMAIN.rstrip('/')}{path_with_query}"
+                    
+                    match_info['streams'].append({"lang": s.get('lang'), "m3u8": m3u8_final})
+                
+                time.sleep(2) # Jeda agar tidak terkena rate limit
             
-            time.sleep(2)
+            results.append(match_info)
         
-        results.append(match_info)
-    
+        browser.close()
+
     with open('full_matches_data.json', 'w', encoding='utf-8') as f:
         json.dump(results, f, indent=4)
-    print("\n🔥 Selesai! Data tersimpan dengan format waktu WIB & logo.")
+    print("\n🔥 Selesai! Data tersimpan di full_matches_data.json")
 
 if __name__ == "__main__":
     run_scraper()
