@@ -32,16 +32,6 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "bb3ff594666594f6bc6977d975d54887": {
-            "channelName": "Asswehly vs Al Nasr",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1780768417.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/10155.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "6378781bcc55645c7273dcbd9b236f52": {
             "channelName": "Romania vs Wales",
             "contentType": "event_pertandingan",
