@@ -2,16 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "ec316041ecd236908c77c32c72ac9955": {
-            "channelName": "Puerto Rico vs Saudi Arabia",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/5539.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1559009301.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "5f8fa52d40650ccc3d4e3459311555a6": {
             "channelName": "Formula 1 vs Formula 1",
             "contentType": "event_pertandingan",
@@ -19,6 +9,156 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "48ec95dc88381ba582c01e35ba407b66": {
+            "channelName": "Belgium vs Tunisia",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1560287858.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1559434130.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "fba50137fedc7fdcceb3b9c4b4cbab96": {
+            "channelName": "Armenia vs Kazakhstan",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1567423656.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1570991958.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "6378781bcc55645c7273dcbd9b236f52": {
+            "channelName": "Romania vs Wales",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1567423275.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1570991705.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "cba15fbc7345adc57188864293b24b8a": {
+            "channelName": "Portugal vs Chile",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1559701405.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1560461961.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "57e2ab17e4ec5c7837490a644d188417": {
+            "channelName": "Albania vs Luxembourg",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1567550031.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1570452032.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "249f234fa51e64183b9beca8497b3dc9": {
+            "channelName": "USA vs Germany",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1622387312.jpg",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1560164246.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "c34bd94371dc98f5a4754a1c08453b14": {
+            "channelName": "Australia vs Switzerland",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1568067736.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1559701443.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "70986acb2bd26a839487e8d92df37032": {
+            "channelName": "Panama vs Bosnia and Herzegovina",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1664238907.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1560263913.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "ace23edb7b50964b167278a4ac4543a6": {
+            "channelName": "England vs New Zealand",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1670707210.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1654376336.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "524125622e5d17e1367cb2b558d82a00": {
+            "channelName": "Bolivia vs Scotland",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1559495907.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1560287918.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "977bc261455dd936f8c02b4c1b8890a4": {
+            "channelName": "Qatar vs El Salvador",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1559701841.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1679937277.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "722a4e161bfa17741849369793efc1df": {
+            "channelName": "Brazil vs Egypt",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1559701816.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1558613293.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "f9c50e0436feea42b93e71b0177519b5": {
+            "channelName": "Venezuela vs Turkey",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1560461626.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1559702589.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "951ba40e585430695eb66d1d56faf4a9": {
+            "channelName": "Argentina vs Honduras",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1670707634.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1663979135.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "fb71dd765b910a31bb3798a324ca9412": {
+            "channelName": "Curacao vs Aruba",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1679974740.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/8167.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
