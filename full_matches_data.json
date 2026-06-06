@@ -11,7 +11,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/oeenzgezcz47.m3u8?st=t3XFI6O28AK_piGBR-XCpc-UfOoAOqB4fQonpv_sH7o&e=1780789077"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/oeenzgezcz47.m3u8?st=Vc4TpPbmyV2SmnKhOlSVsl9kfckplSjbY5Jx4j49Nrg&e=1780793619"
             }
         ]
     },
@@ -27,7 +27,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/24SDAZFcsqnj24.m3u8?st=6uqwj2EcgU2ivRiTWwU7LfGXMyqiojPjXk9pW8F9hHo&e=1780789085"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/24SDAZFcsqnj24.m3u8?st=WOVAUr4AHlOaFGG2cWKwTOPgKrVndDYuA0TOy-gdf1I&e=1780793628"
             }
         ]
     },
@@ -43,7 +43,23 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/hbfkazbkaznc49.m3u8?st=2msPKyDleoBeetGV1eNPBDpqJAoEAe8Ok2jSRXbRHH8&e=1780789093"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/hbfkazbkaznc49.m3u8?st=yc4uc6NaOTZLf0wp2zFIgyV86eXoKo9FKdM88p7hLgY&e=1780793637"
+            }
+        ]
+    },
+    {
+        "id": 9750,
+        "title": "Seattle Storm vs Minnesota Lynx",
+        "is_live": false,
+        "category": "Basketball",
+        "category_image": "https://kora-api.top/uploads/categories/category_4.png",
+        "waktu_wib": "07-06-2026 01:00 WIB",
+        "logo_t1": "https://a.espncdn.com/i/teamlogos/wnba/500/min.png",
+        "logo_t2": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/sea.png",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/bvnsqdfvgha70.m3u8?st=GWN9qY59UCphAxrITEXp6j2PMBxWS9H3CV4luLYALTg&e=1780793645"
             }
         ]
     },
@@ -59,7 +75,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/dazhfiach15.m3u8?st=3YBIkRrRXCDuVUe8Bjlt6Xb9yqIwS-OvKVllw10kFfs&e=1780789101"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/dazhfiach15.m3u8?st=Rga8uMHFdpGk23SgfChuOsXgTSIILNX9kFYHNlHf2mo&e=1780793655"
             }
         ]
     },
@@ -75,7 +91,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/eJmauBDCIf.m3u8?st=P_wUdlJywFY6VH4upkXQiiI2gQ4etRfevklRE0u1mL0&e=1780789109"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/eJmauBDCIf.m3u8?st=j-1TC8lIhaovo5mMKSM2lSFgwsO4Ej9ZnjUvOrvMMu8&e=1780793663"
             }
         ]
     },
@@ -91,7 +107,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/16yuitzaerghbhc16.m3u8?st=e1Grk8XGC-_FJNwx1yiFq9X7tUFRmPwvbZawNqrSe9E&e=1780789117"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/16yuitzaerghbhc16.m3u8?st=-cAHVZmMLtiE2InjwOidu-UnNqY1j88UOkkz9PZ9ZwE&e=1780793672"
             }
         ]
     },
@@ -107,7 +123,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/ihfazugfyjcazich17.m3u8?st=k4HI1lKd57GyX0NqntXTjiYqDeOneiBcWY9T7F6yams&e=1780789126"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/ihfazugfyjcazich17.m3u8?st=FgzChso--vhVHxzt-RZ4AAxx2oUoQHed11t-RD9SCDs&e=1780793680"
             }
         ]
     },
@@ -123,7 +139,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/Czajafjihafch18.m3u8?st=PpGKV-DKRGWVhozE3terc4fU_nC9ClSWze81QEWkXaE&e=1780789134"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/Czajafjihafch18.m3u8?st=q3xJ1m0XSxFPL_v5GpsfmlFD3nSXK-Uu1EuGr8CKbQc&e=1780793698"
             }
         ]
     },
@@ -139,7 +155,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/24SDAZFcsqnj24.m3u8?st=7sXq4b-6AOobIPHhwsIN6ob3Cowcjv5UlR2T3Zsk9S0&e=1780789142"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/24SDAZFcsqnj24.m3u8?st=fQ5_4IsKi_ho9JHFsE6uD8RZzRPtN8Ae2lsJCrdnGS0&e=1780793707"
             }
         ]
     },
@@ -155,7 +171,23 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/b0h5fNwDKH.m3u8?st=3jaSKRwpVe6DPHVfLU4VPJfzvKYN1WVpA1t9qFy3wIg&e=1780789150"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/b0h5fNwDKH.m3u8?st=yb0CxkB5eIoKhu6Tnc3w1ds70YHKzI32cgVSeUjtiQE&e=1780793715"
+            }
+        ]
+    },
+    {
+        "id": 9751,
+        "title": "Golden State Valkyries vs Las Vegas Aces",
+        "is_live": false,
+        "category": "Basketball",
+        "category_image": "https://kora-api.top/uploads/categories/category_4.png",
+        "waktu_wib": "07-06-2026 03:00 WIB",
+        "logo_t1": "https://a.espncdn.com/i/teamlogos/wnba/500/lv.png",
+        "logo_t2": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/gs.png",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/ztyarueaghj71.m3u8?st=EExzlQ6ySnzPjR6thUYIQm6sNmieqiEqoJFcrpSOxNQ&e=1780793723"
             }
         ]
     },
@@ -171,7 +203,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/bzagLHzach19.m3u8?st=1MH1nW9w37bF-oBPuhV8-NoOqEdghCtWNXKRtpo0coU&e=1780789158"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/bzagLHzach19.m3u8?st=tvrwHEmcsDJKbwo_FZ-V3rv3gs2SJ_SJex5f8NDUJ1Q&e=1780793732"
             }
         ]
     },
@@ -187,7 +219,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/sqdahach1ax.m3u8?st=z7XffunJj9VuyB9uPXkJZ08d5E8ocvff0zhkFXJhyWg&e=1780789166"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/sqdahach1ax.m3u8?st=cUFApwZd6TLfhgmqZLEtg1_SnYH238088Qmm_pEKQiM&e=1780793741"
             }
         ]
     },
@@ -203,7 +235,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/jkzahzadach20.m3u8?st=kcXCvQ-5mHxWD0qlZDOEB3wQRJIVFJGPJIvm4jEk2c8&e=1780789174"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/jkzahzadach20.m3u8?st=zxzrXxXsGKGxCBNuSZo9VFqYizS9WERFZMBGOmozEBU&e=1780793750"
             }
         ]
     },
@@ -219,7 +251,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/ojzkajnach21.m3u8?st=fj47D-OEnVb7BoVVncc6Qgi3ZKHJmqKNA8enif62PIg&e=1780789182"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/ojzkajnach21.m3u8?st=JLKAZx_S7qvcw2vbBWa4kWKqJjz3te5Q98khuMrJ_Pk&e=1780793758"
             }
         ]
     },
@@ -235,7 +267,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/ijfnakfidch22.m3u8?st=yg4VoFZPaTzCZZH709t8z4ZayftMDXRt4md4YW_OvBU&e=1780789191"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/ijfnakfidch22.m3u8?st=gQFwnMp4zimIb8Av2iNY8S7AYVV07OIjEoKaeRYg_ZY&e=1780793767"
             }
         ]
     },
@@ -251,7 +283,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/jnzkdzjfanch23.m3u8?st=mwiMbJpwcXH-ielwjVpNiXYfghl2pwQZb3jJTLy7iKw&e=1780789199"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/jnzkdzjfanch23.m3u8?st=jNhZJXCb-YQGNmG6sclcbkiM_-wKeN0XPWbRA_stnT0&e=1780793775"
             }
         ]
     },
@@ -267,7 +299,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/fskjanach24.m3u8?st=ULrcLRfipGL1UPx9ARYQe-nXFdBYsvx06a8bGpNhX4g&e=1780789207"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/fskjanach24.m3u8?st=FvDbmb-MUE5p95aHXxDFHBEJp1lm35oLzDWOhoTBXEE&e=1780793784"
             }
         ]
     },
@@ -283,7 +315,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/zeuryuegn48.m3u8?st=l_NZjzyiPHb7-NGGYBdaRaNVC1UJ-eiUOOPEX44H7hQ&e=1780789215"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/zeuryuegn48.m3u8?st=OjZNWYJf7tiulzOOLR_1_rC1544Khqy84Wv8zqj5jH0&e=1780793792"
             }
         ]
     },
@@ -299,7 +331,23 @@
         "streams": [
             {
                 "lang": "Spanish",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/377qj1h2727.m3u8?st=LJ0ofdABGGeVZqQrfZui5Lxx427L4Oq-BS1RC4noZYU&e=1780789223"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/377qj1h2727.m3u8?st=jrzhC2HG5ARHONN8DaRW4mJtPqjcSvGbPJlsotd17l4&e=1780793801"
+            }
+        ]
+    },
+    {
+        "id": 9752,
+        "title": "Washington Mystics vs Atlanta Dream",
+        "is_live": false,
+        "category": "Basketball",
+        "category_image": "https://kora-api.top/uploads/categories/category_4.png",
+        "waktu_wib": "07-06-2026 06:00 WIB",
+        "logo_t1": "https://a.espncdn.com/i/teamlogos/wnba/500/atl.png",
+        "logo_t2": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/wsh.png",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/pllmazjkdzajh72.m3u8?st=F9FDxqlgIspKT1kqLC8a39T9E8mtUIIUUxBE1wPSsjs&e=1780793809"
             }
         ]
     },
@@ -315,7 +363,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/kjhfzua25.m3u8?st=o2Q7Kf_IBYaHBdSLS7hYe1BZ-tfslB3GtTB_6K3lm2c&e=1780789231"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/kjhfzua25.m3u8?st=qqf4PabraQ-iQ2cdYxJ2Z4m4OBoWEDC1_qIFYxTdePI&e=1780793818"
             }
         ]
     },
@@ -331,7 +379,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/dzjhkfazbka26.m3u8?st=3OBu4LMF-clmkM2lFg_MLJ8FruMBrEJBJFX5uSu3WMg&e=1780789239"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/dzjhkfazbka26.m3u8?st=k3ovsdNQuxc_dTEojNINki-uTM0nk1l_xjmNdtZwnYM&e=1780793826"
             }
         ]
     },
@@ -347,7 +395,23 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/uyopzarf50.m3u8?st=JmBH9naFjVxP5-Tx5ztqTNRDvACxpjy2rA9jOd_5aAY&e=1780789248"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/uyopzarf50.m3u8?st=Pis-7OJvLkfqrUG31eco3RdRVBE_GEn5k0WETRnBWHI&e=1780793835"
+            }
+        ]
+    },
+    {
+        "id": 9753,
+        "title": "Indiana Fever vs New York Liberty",
+        "is_live": false,
+        "category": "Basketball",
+        "category_image": "https://kora-api.top/uploads/categories/category_4.png",
+        "waktu_wib": "07-06-2026 08:00 WIB",
+        "logo_t1": "https://a.espncdn.com/i/teamlogos/wnba/500/ny.png",
+        "logo_t2": "https://a.espncdn.com/i/teamlogos/wnba/500/ind.png",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/fdgsqdfawa73.m3u8?st=9Cy2a5IOALBL0In4NwXzZhA93efQTpLCL4OYoHspnjk&e=1780793843"
             }
         ]
     },
@@ -363,7 +427,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/jzabfazkbf27.m3u8?st=udJPyO__5pJZH_SOz907EkcjE-PF21yfm-iWUcJUp3E&e=1780789256"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/jzabfazkbf27.m3u8?st=FQqXMqjDRpIS56e8M-myaB7znW8uKzeC4pfHy8RXrxU&e=1780793851"
             }
         ]
     },
@@ -379,7 +443,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/hefbafbakx28.m3u8?st=CWZ7X6iDqsb9j8YBWz5G-d5HbKi0OyVFZ3Svyxq1fmI&e=1780789264"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/hefbafbakx28.m3u8?st=BE9lE-hTRFOIC-4ctg8d_06eryXRgg23xiKNyds16hw&e=1780793860"
             }
         ]
     },
@@ -395,7 +459,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/hfzljfahzcax29.m3u8?st=Lwz2NcYlY_LzrAsXfIATInsQrCWogKqdr7nZ-FRzT3g&e=1780789272"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/hfzljfahzcax29.m3u8?st=ogNpQWkPhFPcjEzVh7kyNnCQNn9qIZ8BavYjeInYB9k&e=1780793868"
             }
         ]
     },
@@ -411,7 +475,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/hbfkazbkaznc49.m3u8?st=mEPnUBbNj31roAmwwFTouEyAXqhNIn9ja-UgyxKlygU&e=1780789280"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/hbfkazbkaznc49.m3u8?st=abAtVA2PdJUTtB_xmYxfyZlHLadcalDqXzpmUFONqvg&e=1780793877"
             }
         ]
     }
