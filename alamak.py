@@ -39,7 +39,7 @@ def get_m3u8_from_embed(embed_url):
         return found_m3u8["url"]
 
 def run_scraper():
-    print("🚀 Memulai ekstraksi & sinkronisasi data...")
+    print("🚀 Memulai ekstraksi & sinkronisasi semua data...")
     
     try:
         response = requests.get(API_URL).json()
@@ -50,48 +50,46 @@ def run_scraper():
     
     results = []
     for m in matches:
-        # Hanya proses yang sedang live
-        if not m.get('is_live'):
-            continue
+        # HAPUS ATAU KOMENTARI BARIS DI BAWAH INI:
+        # if not m.get('is_live'):
+        #     continue
 
         match_info = {
             "id": m.get('id'),
             "title": m.get('name'),
             "is_live": m.get('is_live'),
+            "category": m.get('category', {}).get('name'), # Menambahkan kategori agar lebih jelas
+            "begin_at": m.get('begin_at'),                # Menambahkan waktu mulai
             "streams": []
         }
         
         for s in m.get('streams', []):
             embed_url = s.get('url')
-            print(f"🔍 Mencari stream: {m.get('title')}...")
+            print(f"🔍 Mencari stream: {m.get('name')}...")
             
             m3u8_raw = get_m3u8_from_embed(embed_url)
             
             if m3u8_raw:
-                # 1. Parsing URL mentah
+                # Logika pembentukan Full URL
                 parsed = urllib.parse.urlparse(m3u8_raw)
-                
-                # 2. Mengambil path + query (token ?st=...)
-                # Gunakan format ini agar tidak ada duplikasi slash
                 path_with_query = f"{parsed.path}?{parsed.query}"
-                
-                # 3. Pastikan WORKER_DOMAIN tidak memiliki slash di akhir 
-                # dan path_with_query dimulai dengan slash
-                base = WORKER_DOMAIN.rstrip('/')
-                m3u8_final = f"{base}{path_with_query}"
+                m3u8_final = f"{WORKER_DOMAIN.rstrip('/')}{path_with_query}"
                 
                 match_info['streams'].append({
                     "lang": s.get('lang'),
                     "m3u8": m3u8_final
                 })
-                print(f"    ✅ Link berhasil di-proxy: {m3u8_final}")
+        
+        # Simpan semua data tanpa memfilter streams yang kosong
+        results.append(match_info)
+    
+    # Simpan hasil akhir
+    with open('full_matches_data.json', 'w', encoding='utf-8') as f:
+        json.dump(results, f, indent=4)
+    print("\n🔥 Selesai! Semua data (Live & VOD) telah tersimpan.")
         
         if match_info['streams']:
             results.append(match_info)
-    
-    with open('full_matches_data.json', 'w', encoding='utf-8') as f:
-        json.dump(results, f, indent=4)
-    print("\n🔥 Selesai! Data tersimpan di full_matches_data.json")
-
+            
 if __name__ == "__main__":
     run_scraper()
