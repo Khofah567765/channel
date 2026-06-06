@@ -68,16 +68,23 @@ def run_scraper():
             m3u8_raw = get_m3u8_from_embed(embed_url)
             
             if m3u8_raw:
-                # Menggabungkan path dengan domain worker untuk bypass CORS/Referer
+                # 1. Parsing URL mentah
                 parsed = urllib.parse.urlparse(m3u8_raw)
-                path_with_query = parsed.path + "?" + parsed.query
-                m3u8_final = WORKER_DOMAIN + path_with_query
+                
+                # 2. Mengambil path + query (token ?st=...)
+                # Gunakan format ini agar tidak ada duplikasi slash
+                path_with_query = f"{parsed.path}?{parsed.query}"
+                
+                # 3. Pastikan WORKER_DOMAIN tidak memiliki slash di akhir 
+                # dan path_with_query dimulai dengan slash
+                base = WORKER_DOMAIN.rstrip('/')
+                m3u8_final = f"{base}{path_with_query}"
                 
                 match_info['streams'].append({
                     "lang": s.get('lang'),
                     "m3u8": m3u8_final
                 })
-                print(f"    ✅ Link berhasil di-proxy.")
+                print(f"    ✅ Link berhasil di-proxy: {m3u8_final}")
         
         if match_info['streams']:
             results.append(match_info)
