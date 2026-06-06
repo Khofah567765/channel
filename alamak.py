@@ -87,9 +87,6 @@ def run_scraper():
     with open('full_matches_data.json', 'w', encoding='utf-8') as f:
         json.dump(results, f, indent=4)
     print("\n🔥 Selesai! Semua data (Live & VOD) telah tersimpan.")
-        
-        if match_info['streams']:
-            results.append(match_info)
             
 if __name__ == "__main__":
     run_scraper()
