@@ -7,14 +7,19 @@ from datetime import datetime
 import pytz
 from playwright.sync_api import sync_playwright
 
-# Konfigurasi dari Environment Variable
+# Mengambil dari Secret Env (Tidak ada hardcoded URL)
 WORKER_DOMAIN = os.getenv("WORKER_DOMAIN")
 API_URL = os.getenv("API_URL")
+
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+
+# Pengecekan keamanan: Memastikan env sudah terisi
+if not WORKER_DOMAIN or not API_URL:
+    print("❌ Error: WORKER_DOMAIN atau API_URL belum diset di environment secret!")
+    exit(1)
 
 def convert_to_wib(utc_time_str):
     try:
-        # Mengubah string ke datetime
         utc_dt = datetime.strptime(utc_time_str, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=pytz.UTC)
         wib_dt = utc_dt.astimezone(pytz.timezone("Asia/Jakarta"))
         return wib_dt.strftime("%d-%m-%Y %H:%M WIB")
@@ -29,7 +34,6 @@ def get_tanggal(utc_time_str):
         return None
 
 def get_m3u8_from_browser(browser, embed_url):
-    """Mengekstraksi link m3u8 menggunakan page dari instance browser yang sudah ada."""
     found_m3u8 = {"url": None}
     page = browser.new_context(user_agent=USER_AGENT).new_page()
     page.add_init_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
@@ -58,7 +62,6 @@ def run_scraper():
         print(f"❌ Gagal koneksi API: {e}")
         return
 
-    # Buka browser sekali saja
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         results = []
@@ -89,11 +92,12 @@ def run_scraper():
                 if m3u8_raw:
                     parsed = urllib.parse.urlparse(m3u8_raw)
                     path_with_query = f"{parsed.path}?{parsed.query}"
+                    # Gabungkan domain dari env dengan path
                     m3u8_final = f"{WORKER_DOMAIN.rstrip('/')}{path_with_query}"
                     
                     match_info['streams'].append({"lang": s.get('lang'), "m3u8": m3u8_final})
                 
-                time.sleep(2) # Jeda agar tidak terkena rate limit
+                time.sleep(2)
             
             results.append(match_info)
         
