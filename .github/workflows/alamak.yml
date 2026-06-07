@@ -32,6 +32,7 @@ jobs:
 
       - name: Run Scraper
         env:
+          API_URL: ${{ secrets.API_URL }}
           WORKER_DOMAIN: ${{ secrets.WORKER_DOMAIN }}
         run: python alamak.py
 
