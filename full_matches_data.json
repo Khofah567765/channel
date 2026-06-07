@@ -1,25 +1,8 @@
 [
     {
-        "id": 9703,
-        "title": "Motogp HUNGARY",
-        "is_live": true,
-        "category": "Motor Sport",
-        "category_image": "https://kora-api.top/uploads/categories/category_15.png",
-        "tanggal_pertandingan": "2026-06-05",
-        "waktu_wib": "05-06-2026 16:45 WIB",
-        "logo_t1": null,
-        "logo_t2": null,
-        "streams": [
-            {
-                "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/oeenzgezcz47.m3u8?st=DCiQsksCDFRZRI0oEMv9V4VPQMiuJu6s9fBC4Okxp4Y&e=1780863047"
-            }
-        ]
-    },
-    {
         "id": 9702,
         "title": "Monaco Grand Prix Race",
-        "is_live": false,
+        "is_live": true,
         "category": "Motor Sport",
         "category_image": "https://kora-api.top/uploads/categories/category_15.png",
         "tanggal_pertandingan": "2026-06-07",
@@ -29,7 +12,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/hbfkazbkaznc49.m3u8?st=nfxwHyBlFdWg7czwRuX0RXtTrVWmgF_bWOygDfr2brc&e=1780863055"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/hbfkazbkaznc49.m3u8?st=mc2cIouzECrK8ALNqCGhU6oZ1rAJFaCN3SZIh2ymbhs&e=1780867234"
             }
         ]
     },
@@ -46,7 +29,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/24SDAZFcsqnj24.m3u8?st=BXBauYS0JKBGr2a-1i-hurV-AvH4EMT97kq7rIrA72M&e=1780863063"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/24SDAZFcsqnj24.m3u8?st=OuS3nYTyOrxR5OafgzKpIOHGpQflp0ZbQKKKvTG-kRc&e=1780867266"
             }
         ]
     },
@@ -63,7 +46,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/dazhfiach15.m3u8?st=QqZaQddFXENNayw7-r7pfD8AtaWXXe49d_ZmKGJj_6U&e=1780863071"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/dazhfiach15.m3u8?st=RdaLQ4tXZ3vQxIWn-N1ePp_wZQR2Kjl-b4AfXqDQ-OM&e=1780867298"
             }
         ]
     },
@@ -80,7 +63,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/16yuitzaerghbhc16.m3u8?st=QpT76l5UqwaLkKoeCyx-_Ie-bRMfUAJgJTflXVUCs-c&e=1780863080"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/16yuitzaerghbhc16.m3u8?st=8dALBOP_UG7bWwTi9JzpaTLDnL1rsq0gRjqq3fsyTLM&e=1780867330"
             }
         ]
     },
@@ -97,7 +80,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/ihfazugfyjcazich17.m3u8?st=G-kercprAWAebDnXek90NDGrK46MrRyLkaDPTdw-_w8&e=1780863088"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/ihfazugfyjcazich17.m3u8?st=wVkAq61Dtzx3esQKQ32aOC_p21MquBFzSeHVGNNc-M4&e=1780867362"
             }
         ]
     },
@@ -114,7 +97,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/Czajafjihafch18.m3u8?st=V58fF-uyAVnYhic-7pFqJtNzwZB2ytAyPq9kaSk2JPw&e=1780863096"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/Czajafjihafch18.m3u8?st=7lhuqJWuQYVSyqWtuBxyTqq-lxbZxAukjRmurKN1FaQ&e=1780867394"
             }
         ]
     },
@@ -131,7 +114,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/bzagLHzach19.m3u8?st=Faf-sbjmZ3Ha5nBEdhAH1MC77A05xpMz3rHV2riYDTI&e=1780863104"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/bzagLHzach19.m3u8?st=cCGCBlgCqe8uVCukTpsjfEIavKAL_-Ah4rhMHygN8hA&e=1780867426"
             }
         ]
     },
@@ -148,7 +131,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/jkzahzadach20.m3u8?st=oJSIe3wxqNlKrG1OOm0JIXcFYzbG63AzIYvz0LZi1AM&e=1780863112"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/jkzahzadach20.m3u8?st=Vsu5dvcXQZDVgB8rp3booCvk3BTaqpQyKuRLgzR0h5s&e=1780867458"
             }
         ]
     },
@@ -165,7 +148,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/ojzkajnach21.m3u8?st=czcxXGyUoi3RD-0oaSU3hOUCbAAhLgB37h4_ggtxfEQ&e=1780863120"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/ojzkajnach21.m3u8?st=Ap9pxhCuY7whiicSd8gN0EReD1daeNhQBj5ggBwYJMs&e=1780867490"
             }
         ]
     },
@@ -182,7 +165,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/ijfnakfidch22.m3u8?st=6yBBOQUXQ9wV5p2nigkbuPqX6J3n6Tio-i1U2dHFbOw&e=1780863128"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/ijfnakfidch22.m3u8?st=VMU7XtXRSVkGyOI6L0qJ6pyMa3dWK-YkyyukQpy5kl4&e=1780867522"
             }
         ]
     },
@@ -199,7 +182,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/jnzkdzjfanch23.m3u8?st=_Nftm2z_jzhGOFrMSL4ZQgVT_XDUndeG69B_xZ0g3KQ&e=1780863137"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/jnzkdzjfanch23.m3u8?st=_Ke6zg9dYUbrQ093lwyem585yvnovDlbwYEA2bb31aY&e=1780867554"
             }
         ]
     },
@@ -216,7 +199,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/fskjanach24.m3u8?st=jbVChYwJ0NCmPPTubcaYmSu1SiMX-s5OMOtr5pRSjlU&e=1780863145"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/fskjanach24.m3u8?st=RA_XMxWpFDXXFu0M2LLI9_UBzMD4vysNFrfZ-LSrlx0&e=1780867586"
             }
         ]
     },
@@ -233,7 +216,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/eJmauBDCIf.m3u8?st=pnZvJ_pZqJOoWoD0hdsjtcSZh8B9ZNh2MjjcpWXxf3c&e=1780863153"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/eJmauBDCIf.m3u8?st=D8GcOgroG5OOwuGOAuvi_dy4wVUV0kUL-l3Km8UbGgM&e=1780867618"
             }
         ]
     },
@@ -250,7 +233,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/b0h5fNwDKH.m3u8?st=GYDzEuWI9vCgvuL3xUXtu9qRQAEt0ryhIdb8O8BlVc0&e=1780863161"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/b0h5fNwDKH.m3u8?st=xFCM9MBJszS4sWx3RhO8Kle3v8ztEg0-rFsJTap04Jw&e=1780867650"
             }
         ]
     },
@@ -267,7 +250,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/sqdahach1ax.m3u8?st=arboFAC9c5CILe_zyekPoYdRcOXJoP8cpK8tT5OApoE&e=1780863169"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/sqdahach1ax.m3u8?st=h-Ep0-iIxw5qHN8DypMmIq6RXESfUtZO-FXejRWffSM&e=1780867682"
             }
         ]
     },
@@ -284,7 +267,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/bvnsqdfvgha70.m3u8?st=MOEVkPK5rcKFYGLiXU3Z6BgZ_7kXcp_IceeEQzn-qQ4&e=1780863177"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/bvnsqdfvgha70.m3u8?st=0zgNVSOw9Xwkn9TMflQ3JnI_cnvcMCqgoPUN9knUt34&e=1780867715"
             }
         ]
     },
@@ -301,7 +284,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/kjhfzua25.m3u8?st=M-rUOI7wVbZXWp6MJ9ntDhPD47pMfG1ASsat19V6RAo&e=1780863185"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/kjhfzua25.m3u8?st=nP1mkc-Gq093q6HaCA02CSi_25WXufImfl6tkwJFzxs&e=1780867747"
             }
         ]
     },
@@ -318,7 +301,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/dzjhkfazbka26.m3u8?st=SlkXOStKKvz4z4fIIBZiK4ALWgr_roL1_WVW8ieRar4&e=1780863193"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/dzjhkfazbka26.m3u8?st=bPKgdNZNg3aR_fWM8uPW04xnqBmAwK7pFweX_kNe7jw&e=1780867779"
             }
         ]
     },
@@ -335,7 +318,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/jzabfazkbf27.m3u8?st=kGxGRsBTukjeygjZ7X5PS4Linp6N2Ip0cnSKsWyEn5c&e=1780863202"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/jzabfazkbf27.m3u8?st=0nDNNgn5DBJ1DYwwYLZtdXRViH7zXbMyizcuuRHNHAU&e=1780867811"
             }
         ]
     },
@@ -352,7 +335,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/hefbafbakx28.m3u8?st=TCmGDBf1qlYeIY2DDAjXN_G3b19SipKniK2mTLOk4ck&e=1780863210"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/hefbafbakx28.m3u8?st=jAyhaYWC1Y7uYPtiKNDuxWcQqZduLUCmuykIqxQ9maE&e=1780867843"
             }
         ]
     },
@@ -369,7 +352,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/ztyarueaghj71.m3u8?st=16wYxJ09YzrVooF_d5DV46HHPQyxaOsMHpIzS1PNbIM&e=1780863218"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/ztyarueaghj71.m3u8?st=FO2S0R8pqTBruWwegqotyhVNyTQwSsPH_Wl_XuOdBUc&e=1780867875"
             }
         ]
     },
@@ -386,7 +369,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/hfzljfahzcax29.m3u8?st=6pZvtlv_bzuqfJdEaigp3Eu6BZe1CddK9N8L0cf_56M&e=1780863226"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/hfzljfahzcax29.m3u8?st=0-bilGsqBK1by_SN7Zb55i2-QDtM_6OmWqWDo76PKJM&e=1780867907"
             }
         ]
     }
