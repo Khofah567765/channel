@@ -12,7 +12,58 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/oeenzgezcz47.m3u8?st=ZqqIwUUfu0143rtw_UUSRCgETfch0ezBBdmtZr5-pZ8&e=1780832550"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/oeenzgezcz47.m3u8?st=lj28w1n8b_UccVm4FRuDDdiCtcsGe6GWFmIeRF11x4E&e=1780840631"
+            }
+        ]
+    },
+    {
+        "id": 9750,
+        "title": "Seattle Storm vs Minnesota Lynx",
+        "is_live": true,
+        "category": "Basketball",
+        "category_image": "https://kora-api.top/uploads/categories/category_4.png",
+        "tanggal_pertandingan": "2026-06-06",
+        "waktu_wib": "07-06-2026 01:00 WIB",
+        "logo_t1": "https://a.espncdn.com/i/teamlogos/wnba/500/min.png",
+        "logo_t2": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/sea.png",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/bvnsqdfvgha70.m3u8?st=mP3R9Y-sQ8-73dqnLjInaziPF2Ci6mRYHA6uZZnFchA&e=1780840639"
+            }
+        ]
+    },
+    {
+        "id": 9733,
+        "title": "Seattle Mariners vs Detroit Tigers",
+        "is_live": true,
+        "category": "Baseball",
+        "category_image": "https://kora-api.top/uploads/categories/category_13.png",
+        "tanggal_pertandingan": "2026-06-06",
+        "waktu_wib": "07-06-2026 01:10 WIB",
+        "logo_t1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/det.png",
+        "logo_t2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/dazhfiach15.m3u8?st=ys5rDRtIdMQH2JYUzIn8YaDaKNa08CsTHLvz134s814&e=1780840648"
+            }
+        ]
+    },
+    {
+        "id": 9729,
+        "title": "Chile vs Portugal",
+        "is_live": true,
+        "category": "Football",
+        "category_image": "https://static.vecteezy.com/system/resources/previews/015/720/560/non_2x/abstract-creative-football-illustration-isolated-on-transparent-background-free-png.png",
+        "tanggal_pertandingan": "2026-06-06",
+        "waktu_wib": "07-06-2026 01:45 WIB",
+        "logo_t1": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
+        "logo_t2": "https://a.espncdn.com/i/teamlogos/countries/500/chi.png",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/eJmauBDCIf.m3u8?st=PrcLEkScUcitvuu7Ll6F0pS5uesDqorhYA0B6M9NbE8&e=1780840656"
             }
         ]
     },
@@ -29,14 +80,133 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/hezfnezkfzk45.m3u8?st=YOL76ENrIagO_DWn6kdjAxMVp6uJm5wDbnpZntDyEuY&e=1780832558"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/hezfnezkfzk45.m3u8?st=GH575QVTcFnkzNRFZ8tP7KmBjF-yBHHYh5OaFL02YSU&e=1780840664"
+            }
+        ]
+    },
+    {
+        "id": 9734,
+        "title": "Kansas City Royals vs Minnesota Twins",
+        "is_live": true,
+        "category": "Baseball",
+        "category_image": "https://kora-api.top/uploads/categories/category_13.png",
+        "tanggal_pertandingan": "2026-06-06",
+        "waktu_wib": "07-06-2026 02:10 WIB",
+        "logo_t1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/min.png",
+        "logo_t2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/kc.png",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/16yuitzaerghbhc16.m3u8?st=qrZrNa4S5O1cPDlfsnnV8WMZo1OQZY4X8707wky4w_Y&e=1780840672"
+            }
+        ]
+    },
+    {
+        "id": 9735,
+        "title": "Cincinnati Reds vs St. Louis Cardinals",
+        "is_live": true,
+        "category": "Baseball",
+        "category_image": "https://kora-api.top/uploads/categories/category_13.png",
+        "tanggal_pertandingan": "2026-06-06",
+        "waktu_wib": "07-06-2026 02:15 WIB",
+        "logo_t1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/stl.png",
+        "logo_t2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cin.png",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/ihfazugfyjcazich17.m3u8?st=riXVSCe2NSuYv1_r-xhw6iDJEmoJ9ZKyAZJoV1khgOk&e=1780840680"
+            }
+        ]
+    },
+    {
+        "id": 9736,
+        "title": "San Francisco Giants vs Chicago Cubs",
+        "is_live": true,
+        "category": "Baseball",
+        "category_image": "https://kora-api.top/uploads/categories/category_13.png",
+        "tanggal_pertandingan": "2026-06-06",
+        "waktu_wib": "07-06-2026 02:20 WIB",
+        "logo_t1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png",
+        "logo_t2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/Czajafjihafch18.m3u8?st=c-we9qMM1ezpjR1_LoE_p18opKKOFhJc5hV2iU1FymA&e=1780840689"
+            }
+        ]
+    },
+    {
+        "id": 9728,
+        "title": "Germany vs United States",
+        "is_live": true,
+        "category": "Football",
+        "category_image": "https://static.vecteezy.com/system/resources/previews/015/720/560/non_2x/abstract-creative-football-illustration-isolated-on-transparent-background-free-png.png",
+        "tanggal_pertandingan": "2026-06-06",
+        "waktu_wib": "07-06-2026 02:30 WIB",
+        "logo_t1": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
+        "logo_t2": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/24SDAZFcsqnj24.m3u8?st=VqWSf_9NTharopzQmmYFyhwD9gOUSZw-daVhzziCtCU&e=1780840697"
+            }
+        ]
+    },
+    {
+        "id": 9730,
+        "title": "Australia vs Switzerland",
+        "is_live": true,
+        "category": "Football",
+        "category_image": "https://static.vecteezy.com/system/resources/previews/015/720/560/non_2x/abstract-creative-football-illustration-isolated-on-transparent-background-free-png.png",
+        "tanggal_pertandingan": "2026-06-06",
+        "waktu_wib": "07-06-2026 03:00 WIB",
+        "logo_t1": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png",
+        "logo_t2": "https://a.espncdn.com/i/teamlogos/countries/500/aus.png",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/b0h5fNwDKH.m3u8?st=ANqnr0W4voWZKiw0vGdTgN9VnUwUSqEvT4Rze86Pwoc&e=1780840705"
+            }
+        ]
+    },
+    {
+        "id": 9751,
+        "title": "Golden State Valkyries vs Las Vegas Aces",
+        "is_live": true,
+        "category": "Basketball",
+        "category_image": "https://kora-api.top/uploads/categories/category_4.png",
+        "tanggal_pertandingan": "2026-06-06",
+        "waktu_wib": "07-06-2026 03:00 WIB",
+        "logo_t1": "https://a.espncdn.com/i/teamlogos/wnba/500/lv.png",
+        "logo_t2": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/gs.png",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/ztyarueaghj71.m3u8?st=aD2B3nXiOt4gb4AN3w8mZwtcIyYJL1Tm6slAmqNAr9s&e=1780840713"
+            }
+        ]
+    },
+    {
+        "id": 9737,
+        "title": "Baltimore Orioles vs Toronto Blue Jays",
+        "is_live": true,
+        "category": "Baseball",
+        "category_image": "https://kora-api.top/uploads/categories/category_13.png",
+        "tanggal_pertandingan": "2026-06-06",
+        "waktu_wib": "07-06-2026 03:07 WIB",
+        "logo_t1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tor.png",
+        "logo_t2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bal.png",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/bzagLHzach19.m3u8?st=6hk9UYTSVWJ5RTR7sCI1djJlnyDobjvJlCvIHdOf6G8&e=1780840721"
             }
         ]
     },
     {
         "id": 9731,
         "title": "New Zealand vs England",
-        "is_live": true,
+        "is_live": false,
         "category": "Football",
         "category_image": "https://static.vecteezy.com/system/resources/previews/015/720/560/non_2x/abstract-creative-football-illustration-isolated-on-transparent-background-free-png.png",
         "tanggal_pertandingan": "2026-06-06",
@@ -46,14 +216,14 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/sqdahach1ax.m3u8?st=zIUusZYuamhClm8eHMKgVzrMXjd0b5Kmd4SdBnwVJSg&e=1780832567"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/sqdahach1ax.m3u8?st=ugznY8r5NeG7qnozCUdcYosQTf3XtSTEM7vzPsHdaQA&e=1780840729"
             }
         ]
     },
     {
         "id": 9738,
         "title": "Chicago White Sox vs Philadelphia Phillies",
-        "is_live": true,
+        "is_live": false,
         "category": "Baseball",
         "category_image": "https://kora-api.top/uploads/categories/category_13.png",
         "tanggal_pertandingan": "2026-06-06",
@@ -63,14 +233,14 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/jkzahzadach20.m3u8?st=p5nN9Nu9JPoiwSqJKYC5dYwWTS8nttTORKLpnB24ySI&e=1780832576"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/jkzahzadach20.m3u8?st=-T8r893-mowHKb5b6h_7nCiaIr2_Br-GLa95HSTT4Ww&e=1780840738"
             }
         ]
     },
     {
         "id": 9739,
         "title": "Pittsburgh Pirates vs Atlanta Braves",
-        "is_live": true,
+        "is_live": false,
         "category": "Baseball",
         "category_image": "https://kora-api.top/uploads/categories/category_13.png",
         "tanggal_pertandingan": "2026-06-06",
@@ -80,14 +250,14 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/ojzkajnach21.m3u8?st=w5Y0QYxWFCovDCAzg8lYjTbDbDpPiAXtZj-TJBN5-lI&e=1780832584"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/ojzkajnach21.m3u8?st=G90uWOmm8q9r6-k7Ns4Gunfp9ZCa0AEuMiqmeQyWm-E&e=1780840746"
             }
         ]
     },
     {
         "id": 9740,
         "title": "Tampa Bay Rays vs Miami Marlins",
-        "is_live": true,
+        "is_live": false,
         "category": "Baseball",
         "category_image": "https://kora-api.top/uploads/categories/category_13.png",
         "tanggal_pertandingan": "2026-06-06",
@@ -97,14 +267,14 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/ijfnakfidch22.m3u8?st=T5Ze-rnNoaJTXvmsyZC7RKpu3vxdu1hTLNBinV2XdmA&e=1780832593"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/ijfnakfidch22.m3u8?st=dJNvbS7z43cYJodGiJW2ugi76MMnzs3Hdwz2eExD0Kc&e=1780840754"
             }
         ]
     },
     {
         "id": 9741,
         "title": "Athletics vs Houston Astros",
-        "is_live": true,
+        "is_live": false,
         "category": "Baseball",
         "category_image": "https://kora-api.top/uploads/categories/category_13.png",
         "tanggal_pertandingan": "2026-06-06",
@@ -114,14 +284,14 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/jnzkdzjfanch23.m3u8?st=75U4CMFW8YtzZRl2rrf9BtyhSv6GXZqV3cqYLymdluU&e=1780832602"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/jnzkdzjfanch23.m3u8?st=TbNCrt1CTC7BEZYSG6ttd3exoLr_ffktKNxTDmOJyf8&e=1780840762"
             }
         ]
     },
     {
         "id": 9742,
         "title": "Washington Nationals vs Arizona Diamondbacks",
-        "is_live": true,
+        "is_live": false,
         "category": "Baseball",
         "category_image": "https://kora-api.top/uploads/categories/category_13.png",
         "tanggal_pertandingan": "2026-06-06",
@@ -131,14 +301,14 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/fskjanach24.m3u8?st=rOrdfiCi3XQ7Mm83ForE0_-991xcpxL0nj3jKj3u3j0&e=1780832610"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/fskjanach24.m3u8?st=MvwD_lKLZj0Vh2HyzPIrhIxB-34p2p3XMADgI-kKUQg&e=1780840770"
             }
         ]
     },
     {
         "id": 9749,
         "title": "UFC Fight Night: Muhammad vs Bonfim",
-        "is_live": true,
+        "is_live": false,
         "category": "Fight MMA",
         "category_image": "https://kora-api.top/uploads/categories/category_17.png",
         "tanggal_pertandingan": "2026-06-06",
@@ -148,14 +318,14 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/zeuryuegn48.m3u8?st=hSrf10QCXeEMpR0uhLJc770-QTXM9O01vZhoKQi96wk&e=1780832619"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/zeuryuegn48.m3u8?st=QPkMOTGAucmP2hcOPqyK0PumWi83qUD6WrVkimh1DG0&e=1780840779"
             }
         ]
     },
     {
         "id": 9732,
         "title": "Egypt vs Brazil",
-        "is_live": true,
+        "is_live": false,
         "category": "Football",
         "category_image": "https://static.vecteezy.com/system/resources/previews/015/720/560/non_2x/abstract-creative-football-illustration-isolated-on-transparent-background-free-png.png",
         "tanggal_pertandingan": "2026-06-06",
@@ -165,14 +335,14 @@
         "streams": [
             {
                 "lang": "Spanish",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/377qj1h2727.m3u8?st=-gk4ozUtvDW_-9xPlamtDQ4soNf77f2j7rdEJ7cFFJs&e=1780832627"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/377qj1h2727.m3u8?st=nmvopy65PSTcHLX3aqohIto_0H_xiu39PMW7MG2S_JI&e=1780840787"
             }
         ]
     },
     {
         "id": 9752,
         "title": "Washington Mystics vs Atlanta Dream",
-        "is_live": true,
+        "is_live": false,
         "category": "Basketball",
         "category_image": "https://kora-api.top/uploads/categories/category_4.png",
         "tanggal_pertandingan": "2026-06-06",
@@ -182,7 +352,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/pllmazjkdzajh72.m3u8?st=-oeYkdW0wYbFUqiDSp56Cfo8pci_5WsalzLdBEfX8F0&e=1780832636"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/pllmazjkdzajh72.m3u8?st=HRzkmCLiq7BhrB03qpAFzKovjq56ytQ3wSSGLPhmaOo&e=1780840795"
             }
         ]
     },
@@ -199,7 +369,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/kjhfzua25.m3u8?st=BTQC5rYzhYqxCDB-qU4A1jSr4vn-fGTLNgxaCN86SbM&e=1780832645"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/kjhfzua25.m3u8?st=x7ZpX9rXEuiYIycN2368ae70uhlLc4AThUxQ1Sb01l8&e=1780840803"
             }
         ]
     },
@@ -216,7 +386,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/dzjhkfazbka26.m3u8?st=lxpZFhohAAH4CjXnoT3PhcfaU2FJtHuIrzTE06ZQJFM&e=1780832653"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/dzjhkfazbka26.m3u8?st=FZRqb9mHfon3ODzGinV0TeOX8BAXoEZ6MyB-nrmPax8&e=1780840811"
             }
         ]
     },
@@ -233,7 +403,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/uyopzarf50.m3u8?st=B8VPkwMO-jZ_zCepLLpvJsp6C69xK33_aCvYY5rvpCc&e=1780832662"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/uyopzarf50.m3u8?st=RzQO-LWM7qtq3Enowvzh_G7mKUS4GknFFADozfz5SK4&e=1780840819"
             }
         ]
     },
@@ -250,7 +420,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/fdgsqdfawa73.m3u8?st=I3KKuWAOVZPndBfVBOLlrkAidu1UULcldVjGmLulLXs&e=1780832671"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/fdgsqdfawa73.m3u8?st=AMiHhAsIAr4BK4rprFL4YeJLveAMvPctgQ-T_dD2bNs&e=1780840828"
             }
         ]
     },
@@ -267,7 +437,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/jzabfazkbf27.m3u8?st=sAZK4KHRhqGL9y71UTcvSIUQh4ENF8QoaIioKAqFFKU&e=1780832679"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/jzabfazkbf27.m3u8?st=0tyFBdBFyhVVjbW4ZdpoDReGkpqGwNYmqFdC7RUXEs0&e=1780840836"
             }
         ]
     },
@@ -284,7 +454,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/hefbafbakx28.m3u8?st=ahdLd299EsJmT_hmzgVFHECpe8a1WfvoxGYeYAqfy2w&e=1780832688"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/hefbafbakx28.m3u8?st=mXHTugPNCRxPBdk_ibPIuUnG9-XF0VVEPCgkeSAY_kg&e=1780840844"
             }
         ]
     },
@@ -301,7 +471,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/hfzljfahzcax29.m3u8?st=AWliE3kLfmLu4wr2sckLFenD7dTKrZdzTYFUbIyDCkY&e=1780832697"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/hfzljfahzcax29.m3u8?st=aM8VaYoWVIR19jjVy4Ydi4tR1ZyXLmlOT5PjQ_2ecpo&e=1780840852"
             }
         ]
     },
@@ -318,7 +488,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/hbfkazbkaznc49.m3u8?st=tsE_v95JIkWOhANUdi4ub0WyCgzXUJMBQj7PiYMqrQs&e=1780832705"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/hbfkazbkaznc49.m3u8?st=ymyGp2DIe3SvgF3IETVkd-qgmJNx0B41UkUBzHbByqs&e=1780840860"
             }
         ]
     }
