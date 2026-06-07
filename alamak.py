@@ -7,18 +7,26 @@ from datetime import datetime
 import pytz
 from playwright.sync_api import sync_playwright
 
-# Konfigurasi
-WORKER_DOMAIN = os.environ.get("WORKER_DOMAIN", "https://default-domain.workers.dev")
-API_URL = "https://ws.kora-api.space/api/matches/"
+# Konfigurasi dari Environment Variable
+WORKER_DOMAIN = os.getenv("WORKER_DOMAIN")
+API_URL = os.getenv("API_URL")
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
 
 def convert_to_wib(utc_time_str):
     try:
+        # Mengubah string ke datetime
         utc_dt = datetime.strptime(utc_time_str, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=pytz.UTC)
         wib_dt = utc_dt.astimezone(pytz.timezone("Asia/Jakarta"))
         return wib_dt.strftime("%d-%m-%Y %H:%M WIB")
     except:
         return utc_time_str
+
+def get_tanggal(utc_time_str):
+    """Mengambil tanggal saja dalam format YYYY-MM-DD"""
+    try:
+        return utc_time_str.split('T')[0]
+    except:
+        return None
 
 def get_m3u8_from_browser(browser, embed_url):
     """Mengekstraksi link m3u8 menggunakan page dari instance browser yang sudah ada."""
@@ -57,13 +65,16 @@ def run_scraper():
 
         for m in matches:
             category_data = m.get('category', {})
+            begin_at = m.get('begin_at', "")
+            
             match_info = {
                 "id": m.get('id'),
                 "title": m.get('name'),
                 "is_live": m.get('is_live'),
                 "category": category_data.get('name'),
                 "category_image": category_data.get('image'),
-                "waktu_wib": convert_to_wib(m.get('begin_at')),
+                "tanggal_pertandingan": get_tanggal(begin_at),
+                "waktu_wib": convert_to_wib(begin_at),
                 "logo_t1": m.get('logo_team1'),
                 "logo_t2": m.get('logo_team2'),
                 "streams": []
