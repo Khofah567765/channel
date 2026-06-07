@@ -1,25 +1,8 @@
 [
     {
-        "id": 9702,
-        "title": "Monaco Grand Prix Race",
-        "is_live": true,
-        "category": "Motor Sport",
-        "category_image": "https://kora-api.top/uploads/categories/category_15.png",
-        "tanggal_pertandingan": "2026-06-07",
-        "waktu_wib": "07-06-2026 21:00 WIB",
-        "logo_t1": null,
-        "logo_t2": null,
-        "streams": [
-            {
-                "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/hbfkazbkaznc49.m3u8?st=mc2cIouzECrK8ALNqCGhU6oZ1rAJFaCN3SZIh2ymbhs&e=1780867234"
-            }
-        ]
-    },
-    {
         "id": 9771,
         "title": "Ukraine vs Denmark",
-        "is_live": false,
+        "is_live": true,
         "category": "Football",
         "category_image": "https://static.vecteezy.com/system/resources/previews/015/720/560/non_2x/abstract-creative-football-illustration-isolated-on-transparent-background-free-png.png",
         "tanggal_pertandingan": "2026-06-07",
@@ -29,14 +12,14 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/24SDAZFcsqnj24.m3u8?st=OuS3nYTyOrxR5OafgzKpIOHGpQflp0ZbQKKKvTG-kRc&e=1780867266"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/24SDAZFcsqnj24.m3u8?st=boaWSlkM3M1Sxq9JbBPqMG7235faLV3wdpdv1Jz81q4&e=1780871036"
             }
         ]
     },
     {
         "id": 9756,
         "title": "Boston Red Sox vs New York Yankees",
-        "is_live": false,
+        "is_live": true,
         "category": "Baseball",
         "category_image": "https://kora-api.top/uploads/categories/category_13.png",
         "tanggal_pertandingan": "2026-06-07",
@@ -46,14 +29,14 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/dazhfiach15.m3u8?st=RdaLQ4tXZ3vQxIWn-N1ePp_wZQR2Kjl-b4AfXqDQ-OM&e=1780867298"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/dazhfiach15.m3u8?st=BwoXy0meokaWWTcREMpTBGyo412vA7ZBVF0SXv_sABs&e=1780871045"
             }
         ]
     },
     {
         "id": 9757,
         "title": "Chicago White Sox vs Philadelphia Phillies",
-        "is_live": false,
+        "is_live": true,
         "category": "Baseball",
         "category_image": "https://kora-api.top/uploads/categories/category_13.png",
         "tanggal_pertandingan": "2026-06-07",
@@ -63,14 +46,14 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/16yuitzaerghbhc16.m3u8?st=8dALBOP_UG7bWwTi9JzpaTLDnL1rsq0gRjqq3fsyTLM&e=1780867330"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/16yuitzaerghbhc16.m3u8?st=tp05GkaX-0kOeRJM6cLjxizLgN87dzz1xlqpHdFBi-s&e=1780871053"
             }
         ]
     },
     {
         "id": 9758,
         "title": "Pittsburgh Pirates vs Atlanta Braves",
-        "is_live": false,
+        "is_live": true,
         "category": "Baseball",
         "category_image": "https://kora-api.top/uploads/categories/category_13.png",
         "tanggal_pertandingan": "2026-06-07",
@@ -80,14 +63,14 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/ihfazugfyjcazich17.m3u8?st=wVkAq61Dtzx3esQKQ32aOC_p21MquBFzSeHVGNNc-M4&e=1780867362"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/ihfazugfyjcazich17.m3u8?st=xwCSGENrBP1hMr-sfLmbjIGY61C7QG_5gnO-GTaa3WU&e=1780871061"
             }
         ]
     },
     {
         "id": 9759,
         "title": "Baltimore Orioles vs Toronto Blue Jays",
-        "is_live": false,
+        "is_live": true,
         "category": "Baseball",
         "category_image": "https://kora-api.top/uploads/categories/category_13.png",
         "tanggal_pertandingan": "2026-06-07",
@@ -97,14 +80,14 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/Czajafjihafch18.m3u8?st=7lhuqJWuQYVSyqWtuBxyTqq-lxbZxAukjRmurKN1FaQ&e=1780867394"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/Czajafjihafch18.m3u8?st=Y0WSuT1Pk6FUPsxVW2BJ3PTqBfNQjqo8V5GByEjFlL0&e=1780871070"
             }
         ]
     },
     {
         "id": 9760,
         "title": "Seattle Mariners vs Detroit Tigers",
-        "is_live": false,
+        "is_live": true,
         "category": "Baseball",
         "category_image": "https://kora-api.top/uploads/categories/category_13.png",
         "tanggal_pertandingan": "2026-06-07",
@@ -114,14 +97,14 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/bzagLHzach19.m3u8?st=cCGCBlgCqe8uVCukTpsjfEIavKAL_-Ah4rhMHygN8hA&e=1780867426"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/bzagLHzach19.m3u8?st=1JxpFCpohAW47SeoLY3ualVhXvw7JEMuzH7NICa5WPw&e=1780871078"
             }
         ]
     },
     {
         "id": 9761,
         "title": "Tampa Bay Rays vs Miami Marlins",
-        "is_live": false,
+        "is_live": true,
         "category": "Baseball",
         "category_image": "https://kora-api.top/uploads/categories/category_13.png",
         "tanggal_pertandingan": "2026-06-07",
@@ -131,14 +114,14 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/jkzahzadach20.m3u8?st=Vsu5dvcXQZDVgB8rp3booCvk3BTaqpQyKuRLgzR0h5s&e=1780867458"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/jkzahzadach20.m3u8?st=KtKYjbaLiuCIyHpc18w20KyPUvVK89Iflbyg9uY3PUw&e=1780871087"
             }
         ]
     },
     {
         "id": 9762,
         "title": "Athletics vs Houston Astros",
-        "is_live": false,
+        "is_live": true,
         "category": "Baseball",
         "category_image": "https://kora-api.top/uploads/categories/category_13.png",
         "tanggal_pertandingan": "2026-06-07",
@@ -148,14 +131,14 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/ojzkajnach21.m3u8?st=Ap9pxhCuY7whiicSd8gN0EReD1daeNhQBj5ggBwYJMs&e=1780867490"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/ojzkajnach21.m3u8?st=gNSoGyV-2jnidVJ-HAe0VbSbIm9bdLTOuYoGQbAJAt0&e=1780871095"
             }
         ]
     },
     {
         "id": 9763,
         "title": "Kansas City Royals vs Minnesota Twins",
-        "is_live": false,
+        "is_live": true,
         "category": "Baseball",
         "category_image": "https://kora-api.top/uploads/categories/category_13.png",
         "tanggal_pertandingan": "2026-06-07",
@@ -165,14 +148,14 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/ijfnakfidch22.m3u8?st=VMU7XtXRSVkGyOI6L0qJ6pyMa3dWK-YkyyukQpy5kl4&e=1780867522"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/ijfnakfidch22.m3u8?st=Kprb8CEqtGWE1AkuM5GtuNE_nhIYziVYSkzzG51QiQQ&e=1780871103"
             }
         ]
     },
     {
         "id": 9764,
         "title": "Cincinnati Reds vs St. Louis Cardinals",
-        "is_live": false,
+        "is_live": true,
         "category": "Baseball",
         "category_image": "https://kora-api.top/uploads/categories/category_13.png",
         "tanggal_pertandingan": "2026-06-07",
@@ -182,7 +165,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/jnzkdzjfanch23.m3u8?st=_Ke6zg9dYUbrQ093lwyem585yvnovDlbwYEA2bb31aY&e=1780867554"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/jnzkdzjfanch23.m3u8?st=fqFLz0VUIAwOvSD4E3YMLYMn2TWUj2glf1WfYJ5fzZ4&e=1780871112"
             }
         ]
     },
@@ -199,7 +182,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/fskjanach24.m3u8?st=RA_XMxWpFDXXFu0M2LLI9_UBzMD4vysNFrfZ-LSrlx0&e=1780867586"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/fskjanach24.m3u8?st=kXCKuzz7Efs66qspBm4R1EiZOAkkzjYA8qZQK1FxiOM&e=1780871120"
             }
         ]
     },
@@ -216,7 +199,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/eJmauBDCIf.m3u8?st=D8GcOgroG5OOwuGOAuvi_dy4wVUV0kUL-l3Km8UbGgM&e=1780867618"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/eJmauBDCIf.m3u8?st=Qgh9Jriy0zbueORsNeT9DZ9KmNj27i_rxUosEcdYFnk&e=1780871129"
             }
         ]
     },
@@ -233,7 +216,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/b0h5fNwDKH.m3u8?st=xFCM9MBJszS4sWx3RhO8Kle3v8ztEg0-rFsJTap04Jw&e=1780867650"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/b0h5fNwDKH.m3u8?st=24t0Hc5LuxxfFvO-lV2upaWhaAK8tockdeGPvV2_Sd8&e=1780871137"
             }
         ]
     },
@@ -250,7 +233,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/sqdahach1ax.m3u8?st=h-Ep0-iIxw5qHN8DypMmIq6RXESfUtZO-FXejRWffSM&e=1780867682"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/sqdahach1ax.m3u8?st=KS9kKNV6WeNIj4oQUiLqNUbsF8bzxiucKATzUBe0b48&e=1780871145"
             }
         ]
     },
@@ -267,7 +250,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/bvnsqdfvgha70.m3u8?st=0zgNVSOw9Xwkn9TMflQ3JnI_cnvcMCqgoPUN9knUt34&e=1780867715"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/bvnsqdfvgha70.m3u8?st=qFhoVjzrY9Q3EFrmTM3YjYCgMjq5B6od-MHsy6uOhYM&e=1780871154"
             }
         ]
     },
@@ -284,7 +267,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/kjhfzua25.m3u8?st=nP1mkc-Gq093q6HaCA02CSi_25WXufImfl6tkwJFzxs&e=1780867747"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/kjhfzua25.m3u8?st=zSwyPJFTq9lIm1PDj8LMpj6Z7A3Mc--9McLVjrcg27A&e=1780871162"
             }
         ]
     },
@@ -301,7 +284,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/dzjhkfazbka26.m3u8?st=bPKgdNZNg3aR_fWM8uPW04xnqBmAwK7pFweX_kNe7jw&e=1780867779"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/dzjhkfazbka26.m3u8?st=ybzcRcBTVX9gfNgb96nhtE8043Gi24hwkduOFGtiGNY&e=1780871171"
             }
         ]
     },
@@ -318,7 +301,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/jzabfazkbf27.m3u8?st=0nDNNgn5DBJ1DYwwYLZtdXRViH7zXbMyizcuuRHNHAU&e=1780867811"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/jzabfazkbf27.m3u8?st=bflujCa-ht6Co0U6SGz5prSP9ulSInKsyI6_2bewqpo&e=1780871179"
             }
         ]
     },
@@ -335,7 +318,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/hefbafbakx28.m3u8?st=jAyhaYWC1Y7uYPtiKNDuxWcQqZduLUCmuykIqxQ9maE&e=1780867843"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/hefbafbakx28.m3u8?st=ZDkHVxk6tJMGcfXMsVj4_fVZbjjtcPl4CCmvxq3dcZU&e=1780871188"
             }
         ]
     },
@@ -352,7 +335,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/ztyarueaghj71.m3u8?st=FO2S0R8pqTBruWwegqotyhVNyTQwSsPH_Wl_XuOdBUc&e=1780867875"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/ztyarueaghj71.m3u8?st=KFjhUb7vc53ZbJqOmCOX06I_gt5efHPIVjAS7wECGHE&e=1780871196"
             }
         ]
     },
@@ -369,7 +352,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/hfzljfahzcax29.m3u8?st=0-bilGsqBK1by_SN7Zb55i2-QDtM_6OmWqWDo76PKJM&e=1780867907"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/hfzljfahzcax29.m3u8?st=WKA53zVGOoUBkv22HuSjnM0QIwxsHZinhUXZfJCd1ak&e=1780871205"
             }
         ]
     }
