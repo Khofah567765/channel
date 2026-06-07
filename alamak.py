@@ -4,6 +4,7 @@ import urllib.parse
 import requests
 import time
 from datetime import datetime
+from datetime import timedelta
 import pytz
 from playwright.sync_api import sync_playwright
 
@@ -20,20 +21,14 @@ if not WORKER_DOMAIN or not API_URL:
 
 def convert_to_wib(utc_time_str):
     try:
-        # Asumsikan input format: 2026-06-08T10:00:00Z
-        # Memastikan string diakhiri 'Z' agar dikenali sebagai UTC
-        if not utc_time_str.endswith('Z'):
-            utc_time_str = utc_time_str.replace('+00:00', 'Z')
-            
         utc_dt = datetime.strptime(utc_time_str, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=pytz.UTC)
+        wib_dt = utc_dt.astimezone(pytz.timezone("Asia/Jakarta"))
         
-        # Konversi ke WIB
-        wib_tz = pytz.timezone("Asia/Jakarta")
-        wib_dt = utc_dt.astimezone(wib_tz)
+        # Opsi: Kurangi 1 jam secara manual jika ingin memajukan waktu
+        wib_dt = wib_dt - timedelta(hours=1)
         
         return wib_dt.strftime("%d-%m-%Y %H:%M WIB")
-    except Exception as e:
-        print(f"⚠️ Error parsing waktu: {e}")
+    except:
         return utc_time_str
 
 def get_tanggal(utc_time_str):
