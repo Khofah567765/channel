@@ -2,7 +2,7 @@ name: Kora Live Scraper
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # Jalankan setiap 30 menit
+    - cron: '*/7 * * * *' # Jalankan setiap 30 menit
   workflow_dispatch: # Memungkinkan jalankan manual dari tab Actions
 
 permissions:
