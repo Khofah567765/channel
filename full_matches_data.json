@@ -1,18 +1,256 @@
 [
     {
-        "id": 9770,
-        "title": "San Francisco Giants vs Chicago Cubs",
-        "is_live": true,
-        "category": "Baseball",
-        "category_image": "https://kora-api.top/uploads/categories/category_13.png",
+        "id": 9785,
+        "title": "Uzbekistan vs Netherlands",
+        "is_live": false,
+        "category": "Football",
+        "category_image": "https://static.vecteezy.com/system/resources/previews/015/720/560/non_2x/abstract-creative-football-illustration-isolated-on-transparent-background-free-png.png",
         "tanggal_pertandingan": "2026-06-08",
-        "waktu_wib": "08-06-2026 07:30 WIB",
-        "logo_t1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png",
-        "logo_t2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png",
+        "waktu_wib": "09-06-2026 01:45 WIB",
+        "logo_t1": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
+        "logo_t2": "https://a.espncdn.com/i/teamlogos/countries/500/uzb.png",
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/hfzljfahzcax29.m3u8?st=XK1LMi37RrJiFxKh2GpUVcG6bB7i4PFOBEwpiD6vK6I&e=1780900165"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/24SDAZFcsqnj24.m3u8?st=U5ORBcrW0kM2LfqPPx_JTSuoRo-qfj5hR-a90KJJqZg&e=1780912250"
+            }
+        ]
+    },
+    {
+        "id": 9786,
+        "title": "Northern Ireland vs France",
+        "is_live": false,
+        "category": "Football",
+        "category_image": "https://static.vecteezy.com/system/resources/previews/015/720/560/non_2x/abstract-creative-football-illustration-isolated-on-transparent-background-free-png.png",
+        "tanggal_pertandingan": "2026-06-08",
+        "waktu_wib": "09-06-2026 02:10 WIB",
+        "logo_t1": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+        "logo_t2": "https://a.espncdn.com/i/teamlogos/countries/500/nir.png",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/eJmauBDCIf.m3u8?st=fqIgJQ0a20BeQlPZP-qKeccHNx4T3YPwWK2ucXihMMk&e=1780912259"
+            }
+        ]
+    },
+    {
+        "id": 9777,
+        "title": "Seattle Mariners vs Baltimore Orioles",
+        "is_live": false,
+        "category": "Baseball",
+        "category_image": "https://kora-api.top/uploads/categories/category_13.png",
+        "tanggal_pertandingan": "2026-06-08",
+        "waktu_wib": "09-06-2026 05:35 WIB",
+        "logo_t1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bal.png",
+        "logo_t2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/dazhfiach15.m3u8?st=Kgf2K4CXCUWZcr9YAlabTyf2Ysjy9XAh_hqr-xnGk2g&e=1780912267"
+            }
+        ]
+    },
+    {
+        "id": 9778,
+        "title": "Boston Red Sox vs Tampa Bay Rays",
+        "is_live": false,
+        "category": "Baseball",
+        "category_image": "https://kora-api.top/uploads/categories/category_13.png",
+        "tanggal_pertandingan": "2026-06-08",
+        "waktu_wib": "09-06-2026 05:40 WIB",
+        "logo_t1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tb.png",
+        "logo_t2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bos.png",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/16yuitzaerghbhc16.m3u8?st=r_DAkDtv3KZNHvFzIXNaS9kkz_W2qXON-jQf1_j_-bA&e=1780912276"
+            }
+        ]
+    },
+    {
+        "id": 9779,
+        "title": "New York Yankees vs Cleveland Guardians",
+        "is_live": false,
+        "category": "Baseball",
+        "category_image": "https://kora-api.top/uploads/categories/category_13.png",
+        "tanggal_pertandingan": "2026-06-08",
+        "waktu_wib": "09-06-2026 05:40 WIB",
+        "logo_t1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cle.png",
+        "logo_t2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nyy.png",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/ihfazugfyjcazich17.m3u8?st=EUH6isONM2ucRSxQ3i2qjt65FlDntjdWyYjsejtcXk0&e=1780912285"
+            }
+        ]
+    },
+    {
+        "id": 9789,
+        "title": "New York Liberty vs Connecticut Sun",
+        "is_live": false,
+        "category": "Basketball",
+        "category_image": "https://kora-api.top/uploads/categories/category_4.png",
+        "tanggal_pertandingan": "2026-06-09",
+        "waktu_wib": "09-06-2026 06:00 WIB",
+        "logo_t1": "https://a.espncdn.com/i/teamlogos/wnba/500/con.png",
+        "logo_t2": "https://a.espncdn.com/i/teamlogos/wnba/500/ny.png",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/bvnsqdfvgha70.m3u8?st=_-rAy_m8Tln9M01JKKPJO7Z9UiNUAG-4neUkvDNp_s4&e=1780912293"
+            }
+        ]
+    },
+    {
+        "id": 9790,
+        "title": "Indiana Fever vs Washington Mystics",
+        "is_live": false,
+        "category": "Basketball",
+        "category_image": "https://kora-api.top/uploads/categories/category_4.png",
+        "tanggal_pertandingan": "2026-06-09",
+        "waktu_wib": "09-06-2026 06:00 WIB",
+        "logo_t1": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/wsh.png",
+        "logo_t2": "https://a.espncdn.com/i/teamlogos/wnba/500/ind.png",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/ztyarueaghj71.m3u8?st=t6WXlMc4YFkiK5gnsoGbHgdjNQlbuPvt0JJkJ5iaI3E&e=1780912302"
+            }
+        ]
+    },
+    {
+        "id": 9780,
+        "title": "Philadelphia Phillies vs Toronto Blue Jays",
+        "is_live": false,
+        "category": "Baseball",
+        "category_image": "https://kora-api.top/uploads/categories/category_13.png",
+        "tanggal_pertandingan": "2026-06-09",
+        "waktu_wib": "09-06-2026 06:07 WIB",
+        "logo_t1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tor.png",
+        "logo_t2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/phi.png",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/Czajafjihafch18.m3u8?st=d7uuBIHahh8q7WFivSsaW9-gsDSNxHUKOUu59qD9Sbk&e=1780912310"
+            }
+        ]
+    },
+    {
+        "id": 9788,
+        "title": "San Antonio Spurs vs New York Knicks",
+        "is_live": false,
+        "category": "Basketball",
+        "category_image": "https://kora-api.top/uploads/categories/category_4.png",
+        "tanggal_pertandingan": "2026-06-09",
+        "waktu_wib": "09-06-2026 07:30 WIB",
+        "logo_t1": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
+        "logo_t2": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/mlkijfezag65.m3u8?st=g9fkJADtuEOylA0RM9biEBh2zipZNsskMoPZxQH1UZU&e=1780912319"
+            }
+        ]
+    },
+    {
+        "id": 9781,
+        "title": "Houston Astros vs Los Angeles Angels",
+        "is_live": false,
+        "category": "Baseball",
+        "category_image": "https://kora-api.top/uploads/categories/category_13.png",
+        "tanggal_pertandingan": "2026-06-09",
+        "waktu_wib": "09-06-2026 08:38 WIB",
+        "logo_t1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png",
+        "logo_t2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/hou.png",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/bzagLHzach19.m3u8?st=vB1PVxD96ZaT7G2kgIXLiHSo3yt6ZDCtSkfcUnSZ3fw&e=1780912327"
+            }
+        ]
+    },
+    {
+        "id": 9782,
+        "title": "Cincinnati Reds vs San Diego Padres",
+        "is_live": false,
+        "category": "Baseball",
+        "category_image": "https://kora-api.top/uploads/categories/category_13.png",
+        "tanggal_pertandingan": "2026-06-09",
+        "waktu_wib": "09-06-2026 08:40 WIB",
+        "logo_t1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sd.png",
+        "logo_t2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/cin.png",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/jkzahzadach20.m3u8?st=33UTBO45FuPDWCQiT_AaWQ3T0MgpDbPHg5mbf9QGn5M&e=1780912336"
+            }
+        ]
+    },
+    {
+        "id": 9783,
+        "title": "Washington Nationals vs San Francisco Giants",
+        "is_live": false,
+        "category": "Baseball",
+        "category_image": "https://kora-api.top/uploads/categories/category_13.png",
+        "tanggal_pertandingan": "2026-06-09",
+        "waktu_wib": "09-06-2026 08:45 WIB",
+        "logo_t1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sf.png",
+        "logo_t2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/wsh.png",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/ojzkajnach21.m3u8?st=nAs05rF-K3H_Vgr8uy05ryAPABlhgZtOJA4F_TsYQpY&e=1780912344"
+            }
+        ]
+    },
+    {
+        "id": 9787,
+        "title": "Spain vs Peru",
+        "is_live": false,
+        "category": "Football",
+        "category_image": "https://static.vecteezy.com/system/resources/previews/015/720/560/non_2x/abstract-creative-football-illustration-isolated-on-transparent-background-free-png.png",
+        "tanggal_pertandingan": "2026-06-09",
+        "waktu_wib": "09-06-2026 09:00 WIB",
+        "logo_t1": "https://a.espncdn.com/i/teamlogos/countries/500/per.png",
+        "logo_t2": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/b0h5fNwDKH.m3u8?st=XiQgQI5_rbcdHuUV0LL1tt3zMTQsNNN-9OJToMO6l3Y&e=1780912353"
+            }
+        ]
+    },
+    {
+        "id": 9791,
+        "title": "Seattle Storm vs Las Vegas Aces",
+        "is_live": false,
+        "category": "Basketball",
+        "category_image": "https://kora-api.top/uploads/categories/category_4.png",
+        "tanggal_pertandingan": "2026-06-09",
+        "waktu_wib": "09-06-2026 09:00 WIB",
+        "logo_t1": "https://a.espncdn.com/i/teamlogos/wnba/500/lv.png",
+        "logo_t2": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/sea.png",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/pllmazjkdzajh72.m3u8?st=hGEF6nRs29T5rm-QDk4_COlykoL-Lvy1S1IcPmAW4lY&e=1780912361"
+            }
+        ]
+    },
+    {
+        "id": 9784,
+        "title": "Milwaukee Brewers vs Athletics",
+        "is_live": false,
+        "category": "Baseball",
+        "category_image": "https://kora-api.top/uploads/categories/category_13.png",
+        "tanggal_pertandingan": "2026-06-09",
+        "waktu_wib": "09-06-2026 09:05 WIB",
+        "logo_t1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/ath.png",
+        "logo_t2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/mil.png",
+        "streams": [
+            {
+                "lang": "English",
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/ijfnakfidch22.m3u8?st=A6Wl3Has133LtKpLVmLsfib9M1MjVps5NKQdR7AdFEY&e=1780912370"
             }
         ]
     }
