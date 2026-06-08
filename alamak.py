@@ -14,7 +14,7 @@ API_URL = os.getenv("API_URL")
 
 # URL Firebase Realtime Database Anda (ganti dengan milik Anda)
 # Pastikan URL diakhiri dengan /matches.json
-FIREBASE_URL = "https://kanjut-99038-default-rtdb.firebaseio.com/matches.json"
+FIREBASE_URL = "https://webkumy-default-rtdb.asia-southeast1.firebasedatabase.app/matches.json"
 
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
 
