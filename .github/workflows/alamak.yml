@@ -34,6 +34,7 @@ jobs:
         env:
           API_URL: ${{ secrets.API_URL }}
           WORKER_DOMAIN: ${{ secrets.WORKER_DOMAIN }}
+          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
         run: python alamak.py
 
       - name: Commit & Push changes
@@ -43,7 +44,6 @@ jobs:
           
           # Cek apakah file ada perubahan
           if [[ -n $(git status -s) ]]; then
-            git add full_matches_data.json
             git commit -m "Automated update: match data"
             git push
           else
