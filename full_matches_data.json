@@ -1,22 +1,5 @@
 [
     {
-        "id": 9776,
-        "title": "Portland Fire vs Los Angeles Sparks",
-        "is_live": true,
-        "category": "Basketball",
-        "category_image": "https://kora-api.top/uploads/categories/category_4.png",
-        "tanggal_pertandingan": "2026-06-08",
-        "waktu_wib": "08-06-2026 06:00 WIB",
-        "logo_t1": "https://a.espncdn.com/i/teamlogos/wnba/500/la.png",
-        "logo_t2": "https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/por.png",
-        "streams": [
-            {
-                "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/ztyarueaghj71.m3u8?st=lLzxvHGYqF9RGiTsrWUfYsWv47IQRsWinv8vH4bzTI4&e=1780894639"
-            }
-        ]
-    },
-    {
         "id": 9770,
         "title": "San Francisco Giants vs Chicago Cubs",
         "is_live": true,
@@ -29,7 +12,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/hfzljfahzcax29.m3u8?st=rhZodADynyLG0bJRipZpk7QE6m0ViRDHmHVZTRidjCU&e=1780894648"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/hfzljfahzcax29.m3u8?st=XK1LMi37RrJiFxKh2GpUVcG6bB7i4PFOBEwpiD6vK6I&e=1780900165"
             }
         ]
     }
