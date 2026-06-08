@@ -2,6 +2,16 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
+        "bc730380e8955fdb27058282edfd85b5": {
+            "channelName": "FUS Rabat vs Difaa Hassani El-Jadidi",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1583244646.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1570369492.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "85f1d59a01079a65c00412ca217d1f79": {
             "channelName": "Wydad Athletic Club vs Olympique de Safi",
             "contentType": "event_pertandingan",
