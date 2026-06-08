@@ -2,16 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "079cc2f17dbddf054415d71bf5feb9a1": {
-            "channelName": "Colombia vs Jordan",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1560461661.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1567707351.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "85f1d59a01079a65c00412ca217d1f79": {
             "channelName": "Wydad Athletic Club vs Olympique de Safi",
             "contentType": "event_pertandingan",
