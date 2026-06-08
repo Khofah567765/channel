@@ -1,42 +1,8 @@
 [
     {
-        "id": 9768,
-        "title": "Los Angeles Angels vs Los Angeles Dodgers",
-        "is_live": true,
-        "category": "Baseball",
-        "category_image": "https://kora-api.top/uploads/categories/category_13.png",
-        "tanggal_pertandingan": "2026-06-07",
-        "waktu_wib": "08-06-2026 03:10 WIB",
-        "logo_t1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/lad.png",
-        "logo_t2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/laa.png",
-        "streams": [
-            {
-                "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/jzabfazkbf27.m3u8?st=5GR1X9e5Mf2aR5XCu3UuxaL84pPvQOWvHN40lVIlCBg&e=1780885981"
-            }
-        ]
-    },
-    {
-        "id": 9769,
-        "title": "New York Mets vs San Diego Padres",
-        "is_live": true,
-        "category": "Baseball",
-        "category_image": "https://kora-api.top/uploads/categories/category_13.png",
-        "tanggal_pertandingan": "2026-06-07",
-        "waktu_wib": "08-06-2026 03:10 WIB",
-        "logo_t1": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sd.png",
-        "logo_t2": "https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/nym.png",
-        "streams": [
-            {
-                "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/hefbafbakx28.m3u8?st=amfA-S2gUh2c7IJMlZUrfSR2SrzlvCNlZ8UJGd5mdeY&e=1780885990"
-            }
-        ]
-    },
-    {
         "id": 9776,
         "title": "Portland Fire vs Los Angeles Sparks",
-        "is_live": false,
+        "is_live": true,
         "category": "Basketball",
         "category_image": "https://kora-api.top/uploads/categories/category_4.png",
         "tanggal_pertandingan": "2026-06-08",
@@ -46,14 +12,14 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/ztyarueaghj71.m3u8?st=A5OQGUoA27yQ3Md6fsQki_ZNPCg1zR8YW9aKhzioYQo&e=1780885998"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/ztyarueaghj71.m3u8?st=lLzxvHGYqF9RGiTsrWUfYsWv47IQRsWinv8vH4bzTI4&e=1780894639"
             }
         ]
     },
     {
         "id": 9770,
         "title": "San Francisco Giants vs Chicago Cubs",
-        "is_live": false,
+        "is_live": true,
         "category": "Baseball",
         "category_image": "https://kora-api.top/uploads/categories/category_13.png",
         "tanggal_pertandingan": "2026-06-08",
@@ -63,7 +29,7 @@
         "streams": [
             {
                 "lang": "English",
-                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/hfzljfahzcax29.m3u8?st=dBQw47Fd8yGJFX8BBl43yC0jqeC3IQfVN4FoeUV4z_s&e=1780886007"
+                "m3u8": "https://winter-wave-e34e.asique121212.workers.dev/hls/hfzljfahzcax29.m3u8?st=rhZodADynyLG0bJRipZpk7QE6m0ViRDHmHVZTRidjCU&e=1780894648"
             }
         ]
     }
