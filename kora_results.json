@@ -2,16 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "47f3588551955b315b57c1fc5140d7dc": {
-            "channelName": "Peru vs Spain",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1560461560.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1559702274.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "21b7a4f25e26a74663730706f27e6be7": {
             "channelName": "Armenia vs Moldova",
             "contentType": "event_pertandingan",
@@ -119,6 +109,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1559702437.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1560461626.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "47f3588551955b315b57c1fc5140d7dc": {
+            "channelName": "Peru vs Spain",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1560461560.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1559702274.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
