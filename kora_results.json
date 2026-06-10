@@ -2,17 +2,17 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "90f8431c3cda65917c6f9b07bbd7bab2": {
-            "channelName": "Saudi Arabia vs Senegal",
+        "8e48801bdb2277073a1b1228955d3dd6": {
+            "channelName": "MAS de Fes vs AS FAR Rabat",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1559009301.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1558613750.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1608901012.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1583244525.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "17b5432dbc46c4496241028a6463cdd4": {
+        "7339e631bc8803c606fe9f4e29e07ccf": {
             "channelName": "Argentina vs Iceland",
             "contentType": "event_pertandingan",
             "streamUrl": "",
@@ -22,7 +22,7 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "2cd584133b52526be1922b505dedddbf": {
+        "f0e7f6f1818246a15eba1fcfc4945f48": {
             "channelName": "Iraq vs Venezuela",
             "contentType": "event_pertandingan",
             "streamUrl": "",
@@ -32,93 +32,43 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "47f3588551955b315b57c1fc5140d7dc": {
-            "channelName": "Peru vs Spain",
+        "69ae3857409feeaeac1e7889f0a1ed42": {
+            "channelName": "Malaga vs Las Palmas",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1560461560.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1559702274.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/535.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/534.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "21b7a4f25e26a74663730706f27e6be7": {
-            "channelName": "Armenia vs Moldova",
+        "43ddf6e389803528b694fc98258bcadd": {
+            "channelName": "Portugal vs Nigeria",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1567423656.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1602081486.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1559701405.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1558613520.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "48a06711ff00929a962ecaea65322e75": {
-            "channelName": "Tajikistan vs India",
+        "4a37626cd81dd12706e48546cec9c73b": {
+            "channelName": "England vs Costa Rica",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1605142160.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1567708840.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1670707210.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1655156961.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "608c010cea10f547e9143ae9754a16d0": {
-            "channelName": "DR Congo vs Chile",
+        "847fd9ca50a321bdd99dc31a7cb5068d": {
+            "channelName": "Bolivia vs Algeria",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1558613262.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1560461961.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "44eff8be5d734e39433effa74741c1df": {
-            "channelName": "Yacoub El Mansour vs CODM Mekn\u00e8s",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/25058.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1731682110.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "e1d1f856419990470fdd1b7fc4aff60b": {
-            "channelName": "Russia vs Trinidad and Tobago",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1567803494.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1688323794.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "5feb58c9b0546890ba989f534b642fdb": {
-            "channelName": "Kawkab Marrakech vs Raja Club Athletic",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/971.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1571880004.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "2827af66771c134a7d61aa16a356170a": {
-            "channelName": "Renaissance Zemamra vs Uts Union Touarga",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1583430709.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1662717594.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "313cdd0f9b818d5d8dffae700d3ff324": {
-            "channelName": "MAS de Fes vs AS FAR Rabat",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1608901012.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1583244525.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1559495907.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1558613657.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
