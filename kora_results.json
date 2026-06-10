@@ -42,6 +42,26 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
+        "ddca2ad43c631551b0e7dd2f1bf6f582": {
+            "channelName": "Iran vs Grenada",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1571090639.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/5533.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "a1af22578819087945f566b7367568ec": {
+            "channelName": "Austria vs Guatemala",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1610789258.jpg",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1684566996.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "7339e631bc8803c606fe9f4e29e07ccf": {
             "channelName": "Argentina vs Iceland",
             "contentType": "event_pertandingan",
