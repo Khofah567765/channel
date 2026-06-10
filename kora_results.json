@@ -2,36 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "8e48801bdb2277073a1b1228955d3dd6": {
-            "channelName": "MAS de Fes vs AS FAR Rabat",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1608901012.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1583244525.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "7339e631bc8803c606fe9f4e29e07ccf": {
-            "channelName": "Argentina vs Iceland",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1670707634.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1570452187.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "f0e7f6f1818246a15eba1fcfc4945f48": {
-            "channelName": "Iraq vs Venezuela",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1559702437.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1560461626.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "69ae3857409feeaeac1e7889f0a1ed42": {
             "channelName": "Malaga vs Las Palmas",
             "contentType": "event_pertandingan",
@@ -69,6 +39,26 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1559495907.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1558613657.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "7339e631bc8803c606fe9f4e29e07ccf": {
+            "channelName": "Argentina vs Iceland",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1670707634.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1570452187.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "f0e7f6f1818246a15eba1fcfc4945f48": {
+            "channelName": "Iraq vs Venezuela",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1559702437.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1560461626.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
