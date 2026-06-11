@@ -2,26 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "08490a61bdcf0348b500570cc89a1901": {
-            "channelName": "Bolivia vs Algeria",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1559495907.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1558613657.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "a183b2cf5246560f72b276ae900cdae6": {
-            "channelName": "Iran vs Grenada",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1571090639.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/5533.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "df352a073b14afd2f526057faf2151da": {
             "channelName": "Mexico vs South Africa",
             "contentType": "event_pertandingan",
@@ -39,6 +19,26 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1605609771.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1570451829.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "08490a61bdcf0348b500570cc89a1901": {
+            "channelName": "Bolivia vs Algeria",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1559495907.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1558613657.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "a183b2cf5246560f72b276ae900cdae6": {
+            "channelName": "Iran vs Grenada",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1571090639.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/5533.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
