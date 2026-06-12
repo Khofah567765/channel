@@ -2,17 +2,7 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "df352a073b14afd2f526057faf2151da": {
-            "channelName": "Mexico vs South Africa",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1568151357.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1559434872.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "1dc442a6af598941c32190bf670128b5": {
+        "a08244b013766d52911468533e831428": {
             "channelName": "South Korea vs Czech Republic",
             "contentType": "event_pertandingan",
             "streamUrl": "",
@@ -22,33 +12,43 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "08490a61bdcf0348b500570cc89a1901": {
-            "channelName": "Bolivia vs Algeria",
+        "9090768180a5c54f7c0358915c751a60": {
+            "channelName": "Formula 1 vs Formula 1",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1559495907.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1558613657.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "a183b2cf5246560f72b276ae900cdae6": {
-            "channelName": "Iran vs Grenada",
+        "4260952fbb3fa4821db89ddfb559fe1c": {
+            "channelName": "Formula 1 vs Formula 1",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1571090639.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/5533.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "3e03ffc2270612f51a04cf436cb15e47": {
-            "channelName": "Austria vs Guatemala",
+        "9d9be92144c9a8ad16df4a4d3580e3ff": {
+            "channelName": "Canada vs Bosnia and Herzegovina",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1610789258.jpg",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1684566996.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1626609059.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1560263913.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "9a6e85db428fa7c91866da1166af288c": {
+            "channelName": "USA vs Paraguay",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1622387312.jpg",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1560461713.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
