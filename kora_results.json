@@ -2,26 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "a94d798c14d55637e67faae0875d1a5e": {
-            "channelName": "Brazil vs Morocco",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1559701816.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1670707745.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "214e14229db0929d5c2d6896196c1bf2": {
-            "channelName": "Haiti vs Scotland",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1688323750.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1560287918.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "ede178f86f4f38eb13d36f20791e25e3": {
             "channelName": "Australia vs Turkey",
             "contentType": "event_pertandingan",
@@ -79,6 +59,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1560165168.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1559434130.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "214e14229db0929d5c2d6896196c1bf2": {
+            "channelName": "Haiti vs Scotland",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1688323750.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1560287918.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
