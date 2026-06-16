@@ -2,27 +2,7 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "1ef637d721a8a436bc18ce419fa04d91": {
-            "channelName": "Saudi Arabia vs Uruguay",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1559009301.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1560461855.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "4bdad40f850c791a43e5d422c4846ef1": {
-            "channelName": "Belgium vs Egypt",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1560287858.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1558613293.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "5866ae734ffc8bec0e988a7a8f005a36": {
+        "8df1b397d9069bc0b7e2c29166af8eb2": {
             "channelName": "Iran vs New Zealand",
             "contentType": "event_pertandingan",
             "streamUrl": "",
@@ -32,23 +12,43 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "83c4a7e66516e49aef45564596d5354c": {
-            "channelName": "Sweden vs Tunisia",
+        "234133c3c2b89100282bbcd44f08e89f": {
+            "channelName": "France vs Senegal",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1560165168.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1559434130.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1670707143.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1558613750.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "a35a179c31e6b15e359afe6400138583": {
-            "channelName": "Spain vs Cape Verde",
+        "d2ab77f4fb6040d133be9ec811b33f60": {
+            "channelName": "Iraq vs Norway",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1559702274.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1637017743.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1559702437.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1570845150.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "cbc7107373f6cbd4b5345d236f1e742d": {
+            "channelName": "Argentina vs Algeria",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1670707634.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1558613657.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "a6ae7f7b0089f9aa3ff132c2f2904476": {
+            "channelName": "Austria vs Jordan",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1610789258.jpg",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1567707351.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
