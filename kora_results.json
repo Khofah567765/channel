@@ -2,6 +2,16 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
+        "6d9de259745f7124a431b8e8ab559eb3": {
+            "channelName": "Uzbekistan vs Colombia",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1567707646.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1560461661.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "d82a720dcb61e0c7b6b3ac411790e004": {
             "channelName": "Czech Republic vs South Africa",
             "contentType": "event_pertandingan",
@@ -39,16 +49,6 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1568151357.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1605609771.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "6d9de259745f7124a431b8e8ab559eb3": {
-            "channelName": "Uzbekistan vs Colombia",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1567707646.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1560461661.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
