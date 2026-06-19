@@ -2,16 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "584b563e69c5c398407e0783e01f74d4": {
-            "channelName": "Mexico vs South Korea",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1568151357.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1605609771.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "55d1740ac06b404ae67696a00a72612a": {
             "channelName": "USA vs Australia",
             "contentType": "event_pertandingan",
@@ -49,6 +39,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1559702589.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1560461713.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "584b563e69c5c398407e0783e01f74d4": {
+            "channelName": "Mexico vs South Korea",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1568151357.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1605609771.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
