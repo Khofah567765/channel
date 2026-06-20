@@ -2,6 +2,16 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
+        "bc21089ddeb0fdcff54b8321f19653cb": {
+            "channelName": "Turkey vs Paraguay",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1559702589.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1560461713.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "ad25286d27f620f084271a756034b341": {
             "channelName": "Netherlands vs Sweden",
             "contentType": "event_pertandingan",
@@ -49,16 +59,6 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1559701816.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1688323750.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "bc21089ddeb0fdcff54b8321f19653cb": {
-            "channelName": "Turkey vs Paraguay",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1559702589.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1560461713.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
