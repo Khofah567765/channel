@@ -2,6 +2,46 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
+        "ad25286d27f620f084271a756034b341": {
+            "channelName": "Netherlands vs Sweden",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1559701488.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1560165168.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "7c0b6d8eddf763ce5dedd4c7b128eb57": {
+            "channelName": "Germany vs Ivory Coast",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1560164246.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1558613879.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "59ecef628d86b4648787e42843dba97d": {
+            "channelName": "Ecuador vs Curacao",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1560461775.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1679974740.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "e14ba54764f0817604308ef66ca76899": {
+            "channelName": "Tunisia vs Japan",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1559434130.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1560461819.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "ac9e22ac0b21df163edcb715ea825c79": {
             "channelName": "Brazil vs Haiti",
             "contentType": "event_pertandingan",
