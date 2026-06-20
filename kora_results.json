@@ -2,17 +2,7 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "55d1740ac06b404ae67696a00a72612a": {
-            "channelName": "USA vs Australia",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1622387312.jpg",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1568067736.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "78d63b9ebe1634ecf9e20b4e415ffe6f": {
+        "202f5a2bec401b7ae7da0d78d74550e3": {
             "channelName": "Scotland vs Morocco",
             "contentType": "event_pertandingan",
             "streamUrl": "",
@@ -22,7 +12,7 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "bd3b8869afc04be7ca1e420d22bec687": {
+        "ac9e22ac0b21df163edcb715ea825c79": {
             "channelName": "Brazil vs Haiti",
             "contentType": "event_pertandingan",
             "streamUrl": "",
@@ -32,23 +22,13 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "e3b5b0622fd8645e96eda5a3554b47e9": {
+        "bc21089ddeb0fdcff54b8321f19653cb": {
             "channelName": "Turkey vs Paraguay",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1559702589.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1560461713.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "584b563e69c5c398407e0783e01f74d4": {
-            "channelName": "Mexico vs South Korea",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1568151357.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1605609771.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
