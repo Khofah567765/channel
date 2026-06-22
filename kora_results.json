@@ -2,17 +2,7 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "c7715d1da897af37fe8f8c561c9b19c0": {
-            "channelName": "Spain vs Saudi Arabia",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1559702274.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1559009301.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "f2d3cba63075a0bde20e3c8f06873c11": {
+        "e65e7aa26a4c5482621cf3f0c4f75954": {
             "channelName": "Belgium vs Iran",
             "contentType": "event_pertandingan",
             "streamUrl": "",
@@ -22,7 +12,7 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "f12f6106301b09875fff830b1872222d": {
+        "5b9727e8935aebc2724aca6da95a0fd3": {
             "channelName": "Uruguay vs Cape Verde",
             "contentType": "event_pertandingan",
             "streamUrl": "",
@@ -32,23 +22,13 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "5e4e58cfc827dbd98b638f4817b3c786": {
+        "8c2fb0e0c199341ac8c8a961a940f96e": {
             "channelName": "New Zealand vs Egypt",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1654376336.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1558613293.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "2b1224468cef971c848c9dc02f39c2fc": {
-            "channelName": "Tunisia vs Japan",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1559434130.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1560461819.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
