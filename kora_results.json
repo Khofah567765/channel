@@ -2,16 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "042b7d89ae0ec445125810c4d7230cfd": {
-            "channelName": "Argentina vs Austria",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1670707634.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1610789258.jpg",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "c4d934c113bfb6dc1f525c5472eb5d5b": {
             "channelName": "France vs Iraq",
             "contentType": "event_pertandingan",
@@ -49,6 +39,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1654376336.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1558613293.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "042b7d89ae0ec445125810c4d7230cfd": {
+            "channelName": "Argentina vs Austria",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1670707634.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1610789258.jpg",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
