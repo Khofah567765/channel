@@ -2,16 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "320a02010cb0137541e488376ad884bb": {
-            "channelName": "Portugal vs Uzbekistan",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1559701405.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1567707646.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "e6ec20210bf0b1be40bdbc2a62342cef": {
             "channelName": "England vs Ghana",
             "contentType": "event_pertandingan",
@@ -59,6 +49,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1567707351.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1558613657.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "320a02010cb0137541e488376ad884bb": {
+            "channelName": "Portugal vs Uzbekistan",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1559701405.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1567707646.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
