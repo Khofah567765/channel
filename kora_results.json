@@ -2,7 +2,7 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "c4d934c113bfb6dc1f525c5472eb5d5b": {
+        "a779dd78074ef81d0b30ec8ba92bf6f8": {
             "channelName": "France vs Iraq",
             "contentType": "event_pertandingan",
             "streamUrl": "",
@@ -12,7 +12,7 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "e37f26ed7613d7828de13f73d78693cf": {
+        "e9916cafc4d7de3aa7c9ddfddabe5935": {
             "channelName": "Norway vs Senegal",
             "contentType": "event_pertandingan",
             "streamUrl": "",
@@ -22,33 +22,13 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "180fec20c72f8b9b0689f209ccec7bb7": {
+        "4ec52fe86ac8d67e7be97090f55ff644": {
             "channelName": "Jordan vs Algeria",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1567707351.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1558613657.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "8c2fb0e0c199341ac8c8a961a940f96e": {
-            "channelName": "New Zealand vs Egypt",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1654376336.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1558613293.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "042b7d89ae0ec445125810c4d7230cfd": {
-            "channelName": "Argentina vs Austria",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1670707634.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1610789258.jpg",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
