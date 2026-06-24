@@ -2,26 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "2c1cf22d1e9294a70eb62a4dad1ba4c0": {
-            "channelName": "Switzerland vs Canada",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1559701443.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1626609059.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "ffd1b0267f3bd9d03dad75437658e476": {
-            "channelName": "Bosnia and Herzegovina vs Qatar",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1560263913.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1559701841.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "5cbe70c87b316bef67b6552830de8fc9": {
             "channelName": "Morocco vs Haiti",
             "contentType": "event_pertandingan",
@@ -69,6 +49,26 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1560461661.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1558613262.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "2c1cf22d1e9294a70eb62a4dad1ba4c0": {
+            "channelName": "Switzerland vs Canada",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1559701443.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1626609059.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "ffd1b0267f3bd9d03dad75437658e476": {
+            "channelName": "Bosnia and Herzegovina vs Qatar",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1560263913.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1559701841.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
