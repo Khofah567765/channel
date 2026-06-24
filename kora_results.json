@@ -2,16 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "4ffff7c36d6b08536faade4080eee2a4": {
-            "channelName": "Colombia vs DR Congo",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1560461661.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1558613262.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "2c1cf22d1e9294a70eb62a4dad1ba4c0": {
             "channelName": "Switzerland vs Canada",
             "contentType": "event_pertandingan",
@@ -69,6 +59,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1559434872.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1605609771.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "4ffff7c36d6b08536faade4080eee2a4": {
+            "channelName": "Colombia vs DR Congo",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1560461661.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1558613262.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
