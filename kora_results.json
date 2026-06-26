@@ -2,26 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "f6bd508d877ea59bb2d70b6e4fa64486": {
-            "channelName": "Formula 1 vs Formula 1",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "2adb7150bc91534bb755f6d53b718164": {
-            "channelName": "Formula 1 vs Formula 1",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "38dd52569a6a1b4ef5b9404092855776": {
             "channelName": "Norway vs France",
             "contentType": "event_pertandingan",
@@ -39,6 +19,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1558613750.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1559702437.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "2adb7150bc91534bb755f6d53b718164": {
+            "channelName": "Formula 1 vs Formula 1",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -99,6 +89,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1560461713.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1568067736.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "f6bd508d877ea59bb2d70b6e4fa64486": {
+            "channelName": "Formula 1 vs Formula 1",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
