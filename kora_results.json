@@ -2,27 +2,7 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "38dd52569a6a1b4ef5b9404092855776": {
-            "channelName": "Norway vs France",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1570845150.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1670707143.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "ce1fa2e5d0bf8ea3da060ffc8b3891bd": {
-            "channelName": "Senegal vs Iraq",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1558613750.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1559702437.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "25259c86a69214f69d00bd38f2fad5b5": {
+        "28b1b0776e1f7e2d1f98f906002da25f": {
             "channelName": "Cape Verde vs Saudi Arabia",
             "contentType": "event_pertandingan",
             "streamUrl": "",
@@ -32,7 +12,7 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "52f57f15a17391e0650d71673f9f4a64": {
+        "e4501e2275450223a8d372a1021eda13": {
             "channelName": "Uruguay vs Spain",
             "contentType": "event_pertandingan",
             "streamUrl": "",
@@ -42,7 +22,7 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "9bdda14a229bab0cf1195552e134582c": {
+        "0217cbb079589e5282f9e30e52dc419c": {
             "channelName": "Egypt vs Iran",
             "contentType": "event_pertandingan",
             "streamUrl": "",
@@ -52,7 +32,7 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "fc2a41e7a4bdaadbc63b9cf67ce1b3c4": {
+        "2502fefff9f587d9450408405943c8e2": {
             "channelName": "New Zealand vs Belgium",
             "contentType": "event_pertandingan",
             "streamUrl": "",
@@ -62,37 +42,7 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "cb0636c680245cbc88f3470309e171f2": {
-            "channelName": "Turkey vs USA",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1559702589.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1622387312.jpg",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "d02df75a2a275a2abf584a292875dd6f": {
-            "channelName": "Paraguay vs Australia",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1560461713.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1568067736.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "f6bd508d877ea59bb2d70b6e4fa64486": {
-            "channelName": "Formula 1 vs Formula 1",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "2adb7150bc91534bb755f6d53b718164": {
+        "2816368850b42738be12e96f3178e5d2": {
             "channelName": "Formula 1 vs Formula 1",
             "contentType": "event_pertandingan",
             "streamUrl": "",
