@@ -12,6 +12,16 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
+        "ae05be46401fc96bd9bb3d0460ec47e6": {
+            "channelName": "Rafael Fiziev vs Manuel Torres",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1782560589.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1782560648.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "14d1eebb3368ba3158677f86f4c27bd9": {
             "channelName": "Croatia vs Ghana",
             "contentType": "event_pertandingan",
