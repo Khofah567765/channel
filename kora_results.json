@@ -12,6 +12,46 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
+        "e1c092d8e0ce08ea1eaca3fc1b7c20a2": {
+            "channelName": "Wydad Athletic Club vs Olympique Dche\u00efra",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1556302755.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/3454.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "fc6196d9d2709a9432d7a41d9f267a69": {
+            "channelName": "Ittihad Tanger vs Raja Club Athletic",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1584029792.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1571880004.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "b84ac9ff9bc6db27789349c131460169": {
+            "channelName": "AS FAR Rabat vs Uts Union Touarga",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1583244525.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1662717594.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "86728a616ce601c09c49b70e9e5fb99c": {
+            "channelName": "FUS Rabat vs RSB Berkane",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1583244646.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/berkane.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "b0ae36042dccc820b5e387b9299cecd2": {
             "channelName": "South Africa vs Canada",
             "contentType": "event_pertandingan",
