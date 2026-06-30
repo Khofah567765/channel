@@ -2,16 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "21706e5c4bf0b36f8913dfcc49fc2505": {
-            "channelName": "Netherlands vs Morocco",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1559701488.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1670707745.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "12e36606090b458006e1d8c523dcaa0f": {
             "channelName": "Ivory Coast vs Norway",
             "contentType": "event_pertandingan",
@@ -29,6 +19,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1670707143.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1560165168.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "21706e5c4bf0b36f8913dfcc49fc2505": {
+            "channelName": "Netherlands vs Morocco",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1559701488.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1670707745.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
