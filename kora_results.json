@@ -2,43 +2,73 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "8c60d44ed461baa29b285f09497110dc": {
-            "channelName": "Belgium vs Senegal",
+        "2bf11bd08171abcc7e0bdec56149d44a": {
+            "channelName": "RSB Berkane vs Wydad Athletic Club",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1560287858.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1558613750.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/berkane.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1556302755.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "3aaa4e51f678db6033e5efae12300b76": {
+        "d3564de65b61986ee2cce5ef9b490a79": {
+            "channelName": "CODM Mekn\u00e8s vs AS FAR Rabat",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1731682110.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1583244525.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "e9404ba22a30358e35fa92a7fbc801d3": {
+            "channelName": "Raja Club Athletic vs Hassania Agadir",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1571880004.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1583052987.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "a5eba1000fd59531c22f3374b4f93f31": {
+            "channelName": "Spain vs Austria",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1559702274.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1610789258.jpg",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "ae07dbd223d8ecbef38e9fec5b20b18b": {
+            "channelName": "Portugal vs Croatia",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1559701405.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1670707775.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "840f31630f1386377d7f3a16e1352bed": {
+            "channelName": "Switzerland vs Algeria",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1559701443.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1558613657.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "6bad42d1869f843ade9207650d747721": {
             "channelName": "USA vs Bosnia and Herzegovina",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1622387312.jpg",
             "team2Logo": "https://img.kora-api.space/uploads/team/1560263913.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "3c8a0c4698e645aef62a7715d4fd9d34": {
-            "channelName": "Mexico vs Ecuador",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1568151357.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1560461775.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "c208ee56368d8f57e49522eb0de10daa": {
-            "channelName": "England vs DR Congo",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1670707210.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1558613262.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
