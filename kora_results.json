@@ -2,16 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "a5eba1000fd59531c22f3374b4f93f31": {
-            "channelName": "Spain vs Austria",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1559702274.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1610789258.jpg",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "ae07dbd223d8ecbef38e9fec5b20b18b": {
             "channelName": "Portugal vs Croatia",
             "contentType": "event_pertandingan",
@@ -29,6 +19,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1559701443.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1558613657.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "a5eba1000fd59531c22f3374b4f93f31": {
+            "channelName": "Spain vs Austria",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1559702274.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1610789258.jpg",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
