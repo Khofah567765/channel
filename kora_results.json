@@ -2,7 +2,7 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "ae07dbd223d8ecbef38e9fec5b20b18b": {
+        "e7b86de8a20a124a901ccbe4d0cf6f7a": {
             "channelName": "Portugal vs Croatia",
             "contentType": "event_pertandingan",
             "streamUrl": "",
@@ -12,7 +12,7 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "840f31630f1386377d7f3a16e1352bed": {
+        "faf91c04f5285fd64e39af85a458645b": {
             "channelName": "Switzerland vs Algeria",
             "contentType": "event_pertandingan",
             "streamUrl": "",
@@ -22,53 +22,13 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "a5eba1000fd59531c22f3374b4f93f31": {
-            "channelName": "Spain vs Austria",
+        "fde9aaa1d8e3d481d3c68e34427e76af": {
+            "channelName": "Formula 1 vs Formula 1",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1559702274.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1610789258.jpg",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "6bad42d1869f843ade9207650d747721": {
-            "channelName": "USA vs Bosnia and Herzegovina",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1622387312.jpg",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1560263913.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "2bf11bd08171abcc7e0bdec56149d44a": {
-            "channelName": "RSB Berkane vs Wydad Athletic Club",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/berkane.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1556302755.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "d3564de65b61986ee2cce5ef9b490a79": {
-            "channelName": "CODM Mekn\u00e8s vs AS FAR Rabat",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1731682110.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1583244525.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "e9404ba22a30358e35fa92a7fbc801d3": {
-            "channelName": "Raja Club Athletic vs Hassania Agadir",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1571880004.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1583052987.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
