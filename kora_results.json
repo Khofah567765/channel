@@ -2,16 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "8fa9a6eacfb8c30d8f0605bfa4e71e95": {
-            "channelName": "Argentina vs Cape Verde",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1670707634.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1637017743.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "b0ecd0f92eb284660bf26bc11ce16699": {
             "channelName": "Colombia vs Ghana",
             "contentType": "event_pertandingan",
