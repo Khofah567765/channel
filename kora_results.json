@@ -12,6 +12,26 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
+        "75052baf745086e655e034b84e977ccf": {
+            "channelName": "Mexico vs England",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1568151357.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1670707210.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "de065e7b5b6e42a9397cc282970a61e5": {
+            "channelName": "Formula 1 vs Formula 1",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "8fa23c09c6171eecede3471309007218": {
             "channelName": "Difaa Hassani El-Jadidi vs RSB Berkane",
             "contentType": "event_pertandingan",
@@ -59,26 +79,6 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1583244525.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1583430709.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "75052baf745086e655e034b84e977ccf": {
-            "channelName": "Mexico vs England",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1568151357.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1670707210.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "de065e7b5b6e42a9397cc282970a61e5": {
-            "channelName": "Formula 1 vs Formula 1",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
