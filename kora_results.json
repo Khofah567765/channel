@@ -2,16 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "98585664ce0df5b5212b00d8fd5df525": {
-            "channelName": "Mexico vs England",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1568151357.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1670707210.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "7128810da2e303d2427925f2539eac9c": {
             "channelName": "Portugal vs Spain",
             "contentType": "event_pertandingan",
@@ -29,6 +19,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1622387312.jpg",
             "team2Logo": "https://img.kora-api.space/uploads/team/1560287858.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "98585664ce0df5b5212b00d8fd5df525": {
+            "channelName": "Mexico vs England",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1568151357.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1670707210.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
