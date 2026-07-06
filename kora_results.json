@@ -2,6 +2,16 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
+        "b4d80f5feed9ab309f9216c6f3d6a284": {
+            "channelName": "Wimbledon vs Wimbledon",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1624841818.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1624841818.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "7128810da2e303d2427925f2539eac9c": {
             "channelName": "Portugal vs Spain",
             "contentType": "event_pertandingan",
