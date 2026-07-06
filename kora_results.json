@@ -2,7 +2,7 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "75052baf745086e655e034b84e977ccf": {
+        "98585664ce0df5b5212b00d8fd5df525": {
             "channelName": "Mexico vs England",
             "contentType": "event_pertandingan",
             "streamUrl": "",
@@ -12,73 +12,23 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "c665474ccb62d372b54ab775422b530c": {
-            "channelName": "Brazil vs Norway",
+        "7128810da2e303d2427925f2539eac9c": {
+            "channelName": "Portugal vs Spain",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1559701816.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1570845150.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1559701405.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1559702274.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "de065e7b5b6e42a9397cc282970a61e5": {
-            "channelName": "Formula 1 vs Formula 1",
+        "20d1da04efcc54ec805a7300c80355cc": {
+            "channelName": "USA vs Belgium",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "8fa23c09c6171eecede3471309007218": {
-            "channelName": "Difaa Hassani El-Jadidi vs RSB Berkane",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1570369492.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/berkane.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "bed7113e46966bd31d42d6213c6d65b6": {
-            "channelName": "Olympique de Safi vs Raja Club Athletic",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1572733931.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1571880004.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "449ad80a6d9ec27ccff2c6e956482c80": {
-            "channelName": "Wydad Athletic Club vs Uts Union Touarga",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1556302755.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1662717594.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "e16844a3ffe1b3ebb89b4baced5fe3d9": {
-            "channelName": "MAS de Fes vs Olympique Dche\u00efra",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1608901012.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/3454.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "f485a4fd067bf2e4502482eb5beab549": {
-            "channelName": "AS FAR Rabat vs Renaissance Zemamra",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1583244525.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1583430709.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1622387312.jpg",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1560287858.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
