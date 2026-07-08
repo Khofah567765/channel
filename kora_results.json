@@ -2,47 +2,7 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "a136e507087d186b297ce0604ae0e385": {
-            "channelName": "Switzerland vs Colombia",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1559701443.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1560461661.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "ec823c99d2299724e840dbf8b68ddc41": {
-            "channelName": "Felix Auger-Aliassime vs Novak Djokovic",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1631274082.jpg",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1582786720.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "3977b94299a0070df847c350d44d44e0": {
-            "channelName": "Argentina vs Egypt",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1670707634.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1558613293.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "1966a913c5f5ea35f305d99ae433eb2d": {
-            "channelName": "USA vs Belgium",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1622387312.jpg",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1560287858.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "0053f00e4a4d48f4682181f4f6b3ddbb": {
+        "338540d98809697033a63aa5fcda44a4": {
             "channelName": "Wimbledon vs Wimbledon",
             "contentType": "event_pertandingan",
             "streamUrl": "",
@@ -52,43 +12,23 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "83dd7038f129655d7a1896c6252a94eb": {
-            "channelName": "Jannik Sinner vs Struff Jan-Lennard",
+        "0b253f98c5737cd186b7de69620afea6": {
+            "channelName": "Olympiacos vs Rakow Czestochowa",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1623062312.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1683441285.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1566244087.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1689022207.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "9b77992e42e2d1d1e67e7e8ff89cbd18": {
-            "channelName": "Jessica Pegula vs Cori Gauff",
+        "127578a1e7360b208f9e58b250d13fd9": {
+            "channelName": "AS FAR Rabat vs Stade Marocain",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1651873341.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1623060824.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "9d9e81682cb82b8843fd5797f2d1b885": {
-            "channelName": "Naomi Osaka vs Karolina Muchova",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1599895971.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1686036156.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "42a37226b79c77d8812d96b2cbcc7f6f": {
-            "channelName": "Shelbourne vs Celtic",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/3854.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1567290671.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1583244525.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/15549.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
