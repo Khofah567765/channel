@@ -2,16 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "d6e4aadd46288ead8fe3ac330c1623c0": {
-            "channelName": "Karolina Muchova vs Cori Gauff",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1686036156.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1623060824.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "82341263a1ec598c35c599ea48c205cf": {
             "channelName": "Marta Kostyuk vs Linda Noskova",
             "contentType": "event_pertandingan",
@@ -29,6 +19,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1670707143.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1670707745.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "d6e4aadd46288ead8fe3ac330c1623c0": {
+            "channelName": "Karolina Muchova vs Cori Gauff",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1686036156.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1623060824.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
