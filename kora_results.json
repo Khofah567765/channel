@@ -1,36 +1,5 @@
 {
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
-    "channels": {
-        "127578a1e7360b208f9e58b250d13fd9": {
-            "channelName": "AS FAR Rabat vs Stade Marocain",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1583244525.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/15549.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "338540d98809697033a63aa5fcda44a4": {
-            "channelName": "Wimbledon vs Wimbledon",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1624841818.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1624841818.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "0b253f98c5737cd186b7de69620afea6": {
-            "channelName": "Olympiacos vs Rakow Czestochowa",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1566244087.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1689022207.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        }
-    }
+    "channels": {}
 }
