@@ -2,13 +2,23 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
+        "4d93905176256bcce1245c8ce0824db6": {
+            "channelName": "Spain vs Belgium",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1559702274.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1560287858.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "a22ec6d1e3e3a7a5ff8de39b1a00d2fc": {
-            "channelName": "Arthur Fery vs Crvena zvezda",
+            "channelName": "Arthur Fery vs Alexander Zverev",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1783640674.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1568841193.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1599850204.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -19,16 +29,6 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1623062312.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1582786720.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "4d93905176256bcce1245c8ce0824db6": {
-            "channelName": "Spain vs Belgium",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1559702274.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1560287858.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
