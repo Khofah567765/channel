@@ -2,6 +2,16 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
+        "9dcec5a603070fe1c839d82a057ffd73": {
+            "channelName": "Karolina Muchova vs Linda Noskova",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1686036156.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1783557591.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "c15a8718ac9ca1ce4eaa43b73c1ee2a8": {
             "channelName": "Spain U19 vs Germany U19",
             "contentType": "event_pertandingan",
