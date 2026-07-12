@@ -2,26 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "3fc4bd268cc12f0489a4721c1c4041a2": {
-            "channelName": "Argentina vs Switzerland",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1670707634.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1559701443.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "480126f66ba7b8cd064f15e3d34227fe": {
-            "channelName": "Conor McGregor vs Max Holloway",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1783778365.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1681551901.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "7e67fd12e98d1df3877855357da31f32": {
             "channelName": "De Graafschap vs AEK Athens",
             "contentType": "event_pertandingan",
@@ -39,6 +19,26 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1623062312.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1599850204.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "3fc4bd268cc12f0489a4721c1c4041a2": {
+            "channelName": "Argentina vs Switzerland",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1670707634.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1559701443.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "480126f66ba7b8cd064f15e3d34227fe": {
+            "channelName": "Conor McGregor vs Max Holloway",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1783778365.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1681551901.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
