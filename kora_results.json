@@ -2,16 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "7f5f6c0e9363c86d4fe1c3058dba0d8f": {
-            "channelName": "Sparta Praha vs Rangers",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1603991094.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1567290622.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "fdbbd586463820db97b92f251012d0f9": {
             "channelName": "Universitatea Cluj vs Dynamo Kyiv",
             "contentType": "event_pertandingan",
@@ -39,6 +29,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/136.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1688323838.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "7f5f6c0e9363c86d4fe1c3058dba0d8f": {
+            "channelName": "Sparta Praha vs Rangers",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1603991094.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1567290622.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
