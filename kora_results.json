@@ -2,7 +2,7 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "774ede34c2f2d4e233114fcab8a8a143": {
+        "b57a5c45160b7d292d56b0d9ffed77f3": {
             "channelName": "Botafogo vs Santos",
             "contentType": "event_pertandingan",
             "streamUrl": "",
@@ -12,7 +12,7 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "c95ae7064d40bee036f9d62ae60ceeb4": {
+        "827004cac1f7fe41cd87c5741be883a6": {
             "channelName": "Vitoria vs Vasco DA Gama",
             "contentType": "event_pertandingan",
             "streamUrl": "",
@@ -22,27 +22,27 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "7f5f6c0e9363c86d4fe1c3058dba0d8f": {
-            "channelName": "Sparta Praha vs Rangers",
+        "c419b6f637edfa17030039b024633b29": {
+            "channelName": "Formula 1 vs Formula 1",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1603991094.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1567290622.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "fdbbd586463820db97b92f251012d0f9": {
-            "channelName": "Universitatea Cluj vs Dynamo Kyiv",
+        "7dffb74423d239f2b8989e34e8bafdcc": {
+            "channelName": "Formula 1 vs Formula 1",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/2599.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1568919838.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "9387c3569d609fc46b9e3b65bec11735": {
+        "d1f24428a2e488494d1c14435d788f81": {
             "channelName": "Sarmiento Junin vs Boca Juniors",
             "contentType": "event_pertandingan",
             "streamUrl": "",
