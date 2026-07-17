@@ -2,16 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "6673296c6f3e1e09bd43c794b04059b2": {
-            "channelName": "Benfica vs Villarreal",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1564170539.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1557009636.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "1536ef3e54fa3a4a95b5bf9351839d25": {
             "channelName": "Bahia vs Chapecoense-sc",
             "contentType": "event_pertandingan",
@@ -59,6 +49,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1690321380.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1616.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "6673296c6f3e1e09bd43c794b04059b2": {
+            "channelName": "Benfica vs Villarreal",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1564170539.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1557009636.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
