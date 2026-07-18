@@ -2,7 +2,7 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "1536ef3e54fa3a4a95b5bf9351839d25": {
+        "0288a8e1ac8292b646f947c00b3ca3db": {
             "channelName": "Bahia vs Chapecoense-sc",
             "contentType": "event_pertandingan",
             "streamUrl": "",
@@ -12,7 +12,7 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "8ae54c031d73d23ecc06e2115e956006": {
+        "e2d191cdabdfdbe07b160d7745c5cca1": {
             "channelName": "Mirassol vs Gremio",
             "contentType": "event_pertandingan",
             "streamUrl": "",
@@ -22,7 +22,7 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "e0dc12c35772ec3f51b3dee427b827fe": {
+        "184f81ef663d296e6029aa1f6c7f3ca9": {
             "channelName": "Fluminense vs RB Bragantino",
             "contentType": "event_pertandingan",
             "streamUrl": "",
@@ -32,7 +32,7 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "cd393c19507b55378b729222fdc89694": {
+        "3d2990e507f114ea87b4a43d80682f18": {
             "channelName": "Nashville SC vs Atlanta United FC",
             "contentType": "event_pertandingan",
             "streamUrl": "",
@@ -42,7 +42,7 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "ce5cbcd747c009fab0a8c10057d70d09": {
+        "c1e27ca07ab7395fb06514be5732406e": {
             "channelName": "Los Angeles Galaxy vs Los Angeles FC",
             "contentType": "event_pertandingan",
             "streamUrl": "",
@@ -52,27 +52,7 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "6673296c6f3e1e09bd43c794b04059b2": {
-            "channelName": "Benfica vs Villarreal",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1564170539.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1557009636.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "d1f24428a2e488494d1c14435d788f81": {
-            "channelName": "Sarmiento Junin vs Boca Juniors",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1688323713.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1566244593.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "c419b6f637edfa17030039b024633b29": {
+        "032f8842abe1da8aa205a724d817191e": {
             "channelName": "Formula 1 vs Formula 1",
             "contentType": "event_pertandingan",
             "streamUrl": "",
@@ -82,17 +62,17 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "7dffb74423d239f2b8989e34e8bafdcc": {
-            "channelName": "Formula 1 vs Formula 1",
+        "07d9437e09abb49d889e1b15c6ae7122": {
+            "channelName": "France vs England",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1670707143.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1670707210.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "852818a9d9c4f3142622642100763c6a": {
+        "3b62639bd53b475fcb1273746f0646d7": {
             "channelName": "River Plate vs Aldosivi",
             "contentType": "event_pertandingan",
             "streamUrl": "",
