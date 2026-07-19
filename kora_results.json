@@ -2,16 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "4b88ee1b686a6ca0adee0e477b723719": {
-            "channelName": "Dricus Du Plessis vs Kamaru Usman",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1705713642.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1679092681.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "3c88a4d548e379551d6da9c370ac773a": {
             "channelName": "Formula 1 vs Formula 1",
             "contentType": "event_pertandingan",
