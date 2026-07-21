@@ -2,6 +2,16 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
+        "ec859e3f324615a54fafd083da156695": {
+            "channelName": "Atletico-MG vs Bahia",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1062.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1688241464.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "6fb857a13fb3efa32ee7d445cea59d5e": {
             "channelName": "Orlando Pirates vs Al-Ittihad",
             "contentType": "event_pertandingan",
@@ -19,16 +29,6 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1564441995.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/340.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "ec859e3f324615a54fafd083da156695": {
-            "channelName": "Atletico-MG vs Bahia",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1062.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1688241464.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
