@@ -2,6 +2,16 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
+        "f399d5b61defaccf27e84021067a6649": {
+            "channelName": "Napoli vs Arezzo",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1558306657.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/876.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "52e78328bb6230232bd3854ac2759fe8": {
             "channelName": "Rangers vs Saint Etienne",
             "contentType": "event_pertandingan",
@@ -29,16 +39,6 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1690321635.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1566243942.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "f399d5b61defaccf27e84021067a6649": {
-            "channelName": "Napoli vs Arezzo",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1558306657.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/876.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
