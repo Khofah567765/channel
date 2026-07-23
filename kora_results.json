@@ -2,6 +2,36 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
+        "ab3749f186e52e0b1d74f5fbebbac2b1": {
+            "channelName": "Club Bolivar vs Gremio",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1583845442.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1566243892.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "bf9df43ca85be9578e7589c357e8c13b": {
+            "channelName": "Botafogo vs Vitoria",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/120.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/136.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "cf87af0cb4feac402caa00ddf57e5733": {
+            "channelName": "Corinthians vs remo",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1570934037.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1198.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "324e28c91ecdf51f85a7a9850fbdbb4e": {
             "channelName": "Qarabag FK vs CSKA Sofia",
             "contentType": "event_pertandingan",
@@ -79,36 +109,6 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/702.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/Ajax.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "ab3749f186e52e0b1d74f5fbebbac2b1": {
-            "channelName": "Club Bolivar vs Gremio",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1583845442.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1566243892.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "bf9df43ca85be9578e7589c357e8c13b": {
-            "channelName": "Botafogo vs Vitoria",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/120.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/136.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "cf87af0cb4feac402caa00ddf57e5733": {
-            "channelName": "Corinthians vs remo",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1570934037.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1198.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
