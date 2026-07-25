@@ -12,36 +12,6 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "9e278ce97108f4525d1739ef2275090d": {
-            "channelName": "AZ Alkmaar vs Olympiacos",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1570062027.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1566244087.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "443d21ca171dd02c0ef018494ce3e1c6": {
-            "channelName": "Wehen Wiesbaden vs Bayern Munich",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1589715863.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1557535267.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "9f5152c358d9e14470896b8a0b4c76e0": {
-            "channelName": "Celtic vs Milan",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1567290671.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1556907818.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "058dbc5e0242b4ae6c6097f45cc7d704": {
             "channelName": "PSV Eindhoven vs Villarreal",
             "contentType": "event_pertandingan",
@@ -59,6 +29,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/534.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1565007758.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "4306cd8db0c74019465d4b8f740e70d4": {
+            "channelName": "Magomed Ankalaev vs Bogdan Guskov",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1705096985.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1784996128.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -109,6 +89,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1570933631.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/132.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "1236887206f17570f3ee1f0efdd90e68": {
+            "channelName": "Anthony Joshua vs Kristian Prenga",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1726871221.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1784995835.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -169,6 +159,36 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1823.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1556955966.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "9e278ce97108f4525d1739ef2275090d": {
+            "channelName": "AZ Alkmaar vs Olympiacos",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1570062027.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1566244087.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "443d21ca171dd02c0ef018494ce3e1c6": {
+            "channelName": "Wehen Wiesbaden vs Bayern Munich",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1589715863.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1557535267.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "9f5152c358d9e14470896b8a0b4c76e0": {
+            "channelName": "Celtic vs Milan",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1567290671.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1556907818.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
