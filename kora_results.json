@@ -12,36 +12,6 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "749d81801516079332d5b9d3cfb93b1f": {
-            "channelName": "Vasco DA Gama vs Mirassol",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1688323838.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/7848.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "34bd706f6855cdc8056ae0272b267507": {
-            "channelName": "Montreal Impact vs Inter Miami CF",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1614.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1658211721.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "eafa2ab34767d334813edc40d05c8861": {
-            "channelName": "Wrexham vs Leeds United",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1837.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1601156183.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "7e08cd8fc0d2ee0b9691e551c53ad266": {
             "channelName": "Auckland vs Tottenham",
             "contentType": "event_pertandingan",
