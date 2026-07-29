@@ -2,43 +2,23 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "bf652e4c7adf2080140e98dac1ca6870": {
-            "channelName": "Aston Villa vs Real Sociedad",
+        "32381bc486f2ac00a56bc686b14b73c2": {
+            "channelName": "Santos vs UCV",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1565365687.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1566062060.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1570933631.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/2840.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "f5339339ec850823bc87893b045813ab": {
-            "channelName": "Stoke City vs Everton",
+        "de73a36b5dbd500b5e71e3dceb3c76fa": {
+            "channelName": "Vasco DA Gama vs Independiente Medellin",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1566244371.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1565444838.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "821795180616942453c907f45e9c94ff": {
-            "channelName": "Chelsea vs Western Sydney Wanderers",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1557008970.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/939.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "7ea0605b0dfd5b9578a5b60cc5dc36ce": {
-            "channelName": "Udinese vs Shabab Al-Ahli Dubai",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1564236433.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1583495076.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1688323838.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1128.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
