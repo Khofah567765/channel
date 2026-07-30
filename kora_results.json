@@ -2,83 +2,13 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "1aefba4272efa39c967a373b04220b0c": {
+        "a75aac8f6079adb97e393a6de56bbf03": {
             "channelName": "Liverpool vs Wrexham",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1670707314.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1837.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "32381bc486f2ac00a56bc686b14b73c2": {
-            "channelName": "Santos vs UCV",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1570933631.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/2840.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "fa86620dcfedbc878cdac9ec8b6cc0e8": {
-            "channelName": "Tottenham vs Sydney FC",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1556824121.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1564442146.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "2c1322d5df82846429e1790605399c6f": {
-            "channelName": "Cerezo Osaka vs Borussia Dortmund",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/291.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1556983444.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "59a17aef198dd903899c2a351414a614": {
-            "channelName": "Atletico Madrid vs Getafe",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1564172667.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1556300765.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "b505fde263c8cce2e2ebe3d50b58411f": {
-            "channelName": "Al-Hilal Saudi vs MC Alger",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1565008904.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1582564150.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "8e680b6084d140fa8b6ee3607de96130": {
-            "channelName": "Bristol City vs Newcastle United",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1677576501.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1556955966.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "de73a36b5dbd500b5e71e3dceb3c76fa": {
-            "channelName": "Vasco DA Gama vs Independiente Medellin",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1688323838.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1128.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
