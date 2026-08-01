@@ -2,43 +2,63 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "dc95348e7054864e5121a472b5bfe46f": {
-            "channelName": "Birmingham City vs Barcelona",
+        "382bd434948b7bb51d768c71cef466b9": {
+            "channelName": "Chelsea vs Tottenham",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1605892731.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1557221057.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1557008970.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1556824121.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "af6321af4cf17969c6d4ad0a45079ecf": {
-            "channelName": "Juventus vs OGC Nice",
+        "7e6617bd15d9f6232c4c56a9acde57aa": {
+            "channelName": "FC Tokyo vs Borussia Dortmund",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1556907695.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1566726796.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/292.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1556983444.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "d1e5ed6ccc230b1b0b4dd115466b038e": {
-            "channelName": "Sporting CP vs Nottingham Forest",
+        "5b9ac5f1c1dca235b8b68dd5616865bb": {
+            "channelName": "Manchester City vs Inter",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1558220377.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1641679962.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1556300905.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1557751896.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "6d71c411dbc9b66ab72d321807ff08d4": {
-            "channelName": "Dundee United vs Rangers",
+        "db0585c730bfe7153963b8ce632b4008": {
+            "channelName": "Manchester Utd vs Atletico Madrid",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1680300288.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1567290622.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1556300891.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1564172667.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "46bce63b010460b194bbcda7c89dac97": {
+            "channelName": "Real Madrid vs Fiorentina",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1556300822.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1557535616.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "20601f573b25cd9fdc8a353cd07c7138": {
+            "channelName": "Inter Miami CF vs Columbus Crew",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1658211721.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1613.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
