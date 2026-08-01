@@ -2,6 +2,16 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
+        "9669df64ac78b87eac1b198d5fb4ecf9": {
+            "channelName": "Uros Medic vs Daniel Rodriguez",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1785609952.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1785610029.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "d94802ae71ee350f1529ae99a9365ff8": {
             "channelName": "Girona vs Arsenal",
             "contentType": "event_pertandingan",
@@ -9,16 +19,6 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1600200657.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1557009110.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "421b0d8571c05d7b4326b11c6760aaa4": {
-            "channelName": "Aberdeen vs Hearts",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1572179255.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1678238483.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -99,6 +99,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1556300822.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1557535616.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "421b0d8571c05d7b4326b11c6760aaa4": {
+            "channelName": "Aberdeen vs Hearts",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1572179255.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1678238483.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
