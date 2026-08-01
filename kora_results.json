@@ -2,16 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "9b425435528c9f6b5beea31b6d6c02f0": {
-            "channelName": "Cardiff City vs Roma",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1595803687.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1557010107.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "46bce63b010460b194bbcda7c89dac97": {
             "channelName": "Real Madrid vs Fiorentina",
             "contentType": "event_pertandingan",
@@ -99,6 +89,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1556300891.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1564172667.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "9b425435528c9f6b5beea31b6d6c02f0": {
+            "channelName": "Cardiff City vs Roma",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1595803687.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1557010107.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
