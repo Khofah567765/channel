@@ -12,6 +12,16 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
+        "792cfd31f1a6fb2aa5a517f40c044392": {
+            "channelName": "Ascoli vs Lazio",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1785669515.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1557009867.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "cac8150f2e1826df2295d7f499dd4e8a": {
             "channelName": "FC Volendam vs Ajax",
             "contentType": "event_pertandingan",
@@ -79,16 +89,6 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557010589.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1564444945.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "792cfd31f1a6fb2aa5a517f40c044392": {
-            "channelName": "Ascoli vs Lazio",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1785669515.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1557009867.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
