@@ -2,36 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "22f2b43fd5a1cfa753eb2639e4335a81": {
-            "channelName": "Hibernian vs Motherwell",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1678238414.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1679090360.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "68308f1e0192373cbefde894c3f6954a": {
-            "channelName": "PSV Eindhoven vs AZ Alkmaar",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1564240034.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1570062027.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "0fa0ae925bbaf21b60aceb36e816939e": {
-            "channelName": "Wrexham vs Sunderland",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1837.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1640107122.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "9a6523bc76c6c9d1b6494208d61d5401": {
             "channelName": "Galatasaray vs Rennes",
             "contentType": "event_pertandingan",
@@ -89,6 +59,36 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/258.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1681622482.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "22f2b43fd5a1cfa753eb2639e4335a81": {
+            "channelName": "Hibernian vs Motherwell",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1678238414.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1679090360.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "68308f1e0192373cbefde894c3f6954a": {
+            "channelName": "PSV Eindhoven vs AZ Alkmaar",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1564240034.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1570062027.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "0fa0ae925bbaf21b60aceb36e816939e": {
+            "channelName": "Wrexham vs Sunderland",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1837.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1640107122.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
