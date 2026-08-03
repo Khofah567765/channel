@@ -2,13 +2,23 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "555e81e0bf32c7158d90a99dbc3d9201": {
-            "channelName": "Liverpool vs Leeds United",
+        "488fa9918ba1bc0a4bfb0001e3a04504": {
+            "channelName": "Al-Hilal Saudi vs Al-Ahli Doha",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1670707314.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1601156183.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1565008904.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1596400234.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "ff026897747cbfb9448a819b9d7763b9": {
+            "channelName": "Celtic vs Dundee",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1567290671.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/253.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
