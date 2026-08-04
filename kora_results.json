@@ -2,16 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "2943c71385b6287ba3ea8be5876e8c6a": {
-            "channelName": "Al-Nassr vs Almeria",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1565008227.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1612221008.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "b9dc85cb54aac77c173c26f5bc567df7": {
             "channelName": "Sparta Praha vs Lyon",
             "contentType": "event_pertandingan",
@@ -49,6 +39,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1785843287.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1557535267.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "2943c71385b6287ba3ea8be5876e8c6a": {
+            "channelName": "Al-Nassr vs Almeria",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1565008227.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1612221008.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
