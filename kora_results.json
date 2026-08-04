@@ -2,16 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "bc069cdaa9d5867904e767b02c5d0f14": {
-            "channelName": "Jeju United FC vs Bayern Munich",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1785843287.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1557535267.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "2943c71385b6287ba3ea8be5876e8c6a": {
             "channelName": "Al-Nassr vs Almeria",
             "contentType": "event_pertandingan",
@@ -49,6 +39,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/57.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1594632021.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "bc069cdaa9d5867904e767b02c5d0f14": {
+            "channelName": "Jeju United FC vs Bayern Munich",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1785843287.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1557535267.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
