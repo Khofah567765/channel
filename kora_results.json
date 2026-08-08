@@ -2,6 +2,16 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
+        "9c1df503ff74ce4da209bd9f34e6726a": {
+            "channelName": "Ferencvaros vs Real Madrid",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1570134207.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1556300822.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "be9ec66758b624464b53ca42510e33bf": {
             "channelName": "Barcelona vs Nottingham Forest",
             "contentType": "event_pertandingan",
@@ -19,6 +29,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1564236433.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1557221057.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "356694744e8bb4239b6e141b6e337895": {
+            "channelName": "Vitoria Guimaraes vs Arouca",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1571881050.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1681621734.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -162,16 +182,6 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "9c1df503ff74ce4da209bd9f34e6726a": {
-            "channelName": "Ferencvaros vs Real Madrid",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1570134207.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1556300822.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "bf4a32b692884dd543fda3ad7066face": {
             "channelName": "Juventus vs Inter",
             "contentType": "event_pertandingan",
@@ -269,16 +279,6 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1564912293.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1557009898.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "356694744e8bb4239b6e141b6e337895": {
-            "channelName": "Vitoria Guimaraes vs Arouca",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1571881050.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1681621734.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
