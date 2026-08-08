@@ -2,16 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "e55695375d759b78e892ea00a2f82ac4": {
-            "channelName": "Manchester Utd vs Paris Saint-Germain",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1556300891.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1558219377.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "9c1df503ff74ce4da209bd9f34e6726a": {
             "channelName": "Ferencvaros vs Real Madrid",
             "contentType": "event_pertandingan",
@@ -19,16 +9,6 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1570134207.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1556300822.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "ddf45fc494ef8f1510832d037c50e2cf": {
-            "channelName": "FC Schalke 04 vs Atalanta",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1564912293.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1557009898.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -182,6 +162,16 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
+        "e55695375d759b78e892ea00a2f82ac4": {
+            "channelName": "Manchester Utd vs Paris Saint-Germain",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1556300891.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1558219377.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "bf4a32b692884dd543fda3ad7066face": {
             "channelName": "Juventus vs Inter",
             "contentType": "event_pertandingan",
@@ -269,6 +259,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1591650359.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1684046700.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "ddf45fc494ef8f1510832d037c50e2cf": {
+            "channelName": "FC Schalke 04 vs Atalanta",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1564912293.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1557009898.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
