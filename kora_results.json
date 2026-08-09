@@ -2,6 +2,36 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
+        "152f259937df7ddac84e3aee17217e98": {
+            "channelName": "Porto vs Alverca",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1558220341.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/4724.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "6b586fd0e746b59b1ca989ca7481aa8f": {
+            "channelName": "Palmeiras vs Internacional",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1566243942.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1566244981.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "73cc25821eab4b7cb0a2cf3bffccde39": {
+            "channelName": "Bahia vs Vasco DA Gama",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1688241464.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1688323838.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "91a1a7287a836006febc3dac016a32ba": {
             "channelName": "Benfica vs Academico Viseu",
             "contentType": "event_pertandingan",
@@ -149,36 +179,6 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1567290622.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1678238414.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "152f259937df7ddac84e3aee17217e98": {
-            "channelName": "Porto vs Alverca",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1558220341.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/4724.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "6b586fd0e746b59b1ca989ca7481aa8f": {
-            "channelName": "Palmeiras vs Internacional",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1566243942.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1566244981.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "73cc25821eab4b7cb0a2cf3bffccde39": {
-            "channelName": "Bahia vs Vasco DA Gama",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1688241464.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1688323838.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
