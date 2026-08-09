@@ -2,16 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "152f259937df7ddac84e3aee17217e98": {
-            "channelName": "Porto vs Alverca",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1558220341.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/4724.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "6b586fd0e746b59b1ca989ca7481aa8f": {
             "channelName": "Palmeiras vs Internacional",
             "contentType": "event_pertandingan",
@@ -179,6 +169,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1567290622.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1678238414.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "152f259937df7ddac84e3aee17217e98": {
+            "channelName": "Porto vs Alverca",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1558220341.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/4724.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
