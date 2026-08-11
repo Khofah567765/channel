@@ -2,46 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "3c8396f9e4674b64cde28b37f5d1904c": {
-            "channelName": "Nijmegen vs Olympiacos",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1628936187.jpg",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1566244087.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "f43a6edfdab9af9180d23f4de1caf19d": {
-            "channelName": "CSKA 1948 vs Panathinaikos",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1785885251.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1628896975.jpg",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "f25935bba0a40807fc42a8c0e0f7b542": {
-            "channelName": "SK Sturm Graz vs Fenerbahce",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1634787501.webp",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1564441995.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "6b9afeefd191777957ea92aad9ef808c": {
-            "channelName": "Lyon vs Sparta Praha",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1670707378.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1603991094.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "950ffc68e709fa0c3493e2040cf9df3c": {
             "channelName": "Boca Juniors vs Deportivo Recoleta",
             "contentType": "event_pertandingan",
@@ -89,6 +49,46 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1583494952.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1565007758.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "3c8396f9e4674b64cde28b37f5d1904c": {
+            "channelName": "Nijmegen vs Olympiacos",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1628936187.jpg",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1566244087.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "f43a6edfdab9af9180d23f4de1caf19d": {
+            "channelName": "CSKA 1948 vs Panathinaikos",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1785885251.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1628896975.jpg",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "f25935bba0a40807fc42a8c0e0f7b542": {
+            "channelName": "SK Sturm Graz vs Fenerbahce",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1634787501.webp",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1564441995.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "6b9afeefd191777957ea92aad9ef808c": {
+            "channelName": "Lyon vs Sparta Praha",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1670707378.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1603991094.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
