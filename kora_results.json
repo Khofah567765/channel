@@ -2,16 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "2e77fa1e4a170df313fa33ca2ad9fc06": {
-            "channelName": "Juventus vs Palermo",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1556907695.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/522.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "f6016f36dfda359af0932612b63a30f1": {
             "channelName": "Bodo Glimt vs Saint-Gilloise",
             "contentType": "event_pertandingan",
@@ -69,6 +59,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1688200083.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/473.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "2e77fa1e4a170df313fa33ca2ad9fc06": {
+            "channelName": "Juventus vs Palermo",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1556907695.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/522.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
