@@ -2,83 +2,13 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "eabef934a186923025b3dcde477b51ef": {
+        "46a8d5b922cae316f7cbd3cff5b8a1cd": {
             "channelName": "Inter Miami CF vs Leon",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1658211721.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/2289.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "491e4a1cf1ee2d7d5c22102c3139b924": {
-            "channelName": "Paris Saint-Germain vs Aston Villa",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1558219377.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1565365687.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "cdf8fc29043aaa80fb5f55dc2ddf7108": {
-            "channelName": "Newcastle United vs Everton",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1556955966.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1565444838.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "a3b764bf91beac776bdd43dee64d8f4c": {
-            "channelName": "Leeds United vs Manchester Utd",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1601156183.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1556300891.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "7bd83b3918d975d7fc54798f3a14640f": {
-            "channelName": "Arsenal vs Como",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1557009110.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/895.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "70792f4e698bea53fc84e492d8e693cb": {
-            "channelName": "Nottingham Forest vs Bayer 04 Leverkusen",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1641679962.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1566682146.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "d2b51239942af15ccfd591f2dc2cb5a7": {
-            "channelName": "Deportivo La Coruna vs Real Madrid",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/544.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1556300822.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "ea21085678b1b535b48ab036bbe3d004": {
-            "channelName": "Napoli vs Aris Thessalonikis",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1558306657.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1123.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
