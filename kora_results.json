@@ -2,6 +2,16 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
+        "26fbfef424f29e4181b4146944ffdf6c": {
+            "channelName": "Al Diriyah vs Al-Ahli Saudi",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/26738.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1565008831.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "93c4a1b22f224fe2d773a068d7e29613": {
             "channelName": "Rangers vs Jagiellonia",
             "contentType": "event_pertandingan",
@@ -39,16 +49,6 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/3854.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/Ajax.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "26fbfef424f29e4181b4146944ffdf6c": {
-            "channelName": "Al Diriyah vs Al-Ahli Saudi",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/26738.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1565008831.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
