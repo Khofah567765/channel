@@ -2,13 +2,33 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "46a8d5b922cae316f7cbd3cff5b8a1cd": {
-            "channelName": "Inter Miami CF vs Leon",
+        "93c4a1b22f224fe2d773a068d7e29613": {
+            "channelName": "Rangers vs Jagiellonia",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1658211721.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/2289.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1567290622.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/336.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "d29220389c1dcc544e228fae5f353fc5": {
+            "channelName": "Anderlecht vs PAOK",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1665053239.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1634785748.webp",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "84db225dd230e738b663bc088f2c7e44": {
+            "channelName": "Hearts vs Benfica",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1678238483.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1564170539.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
