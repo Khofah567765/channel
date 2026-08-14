@@ -2,53 +2,43 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "26fbfef424f29e4181b4146944ffdf6c": {
-            "channelName": "Al Diriyah vs Al-Ahli Saudi",
+        "5893629847c0abdaf3b34de385b01a23": {
+            "channelName": "Marseille vs Atletico Madrid",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/26738.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1565008831.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1564444624.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1564172667.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "93c4a1b22f224fe2d773a068d7e29613": {
-            "channelName": "Rangers vs Jagiellonia",
+        "f8c2fb4af9a3b470792ca9e20b611828": {
+            "channelName": "Galatasaray vs \u00c7orum FK",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1567290622.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/336.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1557010589.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/6343.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "d29220389c1dcc544e228fae5f353fc5": {
-            "channelName": "Anderlecht vs PAOK",
+        "a5a1ee71acad5d4ed96dd75a288ac0d3": {
+            "channelName": "Wolverhampton vs Blackburn Rovers",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1665053239.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1634785748.webp",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1557629426.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1566243481.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "84db225dd230e738b663bc088f2c7e44": {
-            "channelName": "Hearts vs Benfica",
+        "46a3ee36795570dd7ff4eb05d36ae262": {
+            "channelName": "Sporting CP vs Vitoria Guimaraes",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1678238483.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1564170539.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "f15aad70fa52673bced74881b8bc7a62": {
-            "channelName": "Shelbourne vs Ajax",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/3854.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/Ajax.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1558220377.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1571881050.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
