@@ -2,46 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "63f6aa6e093c09f8cbef1eca95c5dafb": {
-            "channelName": "Excelsior vs PSV Eindhoven",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/196.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1564240034.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "fb220d4fe2f58070c2ac685b4f754198": {
-            "channelName": "Al-Ittihad vs Al Kholood",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1565007758.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1739539923.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "a0fe54256e430ed53100040ab6b35f77": {
-            "channelName": "Al-Nassr vs Al-Fateh",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1565008227.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1572531350.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "a955effe74ee047793c857621c8e988a": {
-            "channelName": "Genclerbirligi vs Fenerbahce",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/997.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1564441995.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "c3a1aa4fd504fa445eda5867fcc1e901": {
             "channelName": "Fluminense vs Palmeiras",
             "contentType": "event_pertandingan",
@@ -229,6 +189,46 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1566134341.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1556300765.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "63f6aa6e093c09f8cbef1eca95c5dafb": {
+            "channelName": "Excelsior vs PSV Eindhoven",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/196.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1564240034.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "fb220d4fe2f58070c2ac685b4f754198": {
+            "channelName": "Al-Ittihad vs Al Kholood",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1565007758.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1739539923.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "a0fe54256e430ed53100040ab6b35f77": {
+            "channelName": "Al-Nassr vs Al-Fateh",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1565008227.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1572531350.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "a955effe74ee047793c857621c8e988a": {
+            "channelName": "Genclerbirligi vs Fenerbahce",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/997.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1564441995.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
