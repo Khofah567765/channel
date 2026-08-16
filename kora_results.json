@@ -22,36 +22,6 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "e6ca43d1e34d280d99b967749cc4dff5": {
-            "channelName": "Watford vs Southampton",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1557008994.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1565677491.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "e84391fcd88bc67414ada42d87c14049": {
-            "channelName": "Feyenoord vs Go Ahead Eagles",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1568918953.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1636256829.webp",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "c896db3c5ee95cb2f25a2900223067f1": {
-            "channelName": "FC Twente vs Zwolle",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1605992394.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1572482459.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "aa8b4adb627500930a4abadce6f2680f": {
             "channelName": "Ajax vs Heerenveen",
             "contentType": "event_pertandingan",
@@ -219,6 +189,36 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1556824121.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1566134670.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "e6ca43d1e34d280d99b967749cc4dff5": {
+            "channelName": "Watford vs Southampton",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1557008994.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1565677491.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "e84391fcd88bc67414ada42d87c14049": {
+            "channelName": "Feyenoord vs Go Ahead Eagles",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1568918953.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1636256829.webp",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "c896db3c5ee95cb2f25a2900223067f1": {
+            "channelName": "FC Twente vs Zwolle",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1605992394.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1572482459.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
