@@ -2,26 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "040a48cf1f850fa584da70f38ff5243c": {
-            "channelName": "ADO Den Haag vs Groningen",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1608419708.jpg",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1569538883.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "b6e2d494fcbaba884bc2de9c29ab18ad": {
-            "channelName": "Liverpool vs Como",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1670707314.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/895.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "39ee751b7d7390637f89b027659594b3": {
             "channelName": "Tottenham vs 1899 Hoffenheim",
             "contentType": "event_pertandingan",
@@ -49,16 +29,6 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1568918953.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1636256829.webp",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "c896db3c5ee95cb2f25a2900223067f1": {
-            "channelName": "FC Twente vs Zwolle",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1605992394.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1572482459.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -159,6 +129,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1566072957.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1566134389.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "b6e2d494fcbaba884bc2de9c29ab18ad": {
+            "channelName": "Liverpool vs Como",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1670707314.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/895.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
