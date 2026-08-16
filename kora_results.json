@@ -2,6 +2,16 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
+        "ccadc4ffe02cb7c0af506d6e14a4b26a": {
+            "channelName": "Islam Makhachev vs Ian Machado Garry",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1697854896.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1733448076.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "39ee751b7d7390637f89b027659594b3": {
             "channelName": "Tottenham vs 1899 Hoffenheim",
             "contentType": "event_pertandingan",
