@@ -12,6 +12,16 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
+        "1d86b62be9ec68948bad10e8b0db9543": {
+            "channelName": "Espanyol vs Levante",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1566072957.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1566134389.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "97178e619285f069f8031e9d7ead0401": {
             "channelName": "Besiktas vs Ey\u00fcpspor",
             "contentType": "event_pertandingan",
@@ -199,16 +209,6 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1564912293.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1556300822.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "1d86b62be9ec68948bad10e8b0db9543": {
-            "channelName": "Espanyol vs Levante",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1566072957.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1566134389.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
