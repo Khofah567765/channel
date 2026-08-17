@@ -2,16 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "7f4a55175529e46e2d0ffb79ca3b84fb": {
-            "channelName": "Al-Raed vs Al-Hilal Saudi",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1583494584.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1565008904.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "d2d5756085c573bc8e039cf214e66670": {
             "channelName": "Cardiff City vs Wrexham",
             "contentType": "event_pertandingan",
@@ -49,6 +39,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/10503.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1565008831.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "7f4a55175529e46e2d0ffb79ca3b84fb": {
+            "channelName": "Al-Raed vs Al-Hilal Saudi",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1583494584.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1565008904.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
