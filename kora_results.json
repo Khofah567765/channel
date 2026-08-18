@@ -2,16 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "0196516dc500c68722594412132a79ed": {
-            "channelName": "Deportivo Riestra vs Gimnasia L.P.",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1731682080.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/434.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "b3fcf9b55197d3e921ef9b94d6646d70": {
             "channelName": "Deportivo Recoleta vs Boca Juniors",
             "contentType": "event_pertandingan",
@@ -99,6 +89,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/646.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1603991300.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "0196516dc500c68722594412132a79ed": {
+            "channelName": "Deportivo Riestra vs Gimnasia L.P.",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1731682080.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/434.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
