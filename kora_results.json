@@ -2,16 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "fa18cdd847fd1174755b6e02e5b7c87a": {
-            "channelName": "Gimnasia M. vs Talleres Cordoba",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1066.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/456.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "711da2e33f63c9a856230bba9c1f1329": {
             "channelName": "FC Heidenheim vs Bayern Munich",
             "contentType": "event_pertandingan",
@@ -99,6 +89,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/473.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1688200083.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "fa18cdd847fd1174755b6e02e5b7c87a": {
+            "channelName": "Gimnasia M. vs Talleres Cordoba",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1066.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/456.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
