@@ -2,46 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "07051af1a991bc96d5a6c5e322a73581": {
-            "channelName": "Al Diriyah vs Al-Nassr",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/26738.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1565008227.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "893a21d9e7b9c83b7228757e478498fb": {
-            "channelName": "Dinamo Zagreb vs Viking",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1568840756.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/759.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "fe68476df35c5030484d7e204be1ba42": {
-            "channelName": "Fenerbahce vs Lyon",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1564441995.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1670707378.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "b2975b90d2d79f11d038d498fac3f3fb": {
-            "channelName": "Levski Sofia vs AEK Athens",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/646.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1603991300.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "0196516dc500c68722594412132a79ed": {
             "channelName": "Deportivo Riestra vs Gimnasia L.P.",
             "contentType": "event_pertandingan",
@@ -99,6 +59,46 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/2992.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1565007758.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "07051af1a991bc96d5a6c5e322a73581": {
+            "channelName": "Al Diriyah vs Al-Nassr",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/26738.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1565008227.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "893a21d9e7b9c83b7228757e478498fb": {
+            "channelName": "Dinamo Zagreb vs Viking",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1568840756.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/759.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "fe68476df35c5030484d7e204be1ba42": {
+            "channelName": "Fenerbahce vs Lyon",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1564441995.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1670707378.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "b2975b90d2d79f11d038d498fac3f3fb": {
+            "channelName": "Levski Sofia vs AEK Athens",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/646.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1603991300.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
