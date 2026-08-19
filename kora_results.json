@@ -12,6 +12,16 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
+        "90ef3535ec714cf2e673bfa6885cc8f2": {
+            "channelName": "Philadelphia Union vs Inter Miami CF",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1599.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1658211721.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "b6c07c9daa9e26abc551fd2e59d347cb": {
             "channelName": "Flamengo vs Cruzeiro",
             "contentType": "event_pertandingan",
