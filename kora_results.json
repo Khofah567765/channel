@@ -12,36 +12,6 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "c79937373cd0084d63aaafc862c3c7cb": {
-            "channelName": "Trabzonspor vs Ferencvaros",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1568920933.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1570134207.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "1d657e89e4c2af6e5a333df831f6f2c8": {
-            "channelName": "Besiktas vs Kauno \u017dalgiris",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1557010753.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1787231069.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "350104b677ac28de0c12bb7933eec3e9": {
-            "channelName": "Tromso vs Brighton",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/325.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1557009213.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "9d223d6e9af5a0e4f770bd981fa449a8": {
             "channelName": "PAOK vs Brann",
             "contentType": "event_pertandingan",
@@ -149,6 +119,36 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1566244935.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1688249348.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "c79937373cd0084d63aaafc862c3c7cb": {
+            "channelName": "Trabzonspor vs Ferencvaros",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1568920933.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1570134207.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "1d657e89e4c2af6e5a333df831f6f2c8": {
+            "channelName": "Besiktas vs Kauno \u017dalgiris",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1557010753.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1787231069.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "350104b677ac28de0c12bb7933eec3e9": {
+            "channelName": "Tromso vs Brighton",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/325.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1557009213.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
