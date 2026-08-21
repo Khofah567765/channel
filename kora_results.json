@@ -12,26 +12,6 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "6d72c6af1125a6473842ae55ae9b9e01": {
-            "channelName": "Abu Qair Semad vs National Bank of Egypt",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/15731.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1619405898.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "e07d9cf3bd428cb25d40ffa43cc11121": {
-            "channelName": "Zamalek vs Al-Ittihad Alexandria",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1557008685.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1569253085.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "8e851dd0b566116f5bbc5c3aace082d3": {
             "channelName": "Al-Qadisiyah vs Al-Ittihad",
             "contentType": "event_pertandingan",
@@ -109,6 +89,26 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1739540056.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1565008227.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "6d72c6af1125a6473842ae55ae9b9e01": {
+            "channelName": "Abu Qair Semad vs National Bank of Egypt",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/15731.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1619405898.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "e07d9cf3bd428cb25d40ffa43cc11121": {
+            "channelName": "Zamalek vs Al-Ittihad Alexandria",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1557008685.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1569253085.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
