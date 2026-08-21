@@ -12,16 +12,6 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "8e851dd0b566116f5bbc5c3aace082d3": {
-            "channelName": "Al-Qadisiyah vs Al-Ittihad",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1608541677.jpg",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1565007758.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "6fa5aa74ac60dec67d12cd15ef19b315": {
             "channelName": "Erzurumspor FK vs Galatasaray",
             "contentType": "event_pertandingan",
@@ -109,6 +99,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557008685.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1569253085.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "8e851dd0b566116f5bbc5c3aace082d3": {
+            "channelName": "Al-Qadisiyah vs Al-Ittihad",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1608541677.jpg",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1565007758.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
