@@ -12,6 +12,16 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
+        "0ad8307b89164f73761f25f54d116521": {
+            "channelName": "Wadi Degla vs FC Masr",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1599240541.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1570382853.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "e575912173258fe32bd5f0beac7d03b4": {
             "channelName": "Al Riyadh vs Al-Nassr",
             "contentType": "event_pertandingan",
@@ -89,16 +99,6 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1558221913.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1566062060.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "0ad8307b89164f73761f25f54d116521": {
-            "channelName": "Wadi Degla vs FC Masr",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1599240541.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1570382853.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
