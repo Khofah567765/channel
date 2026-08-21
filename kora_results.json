@@ -2,13 +2,13 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "e575912173258fe32bd5f0beac7d03b4": {
-            "channelName": "Al Riyadh vs Al-Nassr",
+        "dad6be7cbe13539de1a35ece76b171ed": {
+            "channelName": "Arsenal vs Coventry City",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1739540056.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1565008227.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1557009110.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1605892640.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -62,13 +62,13 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "dad6be7cbe13539de1a35ece76b171ed": {
-            "channelName": "Arsenal vs Coventry City",
+        "0277d69ea1a801cfcc38e38995a3521c": {
+            "channelName": "Hansa Rostock vs VfB Stuttgart",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1557009110.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1605892640.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1642560364.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1589715912.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -99,6 +99,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1599240541.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1570382853.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "e575912173258fe32bd5f0beac7d03b4": {
+            "channelName": "Al Riyadh vs Al-Nassr",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1739540056.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1565008227.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
