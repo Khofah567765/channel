@@ -22,6 +22,26 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
+        "e517906b19fefe552c06f19a5f3d6830": {
+            "channelName": "Fortuna Sittard vs AZ Alkmaar",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1604167391.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1570062027.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "2ca217a4ed0e2544837d6f4c633b0820": {
+            "channelName": "Maritimo vs Academico Viseu",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1591650359.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1787231333.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "5ee49159abc0529cc9426350dc1fc216": {
             "channelName": "Athletic Bilbao vs Sevilla",
             "contentType": "event_pertandingan",
@@ -309,26 +329,6 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1564444400.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1673346937.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "e517906b19fefe552c06f19a5f3d6830": {
-            "channelName": "Fortuna Sittard vs AZ Alkmaar",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1604167391.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1570062027.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "2ca217a4ed0e2544837d6f4c633b0820": {
-            "channelName": "Maritimo vs Academico Viseu",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1591650359.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1787231333.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
