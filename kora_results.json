@@ -22,16 +22,6 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "31402444999e2bcb3e85460bf2500952": {
-            "channelName": "Wehen Wiesbaden vs Bayer 04 Leverkusen",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1589715863.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1566682146.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "ed57d56262326a54f63f6812702d5782": {
             "channelName": "Lincoln City vs Portsmouth",
             "contentType": "event_pertandingan",
@@ -72,23 +62,13 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "21da1d6c1b0b0c90b7dcf0fbe82aa5b6": {
-            "channelName": "Rangers vs St. Mirren",
+        "63676092c51bf190de85105d258ca5e4": {
+            "channelName": "West Ham United vs Charlton Athletic",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1567290622.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1677977219.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "b3ed059d008c24c81eda8d39f8bdc48f": {
-            "channelName": "ST Johnstone vs Celtic",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/258.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1567290671.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1564444400.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1673346937.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -339,6 +319,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1658211721.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1601.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "31402444999e2bcb3e85460bf2500952": {
+            "channelName": "Wehen Wiesbaden vs Bayer 04 Leverkusen",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1589715863.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1566682146.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
