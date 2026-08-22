@@ -2,6 +2,16 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
+        "7a61e69f201ffbe3801e54600c89d187": {
+            "channelName": "Hull City vs Manchester Utd",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1566243393.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1556300891.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "1d79fb6079a228484d25d25684f9950a": {
             "channelName": "Formula 1 vs Formula 1",
             "contentType": "event_pertandingan",
@@ -19,16 +29,6 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1589715863.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1566682146.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "7a61e69f201ffbe3801e54600c89d187": {
-            "channelName": "Hull City vs Manchester Utd",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1566243393.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1556300891.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
