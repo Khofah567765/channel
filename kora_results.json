@@ -32,6 +32,16 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
+        "ad5c659351daa7e7578dd2149e9b5b68": {
+            "channelName": "Al-Ahli Saudi vs Abha",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1565008831.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1582236851.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "872854b946a3edc4c9167c2a9cf04bb6": {
             "channelName": "Fenerbahce vs Konyaspor",
             "contentType": "event_pertandingan",
@@ -329,16 +339,6 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557393646.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1556956205.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "ad5c659351daa7e7578dd2149e9b5b68": {
-            "channelName": "Al-Ahli Saudi vs Abha",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1565008831.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1582236851.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
