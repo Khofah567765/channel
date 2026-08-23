@@ -22,13 +22,13 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "37535e2842da23d61779cdca2e6e58ad": {
-            "channelName": "Formula 1 vs Formula 1",
+        "9bd083dc6035bd93ea19376b4f58154e": {
+            "channelName": "Frosinone vs Juventus",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1558222041.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1556907695.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -89,16 +89,6 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1568920933.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1558222351.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "9bd083dc6035bd93ea19376b4f58154e": {
-            "channelName": "Frosinone vs Juventus",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1558222041.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1556907695.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -289,6 +279,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1570198515.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1557010340.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "37535e2842da23d61779cdca2e6e58ad": {
+            "channelName": "Formula 1 vs Formula 1",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
