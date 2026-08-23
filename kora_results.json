@@ -2,16 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "6bc9fc4951809f270188335b1aa7a93f": {
-            "channelName": "Manchester City vs Bournemouth",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1556300905.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1566428704.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "37535e2842da23d61779cdca2e6e58ad": {
             "channelName": "Formula 1 vs Formula 1",
             "contentType": "event_pertandingan",
@@ -19,6 +9,36 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1639292533.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "29e3e9ee746c39cc1c9ab9b01a5be152": {
+            "channelName": "Go Ahead Eagles vs ADO Den Haag",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1636256829.webp",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1608419708.jpg",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "d821f2078028c9c6020403e59f17f3d8": {
+            "channelName": "West Bromwich Albion vs Burnley",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1583233658.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1565677386.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "0b3ca7fefe8c423c2fb09626d18c4586": {
+            "channelName": "PSV Eindhoven vs Groningen",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1564240034.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1569538883.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -32,13 +52,13 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "0b3ca7fefe8c423c2fb09626d18c4586": {
-            "channelName": "PSV Eindhoven vs Groningen",
+        "6bc9fc4951809f270188335b1aa7a93f": {
+            "channelName": "Manchester City vs Bournemouth",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1564240034.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1569538883.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1556300905.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1566428704.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -269,26 +289,6 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1566245104.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/438.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "29e3e9ee746c39cc1c9ab9b01a5be152": {
-            "channelName": "Go Ahead Eagles vs ADO Den Haag",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1636256829.webp",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1608419708.jpg",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "d821f2078028c9c6020403e59f17f3d8": {
-            "channelName": "West Bromwich Albion vs Burnley",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1583233658.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1565677386.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
