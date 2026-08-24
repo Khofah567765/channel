@@ -1,16 +1,5 @@
 {
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
-    "channels": {
-        "ff7bc2d47ed8bc5f4cfee57318d50938": {
-            "channelName": "River Plate vs Velez Sarsfield",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1566245104.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/438.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        }
-    }
+    "channels": {}
 }
