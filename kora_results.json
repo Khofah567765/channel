@@ -2,26 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "98318ee20bdedd95f01cba1d47ef92c4": {
-            "channelName": "Al-Ettifaq vs Al-Nassr",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1582237044.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1565008227.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "08e7a7b8922da164342ffddc26d1f29b": {
-            "channelName": "Al-Shabab vs Al Riyadh",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1569537759.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1739540056.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "0e6500b2448f5ae0bc9cc4392515fdef": {
             "channelName": "Southampton vs West Ham United",
             "contentType": "event_pertandingan",
@@ -119,6 +99,26 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1569516699.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1583494772.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "98318ee20bdedd95f01cba1d47ef92c4": {
+            "channelName": "Al-Ettifaq vs Al-Nassr",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1582237044.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1565008227.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "08e7a7b8922da164342ffddc26d1f29b": {
+            "channelName": "Al-Shabab vs Al Riyadh",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1569537759.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1739540056.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
