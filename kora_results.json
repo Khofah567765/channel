@@ -2,26 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "ca0e021ef37b5830e94cd27dbc5d5385": {
-            "channelName": "Abha vs Al Khaleej Saihat",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1582236851.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1741967325.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "e3ef7a264c30a4126bb3764a83af5b88": {
-            "channelName": "Al-Taawoun vs Al-Fayha",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1569516699.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1583494772.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "98318ee20bdedd95f01cba1d47ef92c4": {
             "channelName": "Al-Ettifaq vs Al-Nassr",
             "contentType": "event_pertandingan",
@@ -119,6 +99,26 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1600908613.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1628936187.jpg",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "ca0e021ef37b5830e94cd27dbc5d5385": {
+            "channelName": "Abha vs Al Khaleej Saihat",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1582236851.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1741967325.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "e3ef7a264c30a4126bb3764a83af5b88": {
+            "channelName": "Al-Taawoun vs Al-Fayha",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1569516699.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1583494772.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
