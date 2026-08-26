@@ -12,6 +12,16 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
+        "1f10bfcbe94525a2b113eafd6d28289d": {
+            "channelName": "National Bank of Egypt vs Zamalek",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1619405898.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1557008685.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "979f6b7262c5fc7c1d2e421e015910af": {
             "channelName": "Al Diriyah vs Al Kholood",
             "contentType": "event_pertandingan",
