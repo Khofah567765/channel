@@ -2,6 +2,46 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
+        "810a43cf5c8c584570a13559bfe1b0b5": {
+            "channelName": "Barcelona vs Athletic Bilbao",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1557221057.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1558223294.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "585fba6e48ce321be1af576541b32e8e": {
+            "channelName": "Fulham vs AFC Wimbledon",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1595803736.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1333.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "4052f37f24afd9755541e1e815f8db6e": {
+            "channelName": "Chelsea vs Luton Town",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1557008970.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1600801178.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "c5075d202739aed103bc308c06b421c5": {
+            "channelName": "Ferencvaros vs Trabzonspor",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1570134207.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1568920933.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "267d68ba98a2367029e17763b586186f": {
             "channelName": "FK Jablonec vs Rangers",
             "contentType": "event_pertandingan",
@@ -62,26 +102,6 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "4052f37f24afd9755541e1e815f8db6e": {
-            "channelName": "Chelsea vs Luton Town",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1557008970.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1600801178.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "c5075d202739aed103bc308c06b421c5": {
-            "channelName": "Ferencvaros vs Trabzonspor",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1570134207.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1568920933.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "64f7d30026476958c5e112659bf63fa7": {
             "channelName": "Brighton vs Tromso",
             "contentType": "event_pertandingan",
@@ -89,26 +109,6 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557009213.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/325.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "810a43cf5c8c584570a13559bfe1b0b5": {
-            "channelName": "Barcelona vs Athletic Bilbao",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1557221057.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1558223294.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "585fba6e48ce321be1af576541b32e8e": {
-            "channelName": "Fulham vs AFC Wimbledon",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1595803736.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1333.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
