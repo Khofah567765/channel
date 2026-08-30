@@ -32,16 +32,6 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
-        "628f720b96d5e3ede0671e7fabeab680": {
-            "channelName": "Deportivo La Coruna vs Valencia",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/544.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1557393646.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "d2c9e6fc9d1f28fb3d72711ed9730ccb": {
             "channelName": "Samsunspor vs Fenerbahce",
             "contentType": "event_pertandingan",
@@ -209,6 +199,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1558306657.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/895.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "628f720b96d5e3ede0671e7fabeab680": {
+            "channelName": "Deportivo La Coruna vs Valencia",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/544.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1557393646.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
