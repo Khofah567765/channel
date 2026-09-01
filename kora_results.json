@@ -2,26 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "05eacab2c6a0f9c25adbaa55c06e5cd2": {
-            "channelName": "Talaea El-Gaish vs FC Masr",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1599382443.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1570382853.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "a6f05d01ea111fa30deb07f2de1bf4b5": {
-            "channelName": "Ghazl El Mahalla vs ENPPI",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1608259706.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1609583202.jpg",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "e421a630b8d10b5843d12f5874b8ed49": {
             "channelName": "Parma vs Cremonese",
             "contentType": "event_pertandingan",
@@ -89,6 +69,26 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1556907778.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1627681258.jpg",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "05eacab2c6a0f9c25adbaa55c06e5cd2": {
+            "channelName": "Talaea El-Gaish vs FC Masr",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1599382443.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1570382853.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "a6f05d01ea111fa30deb07f2de1bf4b5": {
+            "channelName": "Ghazl El Mahalla vs ENPPI",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1608259706.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1609583202.jpg",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
