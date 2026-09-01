@@ -2,36 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "e421a630b8d10b5843d12f5874b8ed49": {
-            "channelName": "Parma vs Cremonese",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1557762849.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1661139489.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "3b894e30d40e7a5ec1cee53b903e1cab": {
-            "channelName": "Wadi Degla vs Olympic El Qanah",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1599240541.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/13822.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "47bf6ab5d210baf6d955a842a68de59a": {
-            "channelName": "Al-Hilal Saudi vs Al-Ahli Saudi",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1565008904.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1565008831.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "9dc528715c6026031f57b7b6c7460042": {
             "channelName": "HEBC vs Borussia Dortmund",
             "contentType": "event_pertandingan",
@@ -89,6 +59,36 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1608259706.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1609583202.jpg",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "e421a630b8d10b5843d12f5874b8ed49": {
+            "channelName": "Parma vs Cremonese",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1557762849.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1661139489.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "3b894e30d40e7a5ec1cee53b903e1cab": {
+            "channelName": "Wadi Degla vs Olympic El Qanah",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1599240541.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/13822.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "47bf6ab5d210baf6d955a842a68de59a": {
+            "channelName": "Al-Hilal Saudi vs Al-Ahli Saudi",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1565008904.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1565008831.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
