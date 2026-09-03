@@ -2,13 +2,73 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "4239ffaaf2505881aba98ccd111f8efc": {
-            "channelName": "Flamengo vs Mirassol",
+        "f8684912a8db8d7d5ad3678dff43064b": {
+            "channelName": "Palermo vs Mantova",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1566244935.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/7848.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/522.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1787231161.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "1a07d1b2fc556602f10e4b40c90b89e1": {
+            "channelName": "Al Ahly vs Smouha",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1563975183.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1569252347.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "defe404c278950bd7485e541f407b944": {
+            "channelName": "Panathinaikos vs Niki Volos",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1628896975.jpg",
+            "team2Logo": "https://img.kora-api.space/uploads/team/5056.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "e1fc31b336f8d1979fc776ea833c0fd5": {
+            "channelName": "Al Diriyah vs Al-Qadisiyah",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1787231298.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1608541677.jpg",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "f76663df5262f4aeaa0b41a01dcee6ef": {
+            "channelName": "Hibernian vs Hearts",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1678238414.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1678238483.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "6c6c84eb860d77de025f6ceabcc9cf53": {
+            "channelName": "Cagliari vs Chievo Verona",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1557535481.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1557752013.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "095e4c7f23652c52f44432a2cf68d051": {
+            "channelName": "Real Sociedad vs Celta Vigo",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1566062060.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1556956205.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
