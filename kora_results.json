@@ -2,26 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "b480e45559d07c1abdec7395f4b63d70": {
-            "channelName": "Cagliari vs Lecce",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1557535481.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1566725911.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "bfb954574face3b362b42b9fb5f874d4": {
-            "channelName": "Getafe vs Celta Vigo",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1556300765.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1556956205.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "5d3239a39ac4b0924a4fbb772cd29613": {
             "channelName": "Al-Hilal Saudi vs NEOM",
             "contentType": "event_pertandingan",
@@ -49,6 +29,26 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1603455181.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1566062060.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "b480e45559d07c1abdec7395f4b63d70": {
+            "channelName": "Cagliari vs Lecce",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1557535481.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1566725911.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "bfb954574face3b362b42b9fb5f874d4": {
+            "channelName": "Getafe vs Celta Vigo",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1556300765.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1556956205.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
