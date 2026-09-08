@@ -2,66 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "26aaf7ccbd60d5528a4bc2a65be043d6": {
-            "channelName": "Club Brugge vs Aston Villa",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1566249662.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1565365687.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "1fb12dbb082e7c975e684159ba773121": {
-            "channelName": "AEK Athens vs LASK Linz",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1603991300.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1566249611.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "e783711b34f0904e5940b82e27c12a86": {
-            "channelName": "Zamalek vs Abu Qair Semad",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1557008685.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/15731.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "3c1421986b10d54ad983d0ef3707b32b": {
-            "channelName": "Smouha vs Ceramica Cleopatra",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1569252347.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1610099110.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "8662353b9f62b35a08ce88fef307423f": {
-            "channelName": "Al-Qadisiyah vs Al-Ahli Saudi",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1608541677.jpg",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1565008831.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "535ba38a92c37e863bf593e7c61ed818": {
-            "channelName": "Al-Ittihad vs Al-Fayha",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1565007758.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1583494772.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "f2eb1a7ac9091f6b81cda94deb1c8d04": {
             "channelName": "Real Madrid vs Inter",
             "contentType": "event_pertandingan",
@@ -109,6 +49,76 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1661229701.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1564444400.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "b411b827fcddfe60d3875c2f0a90889c": {
+            "channelName": "Millwall vs Newcastle United",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1619230710.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1556955966.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "8662353b9f62b35a08ce88fef307423f": {
+            "channelName": "Al-Qadisiyah vs Al-Ahli Saudi",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1608541677.jpg",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1565008831.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "535ba38a92c37e863bf593e7c61ed818": {
+            "channelName": "Al-Ittihad vs Al-Fayha",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1565007758.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1583494772.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "26aaf7ccbd60d5528a4bc2a65be043d6": {
+            "channelName": "Club Brugge vs Aston Villa",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1566249662.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1565365687.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "1fb12dbb082e7c975e684159ba773121": {
+            "channelName": "AEK Athens vs LASK Linz",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1603991300.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1566249611.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "e783711b34f0904e5940b82e27c12a86": {
+            "channelName": "Zamalek vs Abu Qair Semad",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1557008685.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/15731.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "3c1421986b10d54ad983d0ef3707b32b": {
+            "channelName": "Smouha vs Ceramica Cleopatra",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1569252347.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1610099110.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
