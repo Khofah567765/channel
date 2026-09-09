@@ -2,6 +2,26 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
+        "1b91b02cc741e2563de14a7106fd9d7d": {
+            "channelName": "Barcelona vs Feyenoord",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1557221057.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1568918953.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "c41f04ff36438e2aefc368ef6d680fe3": {
+            "channelName": "VfB Stuttgart vs Viking",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1589715912.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/759.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "2848f8398faef9adf8eb8d4381a7c594": {
             "channelName": "Pyramids FC vs El Gouna FC",
             "contentType": "event_pertandingan",
@@ -29,26 +49,6 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1739539923.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1569537759.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "1b91b02cc741e2563de14a7106fd9d7d": {
-            "channelName": "Barcelona vs Feyenoord",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1557221057.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1568918953.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "c41f04ff36438e2aefc368ef6d680fe3": {
-            "channelName": "VfB Stuttgart vs Viking",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1589715912.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/759.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
