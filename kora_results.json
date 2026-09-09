@@ -52,6 +52,26 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
+        "3dadafb8d0d4a224ed5624b6d9cf4dbb": {
+            "channelName": "Al-Fateh vs Al Diriyah",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1572531350.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1787231298.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "27bda2e51ef31b761966fc93f3ca94c0": {
+            "channelName": "Al-Nassr vs Abha",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1565008227.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1582236851.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "01bc9b264956eb832f6e05b9cece13c3": {
             "channelName": "Rangers vs St. Mirren",
             "contentType": "event_pertandingan",
@@ -169,26 +189,6 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1609583202.jpg",
             "team2Logo": "https://img.kora-api.space/uploads/team/1570382853.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "3dadafb8d0d4a224ed5624b6d9cf4dbb": {
-            "channelName": "Al-Fateh vs Al Diriyah",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1572531350.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1787231298.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "27bda2e51ef31b761966fc93f3ca94c0": {
-            "channelName": "Al-Nassr vs Abha",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1565008227.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1582236851.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
