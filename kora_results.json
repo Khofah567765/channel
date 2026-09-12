@@ -2,46 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "9532e61cc2f46dc813116c99ef9e1758": {
-            "channelName": "Derby County vs Birmingham City",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1583370940.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1605892731.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "79612eb5fa7f3bd197a55c47fb26f585": {
-            "channelName": "Racing Santander vs Deportivo Alaves",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/4665.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1566134341.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "f41d7e01bcfe045580a6e0bc38d952af": {
-            "channelName": "Genoa vs Frosinone",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1557010059.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1558222041.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "1a0c0b25ae980ebca671e775b82ccec2": {
-            "channelName": "Borussia Dortmund vs Paderborn 07",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1556983444.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1569691791.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "9b7205c8b759e94170170e8255ba77c0": {
             "channelName": "Aston Villa vs Nottingham Forest",
             "contentType": "event_pertandingan",
@@ -89,6 +49,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1565444750.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/57.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "1a0c0b25ae980ebca671e775b82ccec2": {
+            "channelName": "Borussia Dortmund vs Paderborn 07",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1556983444.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1569691791.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -279,6 +249,36 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1658211721.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/9569.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "9532e61cc2f46dc813116c99ef9e1758": {
+            "channelName": "Derby County vs Birmingham City",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1583370940.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1605892731.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "79612eb5fa7f3bd197a55c47fb26f585": {
+            "channelName": "Racing Santander vs Deportivo Alaves",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/4665.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1566134341.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "f41d7e01bcfe045580a6e0bc38d952af": {
+            "channelName": "Genoa vs Frosinone",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1557010059.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1558222041.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
