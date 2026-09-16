@@ -2,36 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "5c7b41a0a0086a67de250fc7bd2b80bf": {
-            "channelName": "El Gouna FC vs Petrojet",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1601156928.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1656752193.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "364d1a3fd936398c4c5840c94e03685d": {
-            "channelName": "US Ben Guerdane vs CS Sfaxien",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1571879444.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/css.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "c38ac006b8cfa41669df330028381a38": {
-            "channelName": "ES Zarzis vs US Monastir",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/989.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1557536048.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "03fe35a0c96f4227159b6491a8bd187f": {
             "channelName": "Ararat-Armenia vs Sparta Praha",
             "contentType": "event_pertandingan",
@@ -229,6 +199,36 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1570933882.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1566244593.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "5c7b41a0a0086a67de250fc7bd2b80bf": {
+            "channelName": "El Gouna FC vs Petrojet",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1601156928.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1656752193.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "364d1a3fd936398c4c5840c94e03685d": {
+            "channelName": "US Ben Guerdane vs CS Sfaxien",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1571879444.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/css.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "c38ac006b8cfa41669df330028381a38": {
+            "channelName": "ES Zarzis vs US Monastir",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/989.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1557536048.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
