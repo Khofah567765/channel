@@ -2,46 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "5182216515f9d70b23fd829479084208": {
-            "channelName": "OFI vs 1899 Hoffenheim",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1124.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1566134670.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "7f87213029e16d3aefe41869935706a8": {
-            "channelName": "Levski Sofia vs Red Bull Salzburg",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/646.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1564442433.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "f5064662d048e211553fc08f7eb815eb": {
-            "channelName": "Real Betis vs Getafe",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1558221913.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1556300765.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "29fe9cf50378c705e7d5345fe6ff7eff": {
-            "channelName": "ENPPI vs Pyramids FC",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1609583202.jpg",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1571255818.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "2bb837373de3930465fc85014abf133b": {
             "channelName": "Manchester City vs Norwich City",
             "contentType": "event_pertandingan",
@@ -139,6 +99,46 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1609491619.jpg",
             "team2Logo": "https://img.kora-api.space/uploads/team/1559557337.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "5182216515f9d70b23fd829479084208": {
+            "channelName": "OFI vs 1899 Hoffenheim",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1124.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1566134670.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "7f87213029e16d3aefe41869935706a8": {
+            "channelName": "Levski Sofia vs Red Bull Salzburg",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/646.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1564442433.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "f5064662d048e211553fc08f7eb815eb": {
+            "channelName": "Real Betis vs Getafe",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1558221913.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1556300765.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "29fe9cf50378c705e7d5345fe6ff7eff": {
+            "channelName": "ENPPI vs Pyramids FC",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1609583202.jpg",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1571255818.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
