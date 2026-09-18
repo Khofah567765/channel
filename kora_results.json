@@ -2,6 +2,16 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
+        "78cc138dad8525fae706bc08bf4267ad": {
+            "channelName": "New York City FC vs New York Red Bulls",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1604.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1659145738.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "4d7ab8271e8b04819f96aacd7ffd16aa": {
             "channelName": "Bayern Munich vs Union Berlin",
             "contentType": "event_pertandingan",
@@ -69,16 +79,6 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1566072957.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1603455181.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "78cc138dad8525fae706bc08bf4267ad": {
-            "channelName": "New York City FC vs New York Red Bulls",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1604.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1659145738.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
