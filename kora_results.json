@@ -2,16 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "36120149a66acec6768dd006768181a7": {
-            "channelName": "Brighton vs Arsenal",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1557009213.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1557009110.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "7a9e2fd8ecd7cada9d95a7bc296678c3": {
             "channelName": "Roma vs Inter",
             "contentType": "event_pertandingan",
@@ -19,36 +9,6 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557010107.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1557751896.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "146a67db668c4b39bd39a53bbb71875d": {
-            "channelName": "Everton vs Ipswich",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1565444838.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/57.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "e1b40c1d1e51153e821ecfe441d91aa7": {
-            "channelName": "Newcastle United vs Hull City",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1556955966.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1566243393.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "0d009832e2ef7127793bd6e3ce6727e1": {
-            "channelName": "Athletic Bilbao vs Deportivo Alaves",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1558223294.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1566134341.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -282,6 +242,16 @@
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
+        "36120149a66acec6768dd006768181a7": {
+            "channelName": "Brighton vs Arsenal",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1557009213.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1557009110.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
         "2e4237a4462febd80ec31738ea65766e": {
             "channelName": "Mamelodi Sundowns vs Al-Ahli Saudi",
             "contentType": "event_pertandingan",
@@ -289,6 +259,26 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1556302828.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1565008831.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "146a67db668c4b39bd39a53bbb71875d": {
+            "channelName": "Everton vs Ipswich",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1565444838.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/57.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "e1b40c1d1e51153e821ecfe441d91aa7": {
+            "channelName": "Newcastle United vs Hull City",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1556955966.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1566243393.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -379,6 +369,16 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1557391571.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/1570290754.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "0d009832e2ef7127793bd6e3ce6727e1": {
+            "channelName": "Athletic Bilbao vs Deportivo Alaves",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1558223294.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1566134341.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
