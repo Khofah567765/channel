@@ -11,6 +11,26 @@
             "team2Logo": "https://img.kora-api.space/uploads/team/1564170539.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "da2e3be316d890fb6fa48a6741cc9861": {
+            "channelName": "Aldosivi vs Atletico Tucuman",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/463.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/455.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "7b27ef8db086e873256afad4ccaf08c7": {
+            "channelName": "Barracas Central vs Independ. Rivadavia",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/2432.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/473.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
     }
 }
