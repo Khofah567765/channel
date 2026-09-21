@@ -2,13 +2,13 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "4111aba3db4e005368db2a869144552f": {
-            "channelName": "Porto vs Benfica",
+        "7b27ef8db086e873256afad4ccaf08c7": {
+            "channelName": "Barracas Central vs Independ. Rivadavia",
             "contentType": "event_pertandingan",
             "streamUrl": "",
             "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1558220341.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1564170539.png",
+            "team1Logo": "https://img.kora-api.space/uploads/team/2432.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/473.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         },
@@ -19,16 +19,6 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/463.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/455.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "7b27ef8db086e873256afad4ccaf08c7": {
-            "channelName": "Barracas Central vs Independ. Rivadavia",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/2432.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/473.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
