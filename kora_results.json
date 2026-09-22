@@ -2,26 +2,6 @@
     "category_name": "EVENT BEIN ARAB",
     "order": 2,
     "channels": {
-        "e54cb0d256ddf01eb6eee4ff8f6fd650": {
-            "channelName": "Bayern Munich W vs Manchester City W",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/1860.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/1854.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
-        "a1f525a6c1f643d8ac13101304be5135": {
-            "channelName": "Inter Milano W vs H\u00e4cken",
-            "contentType": "event_pertandingan",
-            "streamUrl": "",
-            "status": "scheduled",
-            "team1Logo": "https://img.kora-api.space/uploads/team/7533.png",
-            "team2Logo": "https://img.kora-api.space/uploads/team/16483.png",
-            "referer": "https://vsys.kora-top.zip/",
-            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-        },
         "3d2124c0f4392674437689cd7edb6d15": {
             "channelName": "Real Madrid W vs Paris Saint Germain W",
             "contentType": "event_pertandingan",
@@ -39,6 +19,26 @@
             "status": "scheduled",
             "team1Logo": "https://img.kora-api.space/uploads/team/1850.png",
             "team2Logo": "https://img.kora-api.space/uploads/team/13982.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "e54cb0d256ddf01eb6eee4ff8f6fd650": {
+            "channelName": "Bayern Munich W vs Manchester City W",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/1860.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/1854.png",
+            "referer": "https://vsys.kora-top.zip/",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        },
+        "a1f525a6c1f643d8ac13101304be5135": {
+            "channelName": "Inter Milano W vs H\u00e4cken",
+            "contentType": "event_pertandingan",
+            "streamUrl": "",
+            "status": "scheduled",
+            "team1Logo": "https://img.kora-api.space/uploads/team/7533.png",
+            "team2Logo": "https://img.kora-api.space/uploads/team/16483.png",
             "referer": "https://vsys.kora-top.zip/",
             "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
         }
